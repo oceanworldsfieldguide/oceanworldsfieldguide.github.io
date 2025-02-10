@@ -1,5 +1,7 @@
 # Welcome to the Ocean Worlds Field Guild
 
+![ocean worlds](oceans.jpeg)
+
 This is currently just a working sample. 
 
 It shows off a few of the major file types, as well as some sample content.
