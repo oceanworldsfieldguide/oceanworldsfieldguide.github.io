@@ -1,11 +1,10 @@
-# Welcome to the Ocean Worlds Field Guild
+# Welcome to the Ocean Worlds Field Guide
 
-This is currently just a working sample. 
+![ocean worlds](static/oceans.jpeg)
 
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Willow Alison and Patrick working now.
 
-Check out the content pages bundled with this sample book to see more.
+This book is currently under development.
 
 ```{tableofcontents}
 ```
