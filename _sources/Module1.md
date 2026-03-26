@@ -6,7 +6,7 @@
 
 **Marggy Chiviri, Jennifer B. Glass, Steven D. Vance, Sabrina Elkassas \* Christopher R German**
 
-Understanding habitability, both on Earth and other ocean worlds within our solar system, requires a comprehensive exploration of various geological, chemical, and physical processes that sustain life. This module delves into the critical factors that make an environment habitable, focusing on Earth’s oceans and extending these concepts to icy ocean worlds like Europa and Enceladus. Through detailed scientific investigation, we aim to bridge the knowledge gap between terrestrial and extraterrestrial aquatic environments, providing insights into the potential for life beyond our home planet.
+This is a test! Understanding habitability, both on Earth and other ocean worlds within our solar system, requires a comprehensive exploration of various geological, chemical, and physical processes that sustain life. This module delves into the critical factors that make an environment habitable, focusing on Earth’s oceans and extending these concepts to icy ocean worlds like Europa and Enceladus. Through detailed scientific investigation, we aim to bridge the knowledge gap between terrestrial and extraterrestrial aquatic environments, providing insights into the potential for life beyond our home planet.
 
 ### **Level 1: Foundational Concepts and Basic Information**
 
