@@ -1,4 +1,4 @@
-# **Core Biological Concepts**
+﻿# **Core Biological Concepts**
 
 ## **Module 1: Habitability on Ocean Worlds and on Earth** 
 
@@ -10,17 +10,17 @@ Understanding habitability, both on Earth and other ocean worlds within our sola
 
 ### **Level 1: Foundational Concepts and Basic Information**
 
-“Ocean worlds” is a new concept, driven by the last 50 years of planetary science in the outer solar system, dating from the launch of the Voyager 1 and 2 missions in 1977 and the discovery of seafloor hydrothermal systems in the same decade. The discovery of oceans in Jupiter’s moons Europa, Ganymede, and Callisto only followed in the early 2000s and we now recognize that (i) these are places with many times more water, possibly as liquid, than in all of Earth’s oceans (Fig.1.1) and (ii) that many more ocean worlds may exist in the outer solar system and beyond (Fig.1.2, Fig.1,3).  Prominent among these is Saturn’s moon Enceladus where salty water with organic material is being actively released into space from its south polar terrain (Hendrix et al., 2019). 
+“Ocean worlds” is a new concept, driven by the last 50 years of planetary science in the outer solar system, dating from the launch of the Voyager 1 and 2 missions in 1977 and the discovery of seafloor hydrothermal systems in the same decade. The discovery of oceans in Jupiter’s moons Europa, Ganymede, and Callisto only followed in the early 2000s and we now recognize that (i) these are places with many times more water, possibly as liquid, than in all of Earth’s oceans (Fig.1.1) and (ii) that many more ocean worlds may exist in the outer solar system and beyond (Fig.1.2, Fig.1.3).  Prominent among these is Saturn’s moon Enceladus where salty water with organic material is being actively released into space from its south polar terrain (Hendrix et al., 2019). 
 
 ![][image1]
 
-**Figure 1.1**. A depiction of Earth’s entire ocean volume as a sphere, with (at left) the equivalent amounts for Jupiter’s moons Ganymede and Europa (top, middle), and Saturn’s much smaller moon Enceladus (bottom). Adapted from USGS.
+**Figure 1.1** A depiction of Earth’s entire ocean volume as a sphere, with (at left) the equivalent amounts for Jupiter’s moons Ganymede and Europa (top, middle), and Saturn’s much smaller moon Enceladus (bottom). Adapted from USGS.
 
 ![][image2]
 
  
 
-**Figure 1.2**.  Ocean worlds extend the domain of habitability beyond the solar system’s snowline, providing a bridge, via moons of the outer “Giant Planets” (Grasset et al, 2013), to the study of ocean world exoplanets \- potentially the most abundant class of habitable planets in the universe.
+**Figure 1.2**  Ocean worlds extend the domain of habitability beyond the solar system’s snowline, providing a bridge, via moons of the outer “Giant Planets” (Grasset et al, 2013), to the study of ocean world exoplanets \- potentially the most abundant class of habitable planets in the universe.
 
 ![][image3]
 
@@ -42,10 +42,8 @@ Several key processes control the habitability of Earth's oceans (Emerson & Hamm
 
 #### **1.3 Plate Tectonics and Mantle Redox State**
 
-Plate tectonics and the mantle's redox state are fundamental to Earth’s ocean habitability. The movement of tectonic plates facilitates the recycling of nutrients and gases through processes like subduction and volcanic eruptions. The mantle’s redox state influences the type of gases released during these eruptions, predominantly carbon dioxide (CO2) in Earth’s oxidizing mantle conditions, which are essential for maintaining an oxygenated atmosphere and supporting photosynthetic life.  Note, however, that the redox state of Earth’s oceans has evolved through time.  In earliest Earth history, the redox poise of lavas being erupted at Earth’s seafloor would have been more reducing than the present day (Shock & Schulte, 1998\) and, while photosynthesis may have led to a first build-up of free oxygen in the atmosphere in the early Proterozoic Eon, oxygenation of the deep ocean may have been delayed until as recently as the Phanerozoic (Lyons et al., 2014), quasi-coincident with the evolution of multi-cellular organisms on Earth 
-
-#### 
-
+Plate tectonics and the mantle's redox state are fundamental to Earth’s ocean habitability. The movement of tectonic plates facilitates the recycling of nutrients and gases through processes like subduction and volcanic eruptions. The mantle’s redox state influences the type of gases released during these eruptions, predominantly carbon dioxide (CO2) in Earth’s oxidizing mantle conditions, which are essential for maintaining an oxygenated atmosphere and supporting photosynthetic life.  Note, however, that the redox state of Earth’s oceans has evolved through time.  In earliest Earth history, the redox poise of lavas being erupted at Earth’s seafloor would have been more reducing than the present day (Shock & Schulte, 1998\) and, while photosynthesis may have led to a first build-up of free oxygen in the atmosphere in the early Proterozoic Eon, oxygenation of the deep ocean may have been delayed until as recently as the Phanerozoic (Lyons et al., 2014), quasi-coincident with the evolution of multi-cellular organisms on Earth. 
+ 
 #### **1.4 Thermohaline Circulation and Chemosymbiosis**
 
 Thermohaline circulation, driven by differences in temperature and salinity, distributes oxygen and nutrients throughout the ocean. This circulation is crucial for bringing oxygen to deep-sea environments, supporting aerobic life forms. Additionally, at hydrothermal vents, chemosynthetic organisms thrive through chemosymbiosis, where they derive energy from chemical reactions rather than sunlight. These ecosystems are supported by rock-water reactions like serpentinization, which vary according to rock type, and release hydrogen and other reduced chemicals that, upon reaction with the more oxidizing ocean, serve as energy sources for microbial life (Amend et al., 2011).
@@ -60,7 +58,7 @@ Of course, on other ocean worlds, the specific physical processes and chemical d
 
 **Fig.1.4**  Cross sections of Europa as an integrated system where habitability will be contingent upon a range of intersecting ocean processes from sub-seafloor circulation to ocean-cryosphere interactions (Vance et al. 2023).
 
-Across the diverse range of ocean worlds in the outer solar system, the domains of composition, temperature, pressure, and time will undoubtedly differ from those on Earth. But there is much that can be done utilizing theoretical modelling validated by laboratory experiments and judicious choice of analog field studies to help advance our understanding of what might be possible.  Differences in composition can be striking, such as the much higher abundances of non-water volatiles at increasing distance from the sun (see Fig.1.3) and the recognition that other oceans may contain dissolved organic carbon concentrations of \~4%, if derived from chondrites (Schmitt-Koplin et al., 2010\) or even \~40% if comets are the primary source (McKay & Roth, 2021\) compared to deep ocean concentrations on Earth that are limited to just 40µmol/kg, such is the impact of draw-down by photosynthesis (Carlson & Hansell, 2015).
+Across the diverse range of ocean worlds in the outer solar system, the domains of composition, temperature, pressure, and time will undoubtedly differ from those on Earth. But there is much that can be done utilizing theoretical modelling validated by laboratory experiments and judicious choice of analog field studies to help advance our understanding of what might be possible.  Differences in composition can be striking, such as the much higher abundances of non-water volatiles at increasing distance from the sun (see Fig.1.3) and the recognition that other oceans may contain dissolved organic carbon concentrations of \~4%, if derived from chondrites (Schmitt-Koplin et al., 2010\) or even \~40% if comets are the primary source (McKay & Roth, 2021\) compared to deep ocean concentrations on Earth that are limited to just 40 µmol/kg, such is the impact of draw-down by photosynthesis (Carlson & Hansell, 2015).
 
 **Much more to be learned**  
    
@@ -77,7 +75,7 @@ The present focus of missions like *Europa Clipper* and *JUICE* is on confirming
 
 #### **2.1 Geological, Chemical, and Physical Processes**
 
-To understand the habitability of ocean worlds, it is essential to explore the detailed geological, chemical, and physical processes that sustain life. This includes studying volcanic processes, tectonic activity and hydrothermal systems on these worlds, as well as examining chemical interactions within their oceans. Additionally, the analysis of thermal gradients, ice shell dynamics, and internal heat sources provides critical insights into how these environments can maintain liquid water and support life .
+To understand the habitability of ocean worlds, it is essential to explore the detailed geological, chemical, and physical processes that sustain life. This includes studying volcanic processes, tectonic activity and hydrothermal systems on these worlds, as well as examining chemical interactions within their oceans. Additionally, the analysis of thermal gradients, ice shell dynamics, and internal heat sources provides critical insights into how these environments can maintain liquid water and support life.
 
 #### ***2.1.1 Geological Processes: Plate Tectonics***
 
@@ -95,15 +93,15 @@ The carbonate-silicate cycle is a key geochemical process that regulates atmosph
 
 Reaction 1: CaSiO3 (silicate rock) \+ 2 CO2 \+ 3 H2O → Ca2+ \+ 2 HCO3\- \+ SiO2 \+ H2O     
 
-*Transport to the ocean***:** The dissolved ions are transported via rivers to the oceans (Fig.2.1).
+*Transport to the ocean:* The dissolved ions are transported via rivers to the oceans (Fig.2.1).
 
-*Formation of carbonate minerals***:** Marine organisms use the dissolved Ca2+ and HCO3\- to form calcium carbonate (CaCO3) shells and skeletons. When these organisms die, their shells settle to the ocean floor, forming sedimentary rocks (Fig.2.1).
+*Formation of carbonate minerals:* Marine organisms use the dissolved Ca2+ and HCO3\- to form calcium carbonate (CaCO3) shells and skeletons. When these organisms die, their shells settle to the ocean floor, forming sedimentary rocks (Fig.2.1).
 
-Reaction 2**:** Ca2+ \+ 2 HCO3\- → CaCO3 \+ CO2 \+ H2O     
+Reaction 2: Ca2+ \+ 2 HCO3\- → CaCO3 \+ CO2 \+ H2O     
 
 *Subduction and Metamorphism:* Tectonic processes subduct the oceanic crust, carrying carbonate sediments into Earth’s mantle. Under high pressure and temperature, these carbonates undergo metamorphism, releasing CO2 back into the atmosphere and ocean through volcanic eruptions (Fig.2.1).
 
-Reaction 3**:** CaCO3 \+ SiO2 → CaSiO3 \+ CO2     
+Reaction 3: CaCO3 \+ SiO2 → CaSiO3 \+ CO2     
 
 *Thermal regulation:* This cycle acts as a long-term thermostat for Earth’s climate. When atmospheric CO2 levels rise, the weathering of silicate rocks accelerates, drawing down CO2 and cooling the planet. Conversely, when CO2 levels fall, weathering slows, allowing CO2 to accumulate and, thereby, warming the planet (Fig.2.2).
 
@@ -117,19 +115,13 @@ Reaction 3**:** CaCO3 \+ SiO2 → CaSiO3 \+ CO2
 
 ●      **The redox state** of Earth's mantle refers to its oxidation-reduction conditions, which significantly influence the types of gases released during volcanic eruptions. The mantle's redox state affects the speciation of volcanic gases, with an oxidizing mantle favoring the release of CO2 over methane (CH4).  
 ●      *Oxidizing Conditions:* Earth's mantle is sufficiently oxidizing to release carbon predominantly as CO2, which is crucial for maintaining an oxygenated atmosphere and supporting photosynthetic life (Fig.2.3).  
-●      *Reducing Conditions***:** If the mantle were more reducing, carbon would be emitted primarily as CH4 or carbon monoxide (CO). Such an environment would limit the diversity of life forms as it would create an anoxic atmosphere, less suitable for aerobic organisms.  
-●      **Geological Evidence:** Studies of volcanic rocks and gases provide insights into the historical redox state of the mantle, indicating shifts that could have influenced atmospheric composition and climate over geological timescales.  
-●      *Research Techniques***:** Experimental petrology and high-pressure, high-temperature experiments simulate mantle conditions to investigate how redox state influences mineral stability and gas speciation. Geochemical proxies (e.g., V/Sc ratios, Fe3+/Fe2+ ratios) are used to infer redox conditions in different mantle settings. By integrating these detailed explorations into geological, chemical, and physical processes, we can gain a more comprehensive understanding of the factors influencing habitability on Earth and other ocean worlds (Fig.2.3). These insights are crucial for predicting and exploring potential habitats for life beyond our planet.
+●      *Reducing Conditions:* If the mantle were more reducing, carbon would be emitted primarily as CH4 or carbon monoxide (CO). Such an environment would limit the diversity of life forms as it would create an anoxic atmosphere, less suitable for aerobic organisms.  
+●      *Geological Evidence:* Studies of volcanic rocks and gases provide insights into the historical redox state of the mantle, indicating shifts that could have influenced atmospheric composition and climate over geological timescales.  
+●      *Research Techniques:* Experimental petrology and high-pressure, high-temperature experiments simulate mantle conditions to investigate how redox state influences mineral stability and gas speciation. Geochemical proxies (e.g., V/Sc ratios, Fe3+/Fe2+ ratios) are used to infer redox conditions in different mantle settings. By integrating these detailed explorations into geological, chemical, and physical processes, we can gain a more comprehensive understanding of the factors influencing habitability on Earth and other ocean worlds (Fig.2.3). These insights are crucial for predicting and exploring potential habitats for life beyond our planet.
 
 ![A graph of different types of carbon dioxideDescription automatically generated][image8]
 
-Fig.2.3 Variability in carbon speciation in volcanic emissions as a function of mantle redox state
-
-#### 
-
-#### 
-
-#### 
+**Fig.2.3** Variability in carbon speciation in volcanic emissions as a function of mantle redox state
 
 #### **2.2 Thermohaline Circulation**
 
@@ -137,14 +129,14 @@ Fig.2.3 Variability in carbon speciation in volcanic emissions as a function of 
 
 Figure 2.4 A schematic illustration of the major deep ocean pathways of the Thermohaline Circulation
 
-●      **Mechanism and Importance:**
+**Mechanism and Importance:**
 
-     [Thermohaline circulation](https://en.wikipedia.org/wiki/Thermohaline_circulation), also known as the "global conveyor belt," is a large-scale ocean circulation driven by differences in water density, which are controlled by temperature (thermal) and salinity (haline) variations. This process is crucial for distributing heat, oxygen, and nutrients throughout the ocean (Figure 2.4).
+●      *Thermohaline circulation:* Also known as the "global conveyor belt," is a large-scale ocean circulation driven by differences in water density, which are controlled by temperature (thermal) and salinity (haline) variations. This process is crucial for distributing heat, oxygen, and nutrients throughout the ocean (Figure 2.4).
 
 ●      *Density-Driven Flow:* Cold, salty water is denser and sinks at high latitudes, while warm, less salty water rises in other regions. This creates a continuous loop of water movement, connecting the surface and deep ocean.  
 ●      *Oxygen Distribution:* Thermohaline circulation plays a vital role in transporting oxygen from the surface to the deep sea, supporting aerobic organisms in deep-sea environments. Without this circulation, deep-sea habitats would become anoxic, making it difficult for aerobic life to thrive.  
-●      *Nutrient and Heat Distribution***:** This circulation also redistributes nutrients and heat around the globe, impacting global climate and marine ecosystems. It helps regulate Earth’s climate by transporting warm water from the equator towards the poles and cold water from the poles towards the equator.  
-●      **Research and Observations:** Oceanographic models and field studies provide insights into the dynamics of thermohaline circulation and its impact on ocean chemistry and biology.
+●      *Nutrient and Heat Distribution:* This circulation also redistributes nutrients and heat around the globe, impacting global climate and marine ecosystems. It helps regulate Earth’s climate by transporting warm water from the equator towards the poles and cold water from the poles towards the equator.  
+●      *Research and Observations:* Oceanographic models and field studies provide insights into the dynamics of thermohaline circulation and its impact on ocean chemistry and biology.
 
 #### **2.3 Microbial Life Adaptations and Environmental Conditions**
 
@@ -165,39 +157,39 @@ Many types of potentially life-supporting water-rock reactions exist on Earth, a
 
 ![A diagram of a treeDescription automatically generated][image11]
 
-Fig.2.5 An illustrative cross section of the Pacific Ocean (not to scale) from West to East showing a diversity of geologically active environments where water-rock reactions occur at Earth’s modern seafloor.  While we may not anticipate Plate Tectonics to be a standard feature of all ocean worlds, any ocean world with a rocky seafloor could host some form of water-rock interaction.
+**Fig.2.5** An illustrative cross section of the Pacific Ocean (not to scale) from West to East showing a diversity of geologically active environments where water-rock reactions occur at Earth’s modern seafloor.  While we may not anticipate Plate Tectonics to be a standard feature of all ocean worlds, any ocean world with a rocky seafloor could host some form of water-rock interaction.
 
 *Serpentinization Reactions:* While there are many types of water-rock interaction possible on Earth, serpentinization is of particular interest to astrobiologists because it is a geochemical process where ultramafic (low-silica) rocks, rich in Fe and Mg-bearing minerals like olivine and pyroxene (as found pervasively among chondritic meteorites which may represent the bulk starting composition of many ocean world moons), react with water to form serpentine minerals, brucite, magnetite, and hydrogen (H2). This process provides a continuous supply of hydrogen, which can serve as a particularly rich energy source for microbial communities (Fig. 2.6).
 
 ![A diagram of a chemical reactionDescription automatically generated][image12]
 
-Fig.2.6  Serpentinization occurs at mid-ocean ridges, subduction zones, and other tectonically active regions. The hydrogen produced can be utilized by hydrogenotrophic microbes, supporting chemosynthetic ecosystems in these environments.
+**Fig.2.6**  Serpentinization occurs at mid-ocean ridges, subduction zones, and other tectonically active regions. The hydrogen produced can be utilized by hydrogenotrophic microbes, supporting chemosynthetic ecosystems in these environments.
 
 #### ***2.3.3  Energy Sources in Extreme Environments***
 
 ●      *Chemical Energy*: In environments where sunlight is not available, such as deep-sea hydrothermal vents, chemosynthetic organisms rely on chemical energy derived from inorganic compounds (see previous section). These organisms utilize processes like hydrogen oxidation, a high energy-yield reaction, to generate energy.  
 o   *Chemosynthesis*: Chemosynthetic bacteria and archaea convert inorganic molecules (e.g., hydrogen sulfide, hydrogen, nitrate, methane) into organic matter, forming the base of the food web in these ecosystems   
-o   *Example***:** At hydrothermal vents, chemosynthetic microbes oxidize hydrogen sulfide (H2S) to obtain energy, supporting complex communities of organisms like tube worms, clams, and shrimp.  The following sections introduce two particularly important examples of metabolic pathways..
+o   *Example:* At hydrothermal vents, chemosynthetic microbes oxidize hydrogen sulfide (H2S) to obtain energy, supporting complex communities of organisms like tube worms, clams, and shrimp.  The following sections introduce two particularly important examples of metabolic pathways.
 
 #### ***2.3.4 Hydrogenotrophic Methanogenesis***
 
-●      **Process:** This metabolic pathway involves the production of methane (CH4) by microbes that use hydrogen (H2) as an energy source, reacting it with carbon dioxide (CO2).                .  
-o   *Reaction***:** 4 H2 \+ CO2 → CH4 \+ 2 H2O.  
+●      *Process:* This metabolic pathway involves the production of methane (CH4) by microbes that use hydrogen (H2) as an energy source, reacting it with carbon dioxide (CO2).                .  
+o   *Reaction:* 4 H2 \+ CO2 → CH4 \+ 2 H2O.  
 o   *Significance:* Hydrogenotrophic methanogenesis supports diverse microbial communities in anoxic environments, such as deep-sea hydrothermal vents, methane seeps, and indeed \- anywhere that serpentinization is occurring \- by providing a source of energy and organic carbon.
 
 ![][image13]
 
-Fig.2.7 A schematic illustration of hydrogenotrophic methanogenesis, projected onto a seafloor hydrothermal background (Apollo vent, Gorda Ridge, NE Pacific).
+**Fig.2.7** A schematic illustration of hydrogenotrophic methanogenesis, projected onto a seafloor hydrothermal background (Apollo vent, Gorda Ridge, NE Pacific).
 
 #### ***2.3.5 Anaerobic Oxidation of Methane (AOM)***
 
-●      **Process:** AOM involves the microbial oxidation of methane in the absence of oxygen, typically using sulfate (SO4) as the electron acceptor. This process is crucial for controlling methane levels in anoxic environments.  
-o   *Reaction***:** CH4 \+ SO42- → HCO3\- \+ HS\- \+ H2O.  
+●      *Process:* AOM involves the microbial oxidation of methane in the absence of oxygen, typically using sulfate (SO4) as the electron acceptor. This process is crucial for controlling methane levels in anoxic environments.  
+o   *Reaction:* CH4 \+ SO42- → HCO3\- \+ HS\- \+ H2O.  
 o   *Significance:* AOM occurs in marine sediments and methane hydrate fields, where it mitigates methane release into the ocean and atmosphere, thus playing a critical role in global carbon cycling and climate regulation (Fig.2.8).
 
 ![A close-up of a cellDescription automatically generated][image14]
 
-Fig.2.8 A schematic illustration of the anaerobic oxidation of methane (AOM), projected onto a seafloor hydrothermal background (Apollo vent, Gorda Ridge, NE Pacific).
+**Fig.2.8** A schematic illustration of the anaerobic oxidation of methane (AOM), projected onto a seafloor hydrothermal background (Apollo vent, Gorda Ridge, NE Pacific).
 
 #### ***2.3.6 Applying Earth-based knowledge to Ocean World exploration***
 
@@ -219,33 +211,6 @@ Future research should focus on understanding redox systems on ocean worlds, sca
 
 This module underscores the necessity of interdisciplinary studies,  integrating geosciences, chemistry, biology, and astrobiology to unravel the secrets of habitability on ocean worlds, guiding future explorations and missions in the quest to discover life in the universe. 
 
-**References cited.**
-
-J.P.Amend, T.M.McCollom, M.Hentscher, and W.Bach. Catabolic and anabolic energy for chemolithoautotrophs in deep-sea hydrothermal systems hosted in different rock types. Geochim. Cosmochim. Acta, 75, 5736-5748, [https://doi.org/10.1016/j.gca.2011.07.041](https://doi.org/10.1016/j.gca.2011.07.041), 2011\.
-
-Carlson, C.A. and Hansell, D.A. DOM sources, sinks, reactivity, and budgets. In: Biogeochemistry of marine dissolved organic matter, 2nd edn. (D.A. Hansell, C.A. Carlson, Eds.), Academic Press, 65-126, 2015\.
-
-S.R.Emerson and R.C.Hamme.  Chemical oceanography: Element fluxes in the sea. Cambridge University Press, 400pp, 2022\.
-
-O.Grasset, M.K.Dougherty, A.Coustenis, E.J.Bunce, C.Erd, D.Titov, M.Blanc, A.Coates, P.Drossart, L.N.Fletcher, H.Hussmann, R.Jaumann, N.Krupp, J.-P.Lebreton, O.Prieto-Ballesteros, P.Tortora, F.Tosi and T.Van Hoolst. JUpiter ICy moons Explorer (JUICE): An ESA mission to orbit Ganymede and to characterise the Jupiter system, Planetary and Space Science 78, 1-21 [https://doi.org/10.1016/j.pss.2012.12.002](https://doi.org/10.1016/j.pss.2012.12.002), 2013\.
-
-A.R.Hendrix, T.A.Hurford, L.M.Barge, M.T.Bland, J.S.Bowman, W.Brinkerhoff, B.J.Buratti, M.Cable, J.Castillo-Rogez, G.Collins, S.Diniega, C.R.German, A.G.Hayes, T.Hoehler, S.Hosseini, C.Howett, A.McEwen, C.Neish, M.Neveu, T.A.Nordheim, G.W.Patterson, D.A.Patthoff, A.Rhoden, B.Schmidt, K.Singer, J.Soderblom & S.D.Vance.  Roadmap to Ocean Worlds.  Astrobiology 19, doi: 10.1089/ast.2018.1955, 2019\. 
-
-T.W.Lyons, C.T.Reinhard and N.J.Planavsky. The rise of oxygen in Earth’s early ocean and atmosphere. Nature, 506, 307-315, [https://doi.org/10.1038/nature13068](https://doi.org/10.1038/nature13068), 2014\.
-
-A.J.McKay and N.X.Roth, N.X. Organic matter in cometary environments. Life 11, 37, [https://doi.org/10.3390/life11010037](https://doi.org/10.3390/life11010037), 2021\.
-
-F.Nimmo and R.T.Pappalardo Ocean worlds in the outer solar system, JGR-Planets 121, doi:10.1002/2016JE005081, 2016\.
-
-P.Schmitt-Kopplin, Z.Gabelica, R.D.Gougeon, A.Fekete, B.Kanawati, M.Harir, I. Gebefuegi, G.Eckel and N.Hertkorn. High molecular diversity of extraterrestrial organic matter in Murchison meteorite revealed 40 years after its fall. Proc.Nat.Acad. Sci., 107, 2763-2768, 2010\.
-
-E.L. Shock and M.D.Schulte. Organic synthesis during fluid mixing in hydrothermal systems. JGR-Planets 103, 28513-28527, [https://doi.org/10.1029/98JE02142](https://doi.org/10.1029/98JE02142)
-
-S.Vance, J.Harnmeijer, J.Kimura, H.Hussmann, B.de Martin and J.M.Brown.  Hydrothermal systems in small ocean planets.  Astrobiology 7, [https://doi.org/10.1089/ast.2007.0075](https://doi.org/10.1089/ast.2007.0075), 2007\.
-
-S.D.Vance, K.P.Hand and R.T.Pappalardo. Geophysical controls on chemical disequilibria on Europa. Geophys. Res. Lett., [https://doi.org/10.1002/2016GL068547](https://doi.org/10.1002/2016GL068547), 2016\.
-
-S.D.Vance, K.L.Craft, K.L., E.Shock et al. Investigating Europa’s Habitability with the Europa Clipper. Space Sci Rev 219, [https://doi.org/10.1007/s11214-023-01025-2](https://doi.org/10.1007/s11214-023-01025-2), 2023\.
 
 ### **Level 3: Technical Insights and Case Studies**
 
@@ -271,17 +236,15 @@ Various adaptations have been observed in different regions:
 
 **![][image17]**
 
-*Sargasso Sea (Western North Atlantic Ocean)***:** Microbial communities have developed high-affinity phosphorus uptake systems and utilize alternative phosphorus sources​
+*Sargasso Sea (Western North Atlantic Ocean):* Microbial communities have developed high-affinity phosphorus uptake systems and utilize alternative phosphorus sources​
 
 **![][image18]**
 
 *Cuatro Ciénegas Basin (Chihuahuan Desert of Mexico):* Microbial mats exhibit ancient mechanisms for coping with severe nutrient stress, highlighting evolutionary strategies to thrive in nutrient-limited environments.
 
-#### 
-
 #### ***3.2.2 Phosphorus Availability Beyond Earth***
 
-#### The availability of phosphorus could also limit life beyond Earth. For example, the detection of phosphates originating from Enceladus’s ocean suggests that phosphorus, though scarce, could be available under certain conditions, potentially supporting life.
+The availability of phosphorus could also limit life beyond Earth. For example, the detection of phosphates originating from Enceladus’s ocean suggests that phosphorus, though scarce, could be available under certain conditions, potentially supporting life.
 
 ![A diagram of a graphDescription automatically generated with medium confidence][image19]
 
@@ -318,6 +281,33 @@ These studies collectively enhance our understanding of the adaptability of micr
 By integrating these technical insights, we deepen our understanding of how life can thrive under conditions vastly different from those on Earth's surface, guiding future research and exploration in astrobiology. 
 
  
+**References cited.**
+
+J.P.Amend, T.M.McCollom, M.Hentscher, and W.Bach. Catabolic and anabolic energy for chemolithoautotrophs in deep-sea hydrothermal systems hosted in different rock types. Geochim. Cosmochim. Acta, 75, 5736-5748, [https://doi.org/10.1016/j.gca.2011.07.041](https://doi.org/10.1016/j.gca.2011.07.041), 2011\.
+
+Carlson, C.A. and Hansell, D.A. DOM sources, sinks, reactivity, and budgets. In: Biogeochemistry of marine dissolved organic matter, 2nd edn. (D.A. Hansell, C.A. Carlson, Eds.), Academic Press, 65-126, 2015\.
+
+S.R.Emerson and R.C.Hamme.  Chemical oceanography: Element fluxes in the sea. Cambridge University Press, 400pp, 2022\.
+
+O.Grasset, M.K.Dougherty, A.Coustenis, E.J.Bunce, C.Erd, D.Titov, M.Blanc, A.Coates, P.Drossart, L.N.Fletcher, H.Hussmann, R.Jaumann, N.Krupp, J.-P.Lebreton, O.Prieto-Ballesteros, P.Tortora, F.Tosi and T.Van Hoolst. JUpiter ICy moons Explorer (JUICE): An ESA mission to orbit Ganymede and to characterise the Jupiter system, Planetary and Space Science 78, 1-21 [https://doi.org/10.1016/j.pss.2012.12.002](https://doi.org/10.1016/j.pss.2012.12.002), 2013\.
+
+A.R.Hendrix, T.A.Hurford, L.M.Barge, M.T.Bland, J.S.Bowman, W.Brinkerhoff, B.J.Buratti, M.Cable, J.Castillo-Rogez, G.Collins, S.Diniega, C.R.German, A.G.Hayes, T.Hoehler, S.Hosseini, C.Howett, A.McEwen, C.Neish, M.Neveu, T.A.Nordheim, G.W.Patterson, D.A.Patthoff, A.Rhoden, B.Schmidt, K.Singer, J.Soderblom & S.D.Vance.  Roadmap to Ocean Worlds.  Astrobiology 19, doi: 10.1089/ast.2018.1955, 2019\. 
+
+T.W.Lyons, C.T.Reinhard and N.J.Planavsky. The rise of oxygen in Earth’s early ocean and atmosphere. Nature, 506, 307-315, [https://doi.org/10.1038/nature13068](https://doi.org/10.1038/nature13068), 2014\.
+
+A.J.McKay and N.X.Roth, N.X. Organic matter in cometary environments. Life 11, 37, [https://doi.org/10.3390/life11010037](https://doi.org/10.3390/life11010037), 2021\.
+
+F.Nimmo and R.T.Pappalardo Ocean worlds in the outer solar system, JGR-Planets 121, doi:10.1002/2016JE005081, 2016\.
+
+P.Schmitt-Kopplin, Z.Gabelica, R.D.Gougeon, A.Fekete, B.Kanawati, M.Harir, I. Gebefuegi, G.Eckel and N.Hertkorn. High molecular diversity of extraterrestrial organic matter in Murchison meteorite revealed 40 years after its fall. Proc.Nat.Acad. Sci., 107, 2763-2768, 2010\.
+
+E.L. Shock and M.D.Schulte. Organic synthesis during fluid mixing in hydrothermal systems. JGR-Planets 103, 28513-28527, [https://doi.org/10.1029/98JE02142](https://doi.org/10.1029/98JE02142)
+
+S.Vance, J.Harnmeijer, J.Kimura, H.Hussmann, B. de Martin and J.M.Brown.  Hydrothermal systems in small ocean planets.  Astrobiology 7, [https://doi.org/10.1089/ast.2007.0075](https://doi.org/10.1089/ast.2007.0075), 2007\.
+
+S.D.Vance, K.P.Hand and R.T.Pappalardo. Geophysical controls on chemical disequilibria on Europa. Geophys. Res. Lett., [https://doi.org/10.1002/2016GL068547](https://doi.org/10.1002/2016GL068547), 2016\.
+
+S.D.Vance, K.L.Craft, K.L., E.Shock et al. Investigating Europa’s Habitability with the Europa Clipper. Space Sci Rev 219, [https://doi.org/10.1007/s11214-023-01025-2](https://doi.org/10.1007/s11214-023-01025-2), 2023\.
 
  
 
