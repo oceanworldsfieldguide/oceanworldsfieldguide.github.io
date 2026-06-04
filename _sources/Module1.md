@@ -201,15 +201,6 @@ Applying the concepts presented above to ocean worlds like Europa and Enceladus 
 
 By exploring these detailed mechanisms of microbial adaptation and the availability of chemical energy in extreme environments, we gain a comprehensive understanding of how life can thrive under conditions that are vastly different from those on the surface of Earth. These insights are crucial for identifying and studying potential habitats for life on other ocean worlds.
 
-# **Synthesis and Future Directions**
-
-The concept of "ocean worlds" has expanded our understanding of habitability beyond Earth, driven by discoveries over the past 50 years. The identification of oceans on Jupiter’s moons Europa, Ganymede, and Callisto and on Saturn’s moon Enceladus (where there are even tentative indicators for the presence of hydrothermal activity) has bridged the gap between terrestrial and extraterrestrial aquatic environments, suggesting that life could exist beyond the snowline of our solar system.
-
-Key takeaways include the importance of nutrient recycling, pH buffering, and stable environmental conditions for supporting life. Additionally, this module highlights the critical role of geological and chemical processes, such as plate tectonics, the carbonate-silicate cycle, and mantle redox state, in sustaining habitable conditions on Earth. Microbial adaptations to extreme environments on our planet also provide valuable analogs for potential life on other ocean worlds, emphasizing the significance of habitats where strong redox gradients arise \- such as hydrothermal systems but also methane clathrates.
-
-Future research should focus on understanding redox systems on ocean worlds, scaling pressure-temperature conditions, and bridging the knowledge gap between Earth-ocean and cryosphere sciences. In the case of redox systems, studies should include a consideration of the potential role of radiolysis in creating redox disequilibria that could provide metabolic energy for life. Radiolysis reactions, which occur on icy surfaces, in bulk oceans containing potassium, or in porous seafloor environments, could produce molecular oxygen and other oxidants, potentially supporting aerobic respiration and multicellular life.  Exploring how redox disequilibria can dissipate, abiotically, represents another critical future need for understanding the sustainability of habitable conditions.
-
-This module underscores the necessity of interdisciplinary studies,  integrating geosciences, chemistry, biology, and astrobiology to unravel the secrets of habitability on ocean worlds, guiding future explorations and missions in the quest to discover life in the universe. 
 
 
 ### **Level 3: Technical Insights and Case Studies**
@@ -279,6 +270,17 @@ These studies collectively enhance our understanding of the adaptability of micr
 ![A collage of different types of microbial activityDescription automatically generated][image25]
 
 By integrating these technical insights, we deepen our understanding of how life can thrive under conditions vastly different from those on Earth's surface, guiding future research and exploration in astrobiology. 
+
+
+# **Synthesis and Future Directions**
+
+The concept of "ocean worlds" has expanded our understanding of habitability beyond Earth, driven by discoveries over the past 50 years. The identification of oceans on Jupiter’s moons Europa, Ganymede, and Callisto and on Saturn’s moon Enceladus (where there are even tentative indicators for the presence of hydrothermal activity) has bridged the gap between terrestrial and extraterrestrial aquatic environments, suggesting that life could exist beyond the snowline of our solar system.
+
+Key takeaways include the importance of nutrient recycling, pH buffering, and stable environmental conditions for supporting life. Additionally, this module highlights the critical role of geological and chemical processes, such as plate tectonics, the carbonate-silicate cycle, and mantle redox state, in sustaining habitable conditions on Earth. Microbial adaptations to extreme environments on our planet also provide valuable analogs for potential life on other ocean worlds, emphasizing the significance of habitats where strong redox gradients arise \- such as hydrothermal systems but also methane clathrates.
+
+Future research should focus on understanding redox systems on ocean worlds, scaling pressure-temperature conditions, and bridging the knowledge gap between Earth-ocean and cryosphere sciences. In the case of redox systems, studies should include a consideration of the potential role of radiolysis in creating redox disequilibria that could provide metabolic energy for life. Radiolysis reactions, which occur on icy surfaces, in bulk oceans containing potassium, or in porous seafloor environments, could produce molecular oxygen and other oxidants, potentially supporting aerobic respiration and multicellular life.  Exploring how redox disequilibria can dissipate, abiotically, represents another critical future need for understanding the sustainability of habitable conditions.
+
+This module underscores the necessity of interdisciplinary studies,  integrating geosciences, chemistry, biology, and astrobiology to unravel the secrets of habitability on ocean worlds, guiding future explorations and missions in the quest to discover life in the universe. 
 
  
 **References cited.**
