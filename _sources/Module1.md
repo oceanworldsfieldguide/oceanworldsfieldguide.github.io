@@ -1,5 +1,4 @@
-﻿
-## **Module 1: Habitability on Ocean Worlds and on Earth** 
+﻿## **Module 1: Habitability on Ocean Worlds and on Earth** 
 
 **Authors**
 
