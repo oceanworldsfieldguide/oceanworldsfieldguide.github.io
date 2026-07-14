@@ -1,5 +1,4 @@
-﻿# **Core Biological Concepts**
-
+﻿
 ## **Module 1: Habitability on Ocean Worlds and on Earth** 
 
 **Authors**
