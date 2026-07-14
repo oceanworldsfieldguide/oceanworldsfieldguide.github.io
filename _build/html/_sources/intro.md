@@ -10,6 +10,8 @@ Intro to Dwan!
 
 Dwan's Test
 
+Amaze Amaze Amaze!
+
 Testing pull function
 
 This book is currently under development.
