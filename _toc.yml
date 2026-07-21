@@ -8,5 +8,6 @@ chapters:
 - file: Module1
 - file: Module2
 - file: Module3
+- file: Module5
 - file: notebooks
 - file: markdown-notebooks
