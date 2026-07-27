@@ -87,15 +87,15 @@ The carbonate-silicate cycle is a key geochemical process that regulates atmosph
 
 ![A diagram of silicate cycle and climate feedDescription automatically generated][image6]
 
-**Fig.2.1** Weathering of Silicate Rocks: Silicate rocks undergo chemical weathering in the presence of CO<sub>2</sub>  and water, producing dissolved ions such as calcium (Ca<sup>2+</sup>), bicarbonate (HCO<sub>3</sub><sup>-</sup>), and silica (SiO<sub>2</sup>).
+**Fig.2.1** Weathering of Silicate Rocks: Silicate rocks undergo chemical weathering in the presence of CO<sub>2</sub>  and water, producing dissolved ions such as calcium (Ca<sup>2+</sup>), bicarbonate (HCO<sub>3</sub> <sup>-</sup>), and silica (SiO<sub>2</sup>).
 
-Reaction 1: CaSiO<sub>3</sub> (silicate rock) \+ 2 CO<sub>2</sub>  \+ 3 H<sub>2</sub>O → Ca<sup>2+</sup> \+ 2 HCO<sub>3</sub><sup>-</sup> \+ SiO<sub>2</sub> \+ H<sub>2</sub>O     
+Reaction 1: CaSiO<sub>3</sub> (silicate rock) \+ 2 CO<sub>2</sub>  \+ 3 H<sub>2</sub>O → Ca<sup>2+</sup> \+ 2 HCO<sub>3</sub> <sup>-</sup> \+ SiO<sub>2</sub> \+ H<sub>2</sub>O     
 
 *Transport to the ocean:* The dissolved ions are transported via rivers to the oceans (Fig.2.1).
 
-*Formation of carbonate minerals:* Marine organisms use the dissolved Ca<sup>2+</sup> and HCO<sub>3</sub><sup>-</sup> to form calcium carbonate (CaCO<sub>3</sub>) shells and skeletons. When these organisms die, their shells settle to the ocean floor, forming sedimentary rocks (Fig.2.1).
+*Formation of carbonate minerals:* Marine organisms use the dissolved Ca<sup>2+</sup> and HCO<sub>3</sub> <sup>-</sup> to form calcium carbonate (CaCO<sub>3</sub>) shells and skeletons. When these organisms die, their shells settle to the ocean floor, forming sedimentary rocks (Fig.2.1).
 
-Reaction 2: Ca<sup>2+</sup> \+ 2 HCO<sub>3<sub>\- → CaCO<sub>3</sub> \+ CO<sub>2</sub> \+ H<sub>2</sub>O     
+Reaction 2: Ca<sup>2+</sup> \+ 2 HCO<sub>3</sub> <sup>-</sup> → CaCO<sub>3</sub> \+ CO<sub>2</sub> \+ H<sub>2</sub>O     
 
 *Subduction and Metamorphism:* Tectonic processes subduct the oceanic crust, carrying carbonate sediments into Earth’s mantle. Under high pressure and temperature, these carbonates undergo metamorphism, releasing CO<sub>2</sub> back into the atmosphere and ocean through volcanic eruptions (Fig.2.1).
 
@@ -182,7 +182,7 @@ o   *Significance:* Hydrogenotrophic methanogenesis supports diverse microbial c
 #### ***2.3.5 Anaerobic Oxidation of Methane (AOM)***
 
 ●      *Process:* AOM involves the microbial oxidation of methane in the absence of oxygen, typically using sulfate (SO<sub>4</sub>) as the electron acceptor. This process is crucial for controlling methane levels in anoxic environments.  
-o   *Reaction:* CH<sub>4</sub> \+ SO<sub>4</sub><sup>2-</sup> → HCO<sub>3</sub><sup>-</sup> \+ HS<sup>-</sup> \+ H<sub>2</sub>O.  
+o   *Reaction:* CH<sub>4</sub> \+ SO<sub>4</sub><sup>2-</sup> → HCO<sub>3</sub> <sup>-</sup> \+ HS<sup>-</sup> \+ H<sub>2</sub>O.  
 o   *Significance:* AOM occurs in marine sediments and methane hydrate fields, where it mitigates methane release into the ocean and atmosphere, thus playing a critical role in global carbon cycling and climate regulation (Fig.2.8).
 
 ![A close-up of a cellDescription automatically generated][image14]
