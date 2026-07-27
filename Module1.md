@@ -1,4 +1,4 @@
-﻿## **Module 1: Habitability on Ocean Worlds and on Earth** 
+## **Module 1: Habitability on Ocean Worlds and on Earth** 
 
 **Authors**
 
@@ -40,7 +40,7 @@ Several key processes control the habitability of Earth's oceans (Emerson & Hamm
 
 #### **1.3 Plate Tectonics and Mantle Redox State**
 
-Plate tectonics and the mantle's redox state are fundamental to Earth’s ocean habitability. The movement of tectonic plates facilitates the recycling of nutrients and gases through processes like subduction and volcanic eruptions. The mantle’s redox state influences the type of gases released during these eruptions, predominantly carbon dioxide (CO2) in Earth’s oxidizing mantle conditions, which are essential for maintaining an oxygenated atmosphere and supporting photosynthetic life.  Note, however, that the redox state of Earth’s oceans has evolved through time.  In earliest Earth history, the redox poise of lavas being erupted at Earth’s seafloor would have been more reducing than the present day (Shock & Schulte, 1998\) and, while photosynthesis may have led to a first build-up of free oxygen in the atmosphere in the early Proterozoic Eon, oxygenation of the deep ocean may have been delayed until as recently as the Phanerozoic (Lyons et al., 2014), quasi-coincident with the evolution of multi-cellular organisms on Earth. 
+Plate tectonics and the mantle's redox state are fundamental to Earth’s ocean habitability. The movement of tectonic plates facilitates the recycling of nutrients and gases through processes like subduction and volcanic eruptions. The mantle’s redox state influences the type of gases released during these eruptions, predominantly carbon dioxide (CO<sub>2</sub>) in Earth’s oxidizing mantle conditions, which are essential for maintaining an oxygenated atmosphere and supporting photosynthetic life.  Note, however, that the redox state of Earth’s oceans has evolved through time.  In earliest Earth history, the redox poise of lavas being erupted at Earth’s seafloor would have been more reducing than the present day (Shock & Schulte, 1998\) and, while photosynthesis may have led to a first build-up of free oxygen in the atmosphere in the early Proterozoic Eon, oxygenation of the deep ocean may have been delayed until as recently as the Phanerozoic (Lyons et al., 2014), quasi-coincident with the evolution of multi-cellular organisms on Earth. 
  
 #### **1.4 Thermohaline Circulation and Chemosymbiosis**
 
@@ -83,39 +83,39 @@ Plate tectonics involve the movement of Earth's lithospheric plates over the ast
 
 #### ***2.1.2 Chemical Processes: Carbonate-Silicate Cycle and Climate Feedback Loop***
 
-The carbonate-silicate cycle is a key geochemical process that regulates atmospheric CO2 levels and maintains Earth's long-term climate stability. It involves the weathering of silicate rocks, transport of dissolved ions to the ocean, formation of carbonate minerals, and subduction of these minerals into the mantle, where they can subsequently be returned to the atmosphere and ocean as CO2 released through volcanic eruptions (**Fig.2.1**).
+The carbonate-silicate cycle is a key geochemical process that regulates atmospheric CO<sub>2</sub>  levels and maintains Earth's long-term climate stability. It involves the weathering of silicate rocks, transport of dissolved ions to the ocean, formation of carbonate minerals, and subduction of these minerals into the mantle, where they can subsequently be returned to the atmosphere and ocean as CO<sub>2</sub>  released through volcanic eruptions (**Fig.2.1**).
 
 ![A diagram of silicate cycle and climate feedDescription automatically generated][image6]
 
-**Fig.2.1** Weathering of Silicate Rocks: Silicate rocks undergo chemical weathering in the presence of CO2 and water, producing dissolved ions such as calcium (Ca2+), bicarbonate (HCO3\-), and silica (SiO2).
+**Fig.2.1** Weathering of Silicate Rocks: Silicate rocks undergo chemical weathering in the presence of CO<sub>2</sub>  and water, producing dissolved ions such as calcium (Ca<sup>2+</sup>), bicarbonate (HCO<sub>3</sub><sup>-</sup>), and silica (SiO<sub>2</sup>).
 
-Reaction 1: CaSiO3 (silicate rock) \+ 2 CO2 \+ 3 H2O → Ca2+ \+ 2 HCO3\- \+ SiO2 \+ H2O     
+Reaction 1: CaSiO<sub>3</sub> (silicate rock) \+ 2 CO<sub>2</sub>  \+ 3 H<sub>2</sub>O → Ca<sup>2+</sup> \+ 2 HCO<sub>3</sub><sup>-</sup> \+ SiO<sub>2</sub> \+ H<sub>2</sub>O     
 
 *Transport to the ocean:* The dissolved ions are transported via rivers to the oceans (Fig.2.1).
 
-*Formation of carbonate minerals:* Marine organisms use the dissolved Ca2+ and HCO3\- to form calcium carbonate (CaCO3) shells and skeletons. When these organisms die, their shells settle to the ocean floor, forming sedimentary rocks (Fig.2.1).
+*Formation of carbonate minerals:* Marine organisms use the dissolved Ca<sup>2+</sup> and HCO<sub>3</sub><sup>-</sup> to form calcium carbonate (CaCO<sub>3</sub>) shells and skeletons. When these organisms die, their shells settle to the ocean floor, forming sedimentary rocks (Fig.2.1).
 
-Reaction 2: Ca2+ \+ 2 HCO3\- → CaCO3 \+ CO2 \+ H2O     
+Reaction 2: Ca<sup>2+</sup> \+ 2 HCO<sub>3<sub>\- → CaCO<sub>3</sub> \+ CO<sub>2</sub> \+ H<sub>2</sub>O     
 
-*Subduction and Metamorphism:* Tectonic processes subduct the oceanic crust, carrying carbonate sediments into Earth’s mantle. Under high pressure and temperature, these carbonates undergo metamorphism, releasing CO2 back into the atmosphere and ocean through volcanic eruptions (Fig.2.1).
+*Subduction and Metamorphism:* Tectonic processes subduct the oceanic crust, carrying carbonate sediments into Earth’s mantle. Under high pressure and temperature, these carbonates undergo metamorphism, releasing CO<sub>2</sub> back into the atmosphere and ocean through volcanic eruptions (Fig.2.1).
 
-Reaction 3: CaCO3 \+ SiO2 → CaSiO3 \+ CO2     
+Reaction 3: CaCO<sub>3</sub> \+ SiO<sub>2</sub> → CaSiO<sub>3</sub> \+ CO<sub>2</sub>     
 
-*Thermal regulation:* This cycle acts as a long-term thermostat for Earth’s climate. When atmospheric CO2 levels rise, the weathering of silicate rocks accelerates, drawing down CO2 and cooling the planet. Conversely, when CO2 levels fall, weathering slows, allowing CO2 to accumulate and, thereby, warming the planet (Fig.2.2).
+*Thermal regulation:* This cycle acts as a long-term thermostat for Earth’s climate. When atmospheric CO<sub>2</sub> levels rise, the weathering of silicate rocks accelerates, drawing down CO<sub>2</sub> and cooling the planet. Conversely, when CO<sub>2</sub> levels fall, weathering slows, allowing CO<sub>2</sub> to accumulate and, thereby, warming the planet (Fig.2.2).
 
 ![A diagram of a weathering systemDescription automatically generated][image7]
 
-**Fig. 2.2** Climate Feedback: This cycle acts as a long-term thermostat for Earth's climate. When atmospheric CO2 levels rise, weathering of silicate rocks accelerates, drawing down CO2 and cooling the planet. Conversely, when CO2 levels fall, weathering slows, allowing CO2 to accumulate and warming the planet.
+**Fig. 2.2** Climate Feedback: This cycle acts as a long-term thermostat for Earth's climate. When atmospheric CO<sub>2</sub> levels rise, weathering of silicate rocks accelerates, drawing down CO<sub>2</sub> and cooling the planet. Conversely, when CO<sub>2</sub> levels fall, weathering slows, allowing CO<sub>2</sub> to accumulate and warming the planet.
 
 #### ***2.1.3 Physical Processes: Mantle Redox State***
 
 **Influence on Volcanic Emissions:**
 
-●      **The redox state** of Earth's mantle refers to its oxidation-reduction conditions, which significantly influence the types of gases released during volcanic eruptions. The mantle's redox state affects the speciation of volcanic gases, with an oxidizing mantle favoring the release of CO2 over methane (CH4).  
-●      *Oxidizing Conditions:* Earth's mantle is sufficiently oxidizing to release carbon predominantly as CO2, which is crucial for maintaining an oxygenated atmosphere and supporting photosynthetic life (Fig.2.3).  
-●      *Reducing Conditions:* If the mantle were more reducing, carbon would be emitted primarily as CH4 or carbon monoxide (CO). Such an environment would limit the diversity of life forms as it would create an anoxic atmosphere, less suitable for aerobic organisms.  
+●      **The redox state** of Earth's mantle refers to its oxidation-reduction conditions, which significantly influence the types of gases released during volcanic eruptions. The mantle's redox state affects the speciation of volcanic gases, with an oxidizing mantle favoring the release of CO<sub>2</sub> over methane (CH<sub>4</sub>).  
+●      *Oxidizing Conditions:* Earth's mantle is sufficiently oxidizing to release carbon predominantly as CO<sub>2</sub>, which is crucial for maintaining an oxygenated atmosphere and supporting photosynthetic life (Fig.2.3).  
+●      *Reducing Conditions:* If the mantle were more reducing, carbon would be emitted primarily as CH<sub>4</sub> or carbon monoxide (CO). Such an environment would limit the diversity of life forms as it would create an anoxic atmosphere, less suitable for aerobic organisms.  
 ●      *Geological Evidence:* Studies of volcanic rocks and gases provide insights into the historical redox state of the mantle, indicating shifts that could have influenced atmospheric composition and climate over geological timescales.  
-●      *Research Techniques:* Experimental petrology and high-pressure, high-temperature experiments simulate mantle conditions to investigate how redox state influences mineral stability and gas speciation. Geochemical proxies (e.g., V/Sc ratios, Fe3+/Fe2+ ratios) are used to infer redox conditions in different mantle settings. By integrating these detailed explorations into geological, chemical, and physical processes, we can gain a more comprehensive understanding of the factors influencing habitability on Earth and other ocean worlds (Fig.2.3). These insights are crucial for predicting and exploring potential habitats for life beyond our planet.
+●      *Research Techniques:* Experimental petrology and high-pressure, high-temperature experiments simulate mantle conditions to investigate how redox state influences mineral stability and gas speciation. Geochemical proxies (e.g., V/Sc ratios, Fe<sup>3+</sup>/Fe<sup>2+</sup> ratios) are used to infer redox conditions in different mantle settings. By integrating these detailed explorations into geological, chemical, and physical processes, we can gain a more comprehensive understanding of the factors influencing habitability on Earth and other ocean worlds (Fig.2.3). These insights are crucial for predicting and exploring potential habitats for life beyond our planet.
 
 ![A graph of different types of carbon dioxideDescription automatically generated][image8]
 
@@ -138,7 +138,7 @@ Figure 2.4 A schematic illustration of the major deep ocean pathways of the Ther
 
 #### **2.3 Microbial Life Adaptations and Environmental Conditions**
 
-Microbial life on Earth has adapted to a wide range of extreme environments, from high/low pH to high/low pressures and temperatures. These adaptations include metabolisms like hydrogenotrophic methanogenesis, in which microorganisms reduce CO2 and oxidize H2 to produce CH4, and the opposite reaction, and anaerobic oxidation of methane (AOM), which allow microbes to thrive in conditions that seem inhospitable. Studying these mechanisms provides valuable analogs for understanding how life might survive on ocean worlds. The presence of chemical energy sources, such as those produced by serpentinization reactions, and the availability of liquid water are critical factors in sustaining life in these extreme environments.
+Microbial life on Earth has adapted to a wide range of extreme environments, from high/low pH to high/low pressures and temperatures. These adaptations include metabolisms like hydrogenotrophic methanogenesis, in which microorganisms reduce CO<sub>2</sub> and oxidize H<sub>2</sub> to produce CH<sub>4</sub>, and the opposite reaction, and anaerobic oxidation of methane (AOM), which allow microbes to thrive in conditions that seem inhospitable. Studying these mechanisms provides valuable analogs for understanding how life might survive on ocean worlds. The presence of chemical energy sources, such as those produced by serpentinization reactions, and the availability of liquid water are critical factors in sustaining life in these extreme environments.
 
 #### ***2.3.1 Mechanisms of Adaptation: Microbial Life in Extreme Environments***
 
@@ -157,7 +157,7 @@ Many types of potentially life-supporting water-rock reactions exist on Earth, a
 
 **Fig.2.5** An illustrative cross section of the Pacific Ocean (not to scale) from West to East showing a diversity of geologically active environments where water-rock reactions occur at Earth’s modern seafloor.  While we may not anticipate Plate Tectonics to be a standard feature of all ocean worlds, any ocean world with a rocky seafloor could host some form of water-rock interaction.
 
-*Serpentinization Reactions:* While there are many types of water-rock interaction possible on Earth, serpentinization is of particular interest to astrobiologists because it is a geochemical process where ultramafic (low-silica) rocks, rich in Fe and Mg-bearing minerals like olivine and pyroxene (as found pervasively among chondritic meteorites which may represent the bulk starting composition of many ocean world moons), react with water to form serpentine minerals, brucite, magnetite, and hydrogen (H2). This process provides a continuous supply of hydrogen, which can serve as a particularly rich energy source for microbial communities (Fig. 2.6).
+*Serpentinization Reactions:* While there are many types of water-rock interaction possible on Earth, serpentinization is of particular interest to astrobiologists because it is a geochemical process where ultramafic (low-silica) rocks, rich in Fe and Mg-bearing minerals like olivine and pyroxene (as found pervasively among chondritic meteorites which may represent the bulk starting composition of many ocean world moons), react with water to form serpentine minerals, brucite, magnetite, and hydrogen (H<sub>2</sub>). This process provides a continuous supply of hydrogen, which can serve as a particularly rich energy source for microbial communities (Fig. 2.6).
 
 ![A diagram of a chemical reactionDescription automatically generated][image12]
 
@@ -167,12 +167,12 @@ Many types of potentially life-supporting water-rock reactions exist on Earth, a
 
 ●      *Chemical Energy*: In environments where sunlight is not available, such as deep-sea hydrothermal vents, chemosynthetic organisms rely on chemical energy derived from inorganic compounds (see previous section). These organisms utilize processes like hydrogen oxidation, a high energy-yield reaction, to generate energy.  
 o   *Chemosynthesis*: Chemosynthetic bacteria and archaea convert inorganic molecules (e.g., hydrogen sulfide, hydrogen, nitrate, methane) into organic matter, forming the base of the food web in these ecosystems   
-o   *Example:* At hydrothermal vents, chemosynthetic microbes oxidize hydrogen sulfide (H2S) to obtain energy, supporting complex communities of organisms like tube worms, clams, and shrimp.  The following sections introduce two particularly important examples of metabolic pathways.
+o   *Example:* At hydrothermal vents, chemosynthetic microbes oxidize hydrogen sulfide (H<sub>2</sub>S) to obtain energy, supporting complex communities of organisms like tube worms, clams, and shrimp.  The following sections introduce two particularly important examples of metabolic pathways.
 
 #### ***2.3.4 Hydrogenotrophic Methanogenesis***
 
-●      *Process:* This metabolic pathway involves the production of methane (CH4) by microbes that use hydrogen (H2) as an energy source, reacting it with carbon dioxide (CO2).                .  
-o   *Reaction:* 4 H2 \+ CO2 → CH4 \+ 2 H2O.  
+●      *Process:* This metabolic pathway involves the production of methane (CH<sub>4</sub>) by microbes that use hydrogen (H<sub>2</sub>) as an energy source, reacting it with carbon dioxide (CO<sub>2</sub>).               
+o   *Reaction:* 4 H<sub>2</sub> \+ CO<sub>2</sub> → CH<sub>4</sub> \+ 2 H<sub>2</sub>O.  
 o   *Significance:* Hydrogenotrophic methanogenesis supports diverse microbial communities in anoxic environments, such as deep-sea hydrothermal vents, methane seeps, and indeed \- anywhere that serpentinization is occurring \- by providing a source of energy and organic carbon.
 
 ![][image13]
@@ -181,8 +181,8 @@ o   *Significance:* Hydrogenotrophic methanogenesis supports diverse microbial c
 
 #### ***2.3.5 Anaerobic Oxidation of Methane (AOM)***
 
-●      *Process:* AOM involves the microbial oxidation of methane in the absence of oxygen, typically using sulfate (SO4) as the electron acceptor. This process is crucial for controlling methane levels in anoxic environments.  
-o   *Reaction:* CH4 \+ SO42- → HCO3\- \+ HS\- \+ H2O.  
+●      *Process:* AOM involves the microbial oxidation of methane in the absence of oxygen, typically using sulfate (SO<sub>4</sub>) as the electron acceptor. This process is crucial for controlling methane levels in anoxic environments.  
+o   *Reaction:* CH<sub>4</sub> \+ SO<sub>4</sub><sup>2-</sup> → HCO<sub>3</sub><sup>-</sup> \+ HS<sup>-</sup> \+ H<sub>2</sub>O.  
 o   *Significance:* AOM occurs in marine sediments and methane hydrate fields, where it mitigates methane release into the ocean and atmosphere, thus playing a critical role in global carbon cycling and climate regulation (Fig.2.8).
 
 ![A close-up of a cellDescription automatically generated][image14]
