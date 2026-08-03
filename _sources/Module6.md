@@ -1,6 +1,6 @@
 ## **Module 6: The Coupling Between Ice and Ocean on Icy Satellites**
 
-**Authors:** Marggy Chiviri, Wanying Kang, Andy Ridgwell, Tucker Ely, Christopher German
+**Authors:** Wanying Kang, Andy Ridgwell, Tucker Ely, Christopher German, Marggy Chiviri
 
 **Level 1: Foundational Concepts and Basic Information**
 
