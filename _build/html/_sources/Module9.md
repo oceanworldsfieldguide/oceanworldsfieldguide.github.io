@@ -1,6 +1,6 @@
 ## **Module 9: Team exercise: In-situ instrument package for a Ganymede mission**
 
-**Authors: M. Chiviri, M.J. Malaska, J. Hofgartner**
+**Authors: M.J. Malaska, J. Hofgartner, M. Chiviri**
 
 **Introduction - Team Exercise**
 
