@@ -270,7 +270,7 @@ These studies collectively enhance our understanding of the adaptability of micr
 By integrating these technical insights, we deepen our understanding of how life can thrive under conditions vastly different from those on Earth's surface, guiding future research and exploration in astrobiology. 
 
 
-# **Synthesis and Future Directions**
+### **Synthesis and Future Directions**
 
 The concept of "ocean worlds" has expanded our understanding of habitability beyond Earth, driven by discoveries over the past 50 years. The identification of oceans on Jupiter’s moons Europa, Ganymede, and Callisto and on Saturn’s moon Enceladus (where there are even tentative indicators for the presence of hydrothermal activity) has bridged the gap between terrestrial and extraterrestrial aquatic environments, suggesting that life could exist beyond the snowline of our solar system.
 
@@ -281,7 +281,7 @@ Future research should focus on understanding redox systems on ocean worlds, sca
 This module underscores the necessity of interdisciplinary studies,  integrating geosciences, chemistry, biology, and astrobiology to unravel the secrets of habitability on ocean worlds, guiding future explorations and missions in the quest to discover life in the universe. 
 
  
-**References cited.**
+### **References**
 
 J.P.Amend, T.M.McCollom, M.Hentscher, and W.Bach. Catabolic and anabolic energy for chemolithoautotrophs in deep-sea hydrothermal systems hosted in different rock types. Geochim. Cosmochim. Acta, 75, 5736-5748, [https://doi.org/10.1016/j.gca.2011.07.041](https://doi.org/10.1016/j.gca.2011.07.041), 2011\.
 
