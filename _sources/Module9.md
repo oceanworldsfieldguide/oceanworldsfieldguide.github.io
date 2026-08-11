@@ -2,9 +2,9 @@
 
 **Authors**
 
-** M.J. Malaska, J. Hofgartner, M. Chiviri**
+**M.J. Malaska, J. Hofgartner, M. Chiviri**
 
-## **Introduction - Team Exercise**
+**Introduction - Team Exercise**
 
 Unlike the preceding modules in this handbook, Module 9 describes the planning for and outcomes from a Team Exercise that was developed for participants in the in person NOW retreat held on Catalina Island in late Summer, 2023. The goal of the team exercise was for the participants to apply all of the information and knowledge they had gained from the preceding modules (1-8) and harness them to plan for NASA mission that would search for extant life on Ganymede. The participants were divided into eight teams which, prior to the workshop, had been carefully selected and balanced based on the skills and experience levels of the participants. We tried to ensure that every team included at least one member with expertise/experience in each of the following fields: astrobiology, mission planning, instrumentation, chemistry, microbiology, and planetary geology. The teams' members were identified early in the workshop to provide the opportunity for familiarization with each other, and the mission scenario was also presented during the initial session of the retreat. Over the ensuing days, the teams had specific meeting times set aside so that they could plan and discuss not only the instrument packages they might select, but also the specific signals that they would choose to convince the broader scientific community that they had detected extant life. At the end of the workshop, the different teams presented a concise set of slides with their proposed instrument packages and their selections on what should constitute convincing data for the confirmation of extant life, followed by audience questions and feedback. The different teams' results, in aggregate, provided a snapshot of community knowledge and the current state-of-the-art of astrobiology instrumentation within the field of Ocean Worlds investigaions. It also provided valuable information on strategies and needs to develop the next generation of astrobiological instrumentation.
 
@@ -77,7 +77,7 @@ Half of the teams also selected the Phoenix mission MECA suite (most for the wet
 
 If an additional instrument were allowed as part of the package, given a choice between adding an imaging device or some other type of instrument, half of the teams selected a different instrument type.
 
-### **Key takeaways and knowledge gaps identified from the exercise.**
+#### **Key takeaways and knowledge gaps identified from the exercise**
 
 There is a need to:
 
@@ -90,7 +90,7 @@ There is a need to:
 - Enable opportunities to prove future astrobiology instrumentation by selecting non-biological applications.
 - Examine complementary non-imaging instruments for development and instrument suite integration.
 
-### **Concluding Remarks.**
+### **Concluding Remarks**
 
 Overall this was a fun and useful, thought-provoking exercise. Looking forward, it could be presented to an advanced graduate student course as well as at future workshops. It could equally provide an interesting topic for discussion less formally, around a dinner table or campfire at a conference / retreat.
 
