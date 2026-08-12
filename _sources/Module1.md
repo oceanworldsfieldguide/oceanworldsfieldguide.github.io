@@ -6,7 +6,7 @@
 
 Understanding habitability, both on Earth and other ocean worlds within our solar system, requires a comprehensive exploration of various geological, chemical, and physical processes that sustain life. This module delves into the critical factors that make an environment habitable, focusing on Earth’s oceans and extending these concepts to icy ocean worlds like Europa and Enceladus. Through detailed scientific investigation, we aim to bridge the knowledge gap between terrestrial and extraterrestrial aquatic environments, providing insights into the potential for life beyond our home planet.
 
-# **Level 1: Foundational Concepts and Basic Information**
+## **Level 1: Foundational Concepts and Basic Information**
 
 “Ocean worlds” is a new concept, driven by the last 50 years of planetary science in the outer solar system, dating from the launch of the Voyager 1 and 2 missions in 1977 and the discovery of seafloor hydrothermal systems in the same decade. The discovery of oceans in Jupiter’s moons Europa, Ganymede, and Callisto only followed in the early 2000s and we now recognize that (i) these are places with many times more water, possibly as liquid, than in all of Earth’s oceans (Fig.1.1) and (ii) that many more ocean worlds may exist in the outer solar system and beyond (Fig.1.2, Fig.1.3).  Prominent among these is Saturn’s moon Enceladus where salty water with organic material is being actively released into space from its south polar terrain (Hendrix et al., 2019). 
 
@@ -22,7 +22,7 @@ Understanding habitability, both on Earth and other ocean worlds within our sola
 
 **Figure 1.3** The “snow line” for water ice (far left) isn’t the only condensation horizon as we move farther from the sun. The compositions of the solar system’s giant planets (Jupiter, Saturn, Uranus, Neptune) and their moons change with distance from the sun, as lower-freezing-point volatile materials condense and precipitate. Thus, solid and liquid methane and ammonia become more abundant in the Saturn system, and liquid nitrogen plumes have been observed jetting from the surface of Neptune’s moon Triton (Nimmo & Papallardo, 2016).
 
-## **1.1 Habitability Factors of Earth’s Ocean Environments**
+### **1.1 Habitability Factors of Earth’s Ocean Environments**
 
 Earth's oceans are a prime example of a habitable environment, teeming with life in every drop of water. This biological richness is possible, among other reasons, because of the recycling of critical nutrients through ocean circulation, the buffering of pH by Earth’s carbonate system, and the maintenance of clement temperatures and pressures largely due to Earth’s atmosphere. These elements create a stable and life-supporting environment that can sustain a diverse array of marine organisms.
 
