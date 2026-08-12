@@ -20,7 +20,7 @@ Understanding habitability, both on Earth and other ocean worlds within our sola
 
 ![][image3]
 
-**Fig.1.3** The “snow line” for water ice (far left) isn’t the only condensation horizon as we move farther from the sun. The compositions of the solar system’s giant planets (Jupiter, Saturn, Uranus, Neptune) and their moons change with distance from the sun, as lower-freezing-point volatile materials condense and precipitate. Thus, solid and liquid methane and ammonia become more abundant in the Saturn system, and liquid nitrogen plumes have been observed jetting from the surface of Neptune’s moon Triton (Nimmo & Papallardo, 2016).
+**Figure 1.3** The “snow line” for water ice (far left) isn’t the only condensation horizon as we move farther from the sun. The compositions of the solar system’s giant planets (Jupiter, Saturn, Uranus, Neptune) and their moons change with distance from the sun, as lower-freezing-point volatile materials condense and precipitate. Thus, solid and liquid methane and ammonia become more abundant in the Saturn system, and liquid nitrogen plumes have been observed jetting from the surface of Neptune’s moon Triton (Nimmo & Papallardo, 2016).
 
 ## **1.1 Habitability Factors of Earth’s Ocean Environments**
 
@@ -52,7 +52,7 @@ Of course, on other ocean worlds, the specific physical processes and chemical d
 
 ![][image4]
 
-**Fig.1.4**  Cross sections of Europa as an integrated system where habitability will be contingent upon a range of intersecting ocean processes from sub-seafloor circulation to ocean-cryosphere interactions (Vance et al. 2023).
+**Figure 1.4**  Cross sections of Europa as an integrated system where habitability will be contingent upon a range of intersecting ocean processes from sub-seafloor circulation to ocean-cryosphere interactions (Vance et al. 2023).
 
 Across the diverse range of ocean worlds in the outer solar system, the domains of composition, temperature, pressure, and time will undoubtedly differ from those on Earth. But there is much that can be done utilizing theoretical modelling validated by laboratory experiments and judicious choice of analog field studies to help advance our understanding of what might be possible.  Differences in composition can be striking, such as the much higher abundances of non-water volatiles at increasing distance from the sun (see Fig.1.3) and the recognition that other oceans may contain dissolved organic carbon concentrations of \~4%, if derived from chondrites (Schmitt-Koplin et al., 2010\) or even \~40% if comets are the primary source (McKay & Roth, 2021\) compared to deep ocean concentrations on Earth that are limited to just 40 µmol/kg, such is the impact of draw-down by photosynthesis (Carlson & Hansell, 2015).
 
@@ -63,7 +63,7 @@ The present focus of missions like *Europa Clipper* and *JUICE* is on confirming
 
 ![][image5]
 
-**Fig.1.5** Predicted depths of penetration of ocean-derived fluids beneath the seafloor on Mars, Europa and Enceladus derived from an understanding of Earth’s subseafloor hydrogeology (Vance et al., 2007; 2016).
+**Figure 1.5** Predicted depths of penetration of ocean-derived fluids beneath the seafloor on Mars, Europa and Enceladus derived from an understanding of Earth’s subseafloor hydrogeology (Vance et al., 2007; 2016).
 
  
 
@@ -85,7 +85,7 @@ The carbonate-silicate cycle is a key geochemical process that regulates atmosph
 
 ![A diagram of silicate cycle and climate feedDescription automatically generated][image6]
 
-**Fig.2.1** Weathering of Silicate Rocks: Silicate rocks undergo chemical weathering in the presence of CO<sub>2</sub>  and water, producing dissolved ions such as calcium (Ca<sup>2+</sup>), bicarbonate (HCO<sub>3</sub> <sup>-</sup>), and silica (SiO<sub>2</sup>).
+**Figure 2.1** Weathering of Silicate Rocks: Silicate rocks undergo chemical weathering in the presence of CO<sub>2</sub>  and water, producing dissolved ions such as calcium (Ca<sup>2+</sup>), bicarbonate (HCO<sub>3</sub> <sup>-</sup>), and silica (SiO<sub>2</sup>).
 
 Reaction 1: CaSiO<sub>3</sub> (silicate rock) \+ 2 CO<sub>2</sub>  \+ 3 H<sub>2</sub>O → Ca<sup>2+</sup> \+ 2 HCO<sub>3</sub> <sup>-</sup> \+ SiO<sub>2</sub> \+ H<sub>2</sub>O     
 
@@ -103,7 +103,7 @@ Reaction 3: CaCO<sub>3</sub> \+ SiO<sub>2</sub> → CaSiO<sub>3</sub> \+ CO<sub>
 
 ![A diagram of a weathering systemDescription automatically generated][image7]
 
-**Fig. 2.2** Climate Feedback: This cycle acts as a long-term thermostat for Earth's climate. When atmospheric CO<sub>2</sub> levels rise, weathering of silicate rocks accelerates, drawing down CO<sub>2</sub> and cooling the planet. Conversely, when CO<sub>2</sub> levels fall, weathering slows, allowing CO<sub>2</sub> to accumulate and warming the planet.
+**Figure 2.2** Climate Feedback: This cycle acts as a long-term thermostat for Earth's climate. When atmospheric CO<sub>2</sub> levels rise, weathering of silicate rocks accelerates, drawing down CO<sub>2</sub> and cooling the planet. Conversely, when CO<sub>2</sub> levels fall, weathering slows, allowing CO<sub>2</sub> to accumulate and warming the planet.
 
 ### ***2.1.3 Physical Processes: Mantle Redox State***
 
@@ -117,13 +117,13 @@ Reaction 3: CaCO<sub>3</sub> \+ SiO<sub>2</sub> → CaSiO<sub>3</sub> \+ CO<sub>
 
 ![A graph of different types of carbon dioxideDescription automatically generated][image8]
 
-**Fig. 2.3** Variability in carbon speciation in volcanic emissions as a function of mantle redox state
+**Figure 2.3** Variability in carbon speciation in volcanic emissions as a function of mantle redox state
 
 ## **2.2 Thermohaline Circulation**
 
 #### *![A planet with a map of the earthDescription automatically generated][image9]*
 
-**Fig. 2.4** A schematic illustration of the major deep ocean pathways of the Thermohaline Circulation
+**Figure 2.4** A schematic illustration of the major deep ocean pathways of the Thermohaline Circulation
 
 **Mechanism and Importance:**
 
@@ -153,13 +153,13 @@ Many types of potentially life-supporting water-rock reactions exist on Earth, a
 
 ![A diagram of a treeDescription automatically generated][image11]
 
-**Fig.2.5** An illustrative cross section of the Pacific Ocean (not to scale) from West to East showing a diversity of geologically active environments where water-rock reactions occur at Earth’s modern seafloor.  While we may not anticipate Plate Tectonics to be a standard feature of all ocean worlds, any ocean world with a rocky seafloor could host some form of water-rock interaction.
+**Figure 2.5** An illustrative cross section of the Pacific Ocean (not to scale) from West to East showing a diversity of geologically active environments where water-rock reactions occur at Earth’s modern seafloor.  While we may not anticipate Plate Tectonics to be a standard feature of all ocean worlds, any ocean world with a rocky seafloor could host some form of water-rock interaction.
 
 *Serpentinization Reactions:* While there are many types of water-rock interaction possible on Earth, serpentinization is of particular interest to astrobiologists because it is a geochemical process where ultramafic (low-silica) rocks, rich in Fe and Mg-bearing minerals like olivine and pyroxene (as found pervasively among chondritic meteorites which may represent the bulk starting composition of many ocean world moons), react with water to form serpentine minerals, brucite, magnetite, and hydrogen (H<sub>2</sub>). This process provides a continuous supply of hydrogen, which can serve as a particularly rich energy source for microbial communities (Fig. 2.6).
 
 ![A diagram of a chemical reactionDescription automatically generated][image12]
 
-**Fig.2.6**  Serpentinization occurs at mid-ocean ridges, subduction zones, and other tectonically active regions. The hydrogen produced can be utilized by hydrogenotrophic microbes, supporting chemosynthetic ecosystems in these environments.
+**Figure 2.6**  Serpentinization occurs at mid-ocean ridges, subduction zones, and other tectonically active regions. The hydrogen produced can be utilized by hydrogenotrophic microbes, supporting chemosynthetic ecosystems in these environments.
 
 ### ***2.3.3  Energy Sources in Extreme Environments***
 
@@ -175,7 +175,7 @@ o   *Significance:* Hydrogenotrophic methanogenesis supports diverse microbial c
 
 ![][image13]
 
-**Fig.2.7** A schematic illustration of hydrogenotrophic methanogenesis, projected onto a seafloor hydrothermal background (Apollo vent, Gorda Ridge, NE Pacific).
+**Figure 2.7** A schematic illustration of hydrogenotrophic methanogenesis, projected onto a seafloor hydrothermal background (Apollo vent, Gorda Ridge, NE Pacific).
 
 ### ***2.3.5 Anaerobic Oxidation of Methane (AOM)***
 
@@ -185,7 +185,7 @@ o   *Significance:* AOM occurs in marine sediments and methane hydrate fields, w
 
 ![A close-up of a cellDescription automatically generated][image14]
 
-**Fig.2.8** A schematic illustration of the anaerobic oxidation of methane (AOM), projected onto a seafloor hydrothermal background (Apollo vent, Gorda Ridge, NE Pacific).
+**Figure 2.8** A schematic illustration of the anaerobic oxidation of methane (AOM), projected onto a seafloor hydrothermal background (Apollo vent, Gorda Ridge, NE Pacific).
 
 ### ***2.3.6 Applying Earth-based knowledge to Ocean World exploration***
 
