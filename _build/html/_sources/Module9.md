@@ -20,7 +20,7 @@ _Your Team is tasked with selecting an instrument suite that will provide the be
 
 _Other constraints are that instrument chaining (advanced integration beyond what has already flown) is not allowed, but co-boresighting to the same sample is allowed. Another key constraint is that optical instruments are not allowed to look at scales larger than 5x5 pixels at any resolution (thus, no smiley faces, no diatom morphologies, etc.)._ "
 
-Instrument list (broken down by previous target body and mission):
+**Instrument list (broken down by previous target body and mission):**
 
 ![][image1]
 
