@@ -10,7 +10,7 @@ Module 6 explores the coupling between ice and ocean on icy satellites like Ence
 
 ![][image1]
 
-*Figure 6.1 Left: on other ocean worlds, the principal drivers for ocean circulation are likely to be geothermal heating from below, convection driven by regional-scale changes in salinity as a function of melting/freezing processes at the ice-ocean interface and planetary rotation.  Right: on Earth, atmosphere-ocean interactions and the presence of land masses (continents) also play a significant role in deep ocean circulation giving rise to a global-scale thermohaline conveyor that redistributes heat, mass, salt and nutrients essential for / indicative of life throughout the ocean system.* 
+**Figure 6.1** Left: on other ocean worlds, the principal drivers for ocean circulation are likely to be geothermal heating from below, convection driven by regional-scale changes in salinity as a function of melting/freezing processes at the ice-ocean interface and planetary rotation.  Right: on Earth, atmosphere-ocean interactions and the presence of land masses (continents) also play a significant role in deep ocean circulation giving rise to a global-scale thermohaline conveyor that redistributes heat, mass, salt and nutrients essential for / indicative of life throughout the ocean system. 
 
 #### 1.1 Why Study Ocean Dynamics on Icy Moons? 
 
@@ -34,13 +34,13 @@ On large icy moons like Europa, where gravity is strong, ocean circulation is mo
 
 ![][image2]
 
-*Figure 6.2.  Plots showing a series of predictive model outcomes for ice-thickness variability as a function of latitude on (left) Enceladus and (right) Europa. Note that there is a recurrent trend toward some degree of thinning at Enceladus’ poles for all model scenarios.  Conversely, variability in ice shell thickness on Europa only becomes pronounced in the extreme case (bottom row) that there is no heat transport within the underlying ocean.*
+**Figure 6.2.**  Plots showing a series of predictive model outcomes for ice-thickness variability as a function of latitude on (left) Enceladus and (right) Europa. Note that there is a recurrent trend toward some degree of thinning at Enceladus’ poles for all model scenarios.  Conversely, variability in ice shell thickness on Europa only becomes pronounced in the extreme case (bottom row) that there is no heat transport within the underlying ocean.
 
 If heat is released from the seafloor into an ocean covered by a varying-thickness ice shell, any geothermal heating from the seafloor may be significantly redistributed as it moves upward (Kang, 2023). This redistribution is driven by density gradients at the ice-water interface, which arise due to the suppression of the freezing point and the freezing/melting processes necessary to maintain ice thickness variations. Water beneath thick ice tends to be colder and saltier, allowing bottom-heating-driven convection to penetrate through. In contrast, warm, fresh water beneath thin ice should be expected to form a stratified layer that, to some degree, should be expected to block convective plumes from reaching all the way to the ice-ocean interface at those latitudes. Instead, any heat that is obstructed during its vertical rise from the seafloor (e.g. at high latitudes on Enceladus) should be deflected toward regions with thicker ice (e.g. at lower latitudes on Enceladus) as sketched in the left panel of Fig.6.3.
 
 ![][image3]
 
-*Figure 6.3 Illustrations of the interplay among ice thickness variations and upper ocean stratification beneath thin ice (decreasing from left to right) and geothermal heating at the seafloor (increasing from left to right) within an ice-covered ocean.* 
+**Figure 6.3** Illustrations of the interplay among ice thickness variations and upper ocean stratification beneath thin ice (decreasing from left to right) and geothermal heating at the seafloor (increasing from left to right) within an ice-covered ocean. 
 
 #### 2.2 Heat redistribution
 
@@ -48,7 +48,7 @@ The direction of ocean circulation determines the location of the stably stratif
 
 ![][image4]
 
-*Figure 6.4 Cross sections of simulated density (top row) and overturning streamfunction (bottom row) for Enceladus plotted as a function of latitude and depth. Three different ocean salinities are presented as indicated at the top each panel, and the  direction of circulation is indicated by arrows.  See Kang et al. (2022a) for more details.*
+**Figure 6.4** Cross sections of simulated density (top row) and overturning stream function (bottom row) for Enceladus plotted as a function of latitude and depth. Three different ocean salinities are presented as indicated at the top each panel, and the  direction of circulation is indicated by arrows.  See Kang et al. (2022a) for more details.
 
 This circulation causes dense fluid to flow underneath buoyant fluid and, in so doing, converts gravitational potential energy into kinetic energy in the form of ocean currents. This results in the formation of stratification near the surface. On Earth, both the oceans and the atmosphere are strongly stably stratified for similar reasons. A key difference, however, is that the meridional density variations in Earth’s ocean and atmosphere are mainly sustained by the heterogeneous solar heating. 
 
@@ -58,7 +58,7 @@ Kang (2023) derived a threshold to predict the transition from complete to incom
 
 #### 2.3 Ocean momentum transport and ice shell drift
 
-*Figure 6.4  Illustration of the key processes to be considered when investigating the possibility of drift of a floating ice-shell relative to an ocean world’s interior.  See text for discussion and references.*
+**Figure 6.4**  Illustration of the key processes to be considered when investigating the possibility of drift of a floating ice-shell relative to an ocean world’s interior.  See text for discussion and references.
 
 Recent studies (e.g., Hay et al., 2023; Ashkenazy et al., 2023; Kang, 2024\) have begun exploring ice shell drift driven by ocean zonal currents, which could offer an independent constraint on ocean dynamics (Fig.6.4). Accordingly, it is valuable to place constraints on flow speeds and resulting stresses at the water-ice interface. Jansen et al. (2023) provide such a constraint by examining the energetics of icy moons’ oceans: the kinetic energy consumed by boundary friction at the water-ice and water-rock interfaces must not exceed the kinetic energy generated by convection and diffusion. Based on this analysis, Jansen et al. (2023) concluded that the zonal jet speed on Enceladus should not exceed several millimeters per second, and on Europa, it should not exceed several centimeters per second.  Since jets on icy satellites are likely to organize themselves into oscillating bands (Bire et al., 2021), significant cancellation is expected between various jets, leading to even weaker overall torque (Kang, 2024). When ice thickness variations are substantial, the thermal wind relationship can be employed to estimate the torque exerted on the ice shell within the tangent cylinder at higher latitudes (Kang, 2024).  
 
