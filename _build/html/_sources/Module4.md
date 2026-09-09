@@ -30,7 +30,7 @@ A planet's time-varying magnetic field can induce electrical currents in an elec
 
 ### Level 2: Detailed Exploration and Advanced Understanding
 
-### _2.1 Buoyancy-driven Flows_
+#### 2.1 Buoyancy-driven Flows
 
 #### 2.1.1 Destabilizing Temperature and/or Salinity Gradients
 
@@ -102,7 +102,7 @@ One mechanism that can produce turbulent libration-driven flows is the libration
 
 **Figure 2.7** Stability of libration-driven elliptical instability (LDEI) for subsurface oceans. The diagram shows predicted stable and unstable regimes as a function of libration amplitude and viscous effects, with estimated conditions for Europa, Enceladus, and other ocean worlds shown for comparison. Conditions within the unstable region favor LDEI and the development of turbulent flows. From Lemasquerier et al. (2017).
 
-### 2.3 Electromagnetically Pumped Flows
+#### 2.3 Electromagnetically Pumped Flows
 
 Gissinger and Petitdemange (2019) proposed that electromagnetic pumping could play a significant role in driving flows and heating in the Jovian satellites. Electrical currents induced by temporal variations in Jupiter's magnetic field interact with the magnetic field to produce Lorentz forces that can generate complex flow patterns and may contribute to the ocean's thermal balance. Their models predict that this process is most efficient close to the planet, giving the strongest effect for Europa's ocean. The magnitude and dynamical importance of electromagnetic pumping remain debated.
 
@@ -110,7 +110,7 @@ Gissinger and Petitdemange (2019) proposed that electromagnetic pumping could pl
 
 **Figure 2.8** Electromagnetically driven flows in a model of Europa's ocean. Snapshots of the azimuthal velocity field at greater depth in the ocean (left) and closer to the ice–ocean interface (right) illustrate the resulting flow patterns. From Gissinger and Petitdemange (2019).
 
-### 2.4 Testing Ocean Circulation Hypotheses
+#### 2.4 Testing Ocean Circulation Hypotheses
 
 Ocean circulation hypotheses on distant ocean worlds can be tested using a variety of indirect and direct observations (see also Module 6).
 
@@ -120,7 +120,7 @@ Ocean circulation hypotheses on distant ocean worlds can be tested using a varie
 
 **Shape, topography, and ice-shell behavior** provide additional constraints on ocean dynamics. Measurements of topography and ice thickness can be used to infer variations in heat flow along the ice–ocean interface and thereby constrain the underlying thermal and oceanographic processes (e.g., Kvorka et al. 2018, Čadek et al. 2019, Kang et al. 2022a, Lemasquerier et al. 2023). Ocean circulation may also influence the dynamics of the overlying ice shell: zonal flows with a persistent preferred direction may exert torques that contribute to ice-shell reorientation. Measurements of non-synchronous rotation could therefore provide a diagnostic of ocean currents (e.g., Hay et al. 2023, Ashkenazy et al. 2023, Kang 2024).
 
-### Summary Points
+### Level 2 Summary Points
 
 • Planetary oceans are rich dynamical systems with flows excited and modulated by buoyancy forcing, tides, libration, precession, and electromagnetic forcing. The resulting circulation depends on factors including rotation, salinity, pressure, and stratification, and the relative importance of different driving mechanisms may vary among ocean worlds. Understanding interactions and feedbacks among buoyancy-driven, mechanically driven, and potentially electromagnetically driven flows is necessary to characterize subsurface ocean dynamics and interpret mission observations.
 
