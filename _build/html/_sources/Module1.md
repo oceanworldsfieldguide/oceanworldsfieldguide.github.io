@@ -6,7 +6,7 @@
 
 Understanding habitability, both on Earth and other ocean worlds within our solar system, requires a comprehensive exploration of various geological, chemical, and physical processes that sustain life. This module delves into the critical factors that make an environment habitable, focusing on Earth’s oceans and extending these concepts to icy ocean worlds like Europa and Enceladus. Through detailed scientific investigation, we aim to bridge the knowledge gap between terrestrial and extraterrestrial aquatic environments, providing insights into the potential for life beyond our home planet.
 
-### **Level 1: Foundational Concepts and Basic Information**
+### Level 1: Foundational Concepts and Basic Information
 
 “Ocean worlds” is a new concept, driven by the last 50 years of planetary science in the outer solar system, dating from the launch of the Voyager 1 and 2 missions in 1977 and the discovery of seafloor hydrothermal systems in the same decade. The discovery of oceans in Jupiter’s moons Europa, Ganymede, and Callisto only followed in the early 2000s and we now recognize that (i) these are places with many times more water, possibly as liquid, than in all of Earth’s oceans (Fig.1.1) and (ii) that many more ocean worlds may exist in the outer solar system and beyond (Fig.1.2, Fig.1.3).  Prominent among these is Saturn’s moon Enceladus where salty water with organic material is being actively released into space from its south polar terrain (Hendrix et al., 2019). 
 
@@ -67,7 +67,7 @@ The present focus of missions like *Europa Clipper* and *JUICE* is on confirming
 
  
 
-## **Level 2: Detailed Exploration and Advanced Understanding**
+### **Level 2: Detailed Exploration and Advanced Understanding**
 
 #### **2.1 Geological, Chemical, and Physical Processes**
 
