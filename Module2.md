@@ -8,7 +8,7 @@ Biogeochemical cycles are essential processes that regulate the flow of nutrient
 
 ### **Level 1: Foundational Concepts and Basic Information**
 
-### **Part I: Lessons Learned from Early Earth & the Ocean Worlds in Our Ancient Backyard**
+### **_Part I: Lessons Learned from Early Earth & the Ocean Worlds in Our Ancient Backyard_**
 
 #### **1.1 Biogeochemical Cycling**
 
@@ -182,7 +182,7 @@ On Europa, potential abiotic material fluxes include the transfer of nutrients a
 
 ### **Level 3: Technical Insights and Case Studies**
 
-### **Part II: Geochemical Cycling in Icy Worlds**
+### **_Part II: Geochemical Cycling in Icy Worlds_**
 
 #### **3.1 Parameters Driving Ocean World (OW):**
 
