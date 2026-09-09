@@ -118,7 +118,8 @@ This passage from a *Nature* 2020 article highlights the presence of bioavailabl
 
 #### **2.3 Pathways of Nutrient Cycling and Energy Flow** 
 
-### *2.3.1 Seafloor weathering and modes of seafloor weathering resurfacing:* 
+##### *2.3.1 Seafloor weathering and modes of seafloor weathering resurfacing:* 
+
 The article "Nutrient Supply to Planetary Biospheres from Anoxic Weathering of Mafic Oceanic Crust" in Geophysical Research Letters examine how anoxic weathering of mafic (magnesium and iron-rich) oceanic crust releases essential nutrients like phosphorus and iron. These nutrients are critical for biological processes and are released through chemical reactions involving water and minerals in oxygen-free environments. This process is crucial for sustaining nutrient supply and biological productivity, especially in ocean worlds or early Earth scenarios where other nutrient sources may be limited. The study highlights that similar anoxic weathering processes on planets or moons like Europa and Enceladus could create nutrient-rich environments conducive to life. The interaction between geophysical processes, such as tectonic activity, and geochemical cycles, including seafloor weathering, plays a vital role in maintaining nutrient supply and supporting sustained habitability over geological timescales. 
 
 ![A screenshot of a computerDescription automatically generated][image15]
