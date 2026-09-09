@@ -120,7 +120,7 @@ Ocean circulation hypotheses on distant ocean worlds can be tested using a varie
 
 **Shape, topography, and ice-shell behavior** provide additional constraints on ocean dynamics. Measurements of topography and ice thickness can be used to infer variations in heat flow along the ice–ocean interface and thereby constrain the underlying thermal and oceanographic processes (e.g., Kvorka et al. 2018, Čadek et al. 2019, Kang et al. 2022a, Lemasquerier et al. 2023). Ocean circulation may also influence the dynamics of the overlying ice shell: zonal flows with a persistent preferred direction may exert torques that contribute to ice-shell reorientation. Measurements of non-synchronous rotation could therefore provide a diagnostic of ocean currents (e.g., Hay et al. 2023, Ashkenazy et al. 2023, Kang 2024).
 
-### Level 2 Summary Points
+### Levels 1 and 2: Summary Points
 
 • Planetary oceans are rich dynamical systems with flows excited and modulated by buoyancy forcing, tides, libration, precession, and electromagnetic forcing. The resulting circulation depends on factors including rotation, salinity, pressure, and stratification, and the relative importance of different driving mechanisms may vary among ocean worlds. Understanding interactions and feedbacks among buoyancy-driven, mechanically driven, and potentially electromagnetically driven flows is necessary to characterize subsurface ocean dynamics and interpret mission observations.
 
