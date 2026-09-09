@@ -12,7 +12,7 @@ Earth serves as an analog for understanding extraterrestrial oceans through the 
 
 This module combines physical principles with Earth-based analogs and case studies to understand oceanic processes on Earth and icy worlds, preparing researchers to interpret observations from missions such as Europa Clipper, Juice, and Dragonfly.
 
-### Level 1: Foundational Concepts and Basic Information
+### **Level 1: Foundational Concepts and Basic Information**
 
 Scientists rely on several methods to infer ocean dynamics, each with inherent limitations. Analytical and numerical models are essential but constrained by simplifying assumptions and computational resources. Laboratory experiments, while valuable, cannot reproduce the full range of planetary scales and conditions. Earth analogs allow comparative analysis, although significant differences between Earth and other celestial bodies pose challenges. Below, we draw on these complementary techniques to explore selected oceanographic processes that may occur in the outer solar system.
 
@@ -28,7 +28,7 @@ Mechanically driven flows arise primarily from gravitational interactions with t
 
 A planet's time-varying magnetic field can induce electrical currents in an electrically conducting subsurface ocean of an orbiting satellite. These currents interact with the magnetic field to produce Lorentz forces that may drive oceanic flows. This process is particularly relevant for moons orbiting planets with strong magnetic fields, such as Jupiter, where electromagnetic forcing could generate complex flow patterns in subsurface oceans (Gissinger and Petitdemange 2019).
 
-### Level 2: Detailed Exploration and Advanced Understanding
+### **Level 2: Detailed Exploration and Advanced Understanding**
 
 #### 2.1 Buoyancy-driven Flows
 
@@ -126,7 +126,7 @@ Ocean circulation hypotheses on distant ocean worlds can be tested using a varie
 
 • Ice–ocean interactions involve the exchange of material, heat, and momentum and can both drive and suppress ocean circulation. These interactions are a critical yet understudied component of ocean-world systems and must be considered when interpreting their dynamics and evolution.
 
-### Level 3: Technical Insights and Case Studies
+### **Level 3: Technical Insights and Case Studies**
 
 #### 3.1: Earth as an Analog for Ocean World Hydrogeology
 
@@ -206,7 +206,7 @@ Some researchers have hypothesized that there are hydrothermal systems on the se
 
 Ridge-flank hydrothermal systems on Earth may be useful analogs for hydrothermal systems on ocean worlds. These do not require active magmatism or plate tectonics. Recent numerical simulations of ridge-flank hydrothermal circulation under gravity conditions appropriate for Europa and Enceladus suggest that, even with lower buoyancy, circulation systems can be sustained over geologic time (Fisher et al. 2024). A later study explored a broader range of thermal and geological conditions to evaluate what kinds of hydrothermal activity may be most likely to occur on specific ocean worlds (Akiba and Fisher 2025). Permeability remains virtually unconstrained for these bodies, as it can only be determined with confidence through direct measurements and experiments. That said, simulations are useful for testing what ranges of this and other important parameters could control hydrothermal activity, and thus the habitability of ocean worlds.
 
-### References
+### **References**
 
 Akiba, R. and Fisher, A. T. (2025). Parameter space exploration of low-to-moderate-temperature hydrothermal systems on ocean worlds using a Monte Carlo framework. Planetary Science Journal, 6(9), 210. <https://doi.org/10.3847/PSJ/adf558>
 
