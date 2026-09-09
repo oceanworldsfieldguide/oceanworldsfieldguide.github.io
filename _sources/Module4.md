@@ -1,4 +1,4 @@
-## Module 4: Ocean Processes on Earth and Ocean Worlds
+## **Module 4: Ocean Processes on Earth and Ocean Worlds**
 
 **Authors**
 
