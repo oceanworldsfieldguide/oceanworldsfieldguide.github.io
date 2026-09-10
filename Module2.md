@@ -210,7 +210,12 @@ Many candidate ocean worlds, like Uranian moons and dwarf planets, may host subs
 
 Modified from: [https://www.planetary.org/space-images/interiors-of-icy-bodies](https://www.planetary.org/space-images/interiors-of-icy-bodies)
 
+**Figure 3.2** Motivation for the investigation of candidate ocean worlds, i.e., small ocean worlds with limited heat sources. These objects are likely to contain a significant amount of carbon (organic matter, carbon-bearing ices) and residual oceans with high solute concentrations. 
+
 ![A diagram of the planetsDescription automatically generated][image26]
+
+**Figure 3.3** First-order quantification of the tidal and radiogenic heat budget of icy moons and dwarf planets, assuming all the moons are characterized by a ratio of tidal Love number k2 to dissipation factor Q equal to 1 (this ratio would normally differ among bodies depending on their internal evolution.) 
+
 
 #### **3.5 Case Study – Ceres:** 
 
@@ -218,17 +223,26 @@ Ceres, a dwarf planet in the asteroid belt, shows evidence of carbon in multiple
 
 ![A diagram of a geochemical cycleDescription automatically generated][image27]
 
+**Figure 3.4** Observations of carbon in multiple forms have been obtained by the Dawn mission and suggest the cycling of carbon occurred during Ceres’ history. 
+
+
 #### **3.6 Major Stages in Icy Body Evolution:**
 
 The evolution of icy bodies includes accretion, differentiation, and possible thermodynamic death. Soluble organics and gas hydrates influence these stages, affecting the chemistry of subsurface oceans.
 
 ![A diagram of layers of iceDescription automatically generated][image28]
 
+**Figure 3.5** Schematic evolution of small icy bodies, including the main reservoirs of carbon. These bodies may preserve a residual layer of liquid at present that is enriched in solutes and organic matter. 
+
+
 ##### ***3.6.1 Metamorphism Plays a Major Role in Icy Body Evolution:***
 
 Second generation oceans can significantly impact the chemical environment and potential habitability. 
 
 ![][image29]
+
+**Figure 3.6** The thermal metamorphism of rocky minerals and organic compounds trapped in the cores of icy bodies can release a significant fraction of fluids (water, carbon dioxide, methane, etc.) that shift the environments of the residual oceans. 
+
 
 ##### ***3.6.2 Partitioning of Accreted Carbon Compounds:***
 
@@ -241,6 +255,8 @@ Accreted carbon compounds undergo various transformations in oceans and mantles.
 
 ![A diagram of different colored circlesDescription automatically generated][image31]
 
+**Figure 3.8** Predicted composition of oceans in icy worlds that accreted carbon dioxide and ammonia, which is expected in most bodies in the outer solar system.
+
 Castillo‐Rogez, J.C., Daswani, M.M., Glein, C.R., Vance, S.D. and Cochrane, C.J., 2022\. Contribution of non‐water ices to salinity and electrical conductivity in Ocean Worlds. *Geophysical Research Letters*, *49*(16), p.e2021GL097256.
 
 doi:[10.1029/2021GL097256](https://doi.org/10.1029/2021GL097256)
@@ -251,6 +267,8 @@ Clathrates, ice-like structures that trap gases, act as insulating materials in 
 
 ![A diagram of a sea creatureDescription automatically generated with medium confidence][image32]
 
+**Figure 3.9** Dissolved carbonates and methane can form clathrate hydrates under certain conditions.
+
 Courville, S.W., Castillo-Rogez, J.C., Daswani, M.M., Gloesener, E., Choukroun, M. and O’Rourke, J.G., 2023\. Timing and Abundance of Clathrate Formation Control Ocean Evolution in Outer Solar System Bodies: Challenges of Maintaining a Thick Ocean within Pluto. *The Planetary Science Journal*, *4*(9), p.179. doi:10.3847/PSJ/acf377
 
 ##### ***3.6.5 Knowledge Gap: How is Organic Matter Distributed*** 
@@ -258,6 +276,8 @@ Courville, S.W., Castillo-Rogez, J.C., Daswani, M.M., Gloesener, E., Choukroun, 
 Understanding how organic matter is distributed within icy bodies is crucial for assessing their habitability. Organic matter can be mixed with rock or exist separately, influencing the availability of carbon dioxide and other gasses in the ocean. Two models have been suggested (slide below). In Model 1, the bulk organic matter sinks with the rock; in Model 2, the bulk of the organics accumulate at the base of the hydrosphere.  
 
 ![A diagram of a structureDescription automatically generated][image33]
+
+**Figure 3.10** There has been little research about the distribution of accreted organic matter following the differentiation of a rocky core from an ice shell. This figure shows the two models that have been suggested in the literature. 
 
 Néri, A., Guyot, F., Reynard, B. and Sotin, C., 2020\. A carbonaceous chondrite and cometary origin for icy moons of Jupiter and Saturn. *Earth and Planetary Science Letters*, *530*, p.115920. doi:[10.1016/j.epsl.2019.115920](https://doi.org/10.1016/j.epsl.2019.115920)
 
@@ -267,9 +287,13 @@ Metamorphic fluids rich in carbon dioxide shift the environment towards oxidizin
 
 ![][image34]
 
+**Figure 3.11** The release of carbon dioxide about the breakdown of organic compounds and carbonates present in Ceres’ rocky core is likely an important source of the sodium carbonate evaporites found across Ceres’ surface.
+
 Daswani, M.M. and Castillo-Rogez, J.C., 2022\. Porosity-filling metamorphic brines explain ceres’s low mantle Density. *The Planetary Science Journal*, *3*(1), p.21. doi:10.3847/PSJ/ac4509
 
 ![][image35]
+
+**Figure 3.12** Occator crater features large expanses of salts, in particular sodium carbonates, that are sourced from a deep brine reservoir.
 
 ##### ***3.7.1 Preservation of Deep Oceans in Uranus' Major Moons \- CI Composition:***
 
@@ -277,17 +301,25 @@ Studies assuming a CI chondritic composition suggest that deep oceans in Uranus'
 
 ![A diagram of the moon and the moonDescription automatically generated][image36]
 
+**Figure 3.13** “Baseline” models for the current interior structures of Uranus’ major moons assuming radioisotope decay heating as the main heat source. These models predict that, except for Miranda, the moons would preserve tens of kilometers of liquid until present, while Miranda could be frozen at present. In practice, Miranda and Ariel were likely involved in tidal resonances. Increased tidal heating compared to the Figure 3.3 predictions likely led to the surfacing of these moons. 
+
+
 ##### ***3.7.2 Oceans Expected to be Rich in NH<sub>3</sub>/NH<sub>4</sub>, Cl, CO<sub>3</sub> :***
 
 Oceans in icy worlds are expected to be rich in ammonia (NH<sub>3</sub>), ammonium (NH<sub>4</sub>), chlorides (Cl), and carbonates (CO<sub>3</sub>), which are crucial for maintaining chemical disequilibrium and supporting potential biological processes.
 
 ![A graph of a graph showing the amount of water in the oceanDescription automatically generated with medium confidence][image37]
 
+**Figure 3.14** Concentrations of key species expected in icy moons as a function of temperature and fraction of liquid left. 
+
 Castillo‐Rogez, J., Weiss, B., Beddingfield, C., Biersteker, J., Cartwright, R., Goode, A., Melwani Daswani, M. and Neveu, M., 2023\. Compositions and interior structures of the large moons of Uranus and implications for future spacecraft observations. *Journal of Geophysical Research: Planets*, *128*(1), p.e2022JE007432. doi:[10.1029/2022JE007432](https://doi.org/10.1029/2022JE007432)
 
 #### **3.8 Example of Application \- Implications of Chemical and Energy Cycling for Enceladus’ Origin of Life and Long-Term Habitability** 
 
 ![A black hole with a red point and a red arrow pointing at itDescription automatically generated][image38]
+
+**Figure 3.15** Enceladus orbits within Saturn's E ring and is a tidally locked icy satellite with a diameter of 504 km and an orbital period of 32.9 hours (Credit: NASA/JPL-Caltech).
+
 
 * Gravity Measurements: Indicate the presence of a subsurface ocean.  
 * Forced Physical Libration: Confirms the ocean’s existence.  
@@ -300,6 +332,8 @@ Castillo‐Rogez, J., Weiss, B., Beddingfield, C., Biersteker, J., Cartwright, R
 Enceladus has evolved through a combination of tidal heating and radiogenic decay, leading to the formation of a subsurface ocean beneath its icy crust. The presence of active geysers, detected by the Cassini spacecraft, indicates ongoing geological activity. Enceladus exhibits a dynamic system with active plumes ejecting water, organic molecules, and other materials from its subsurface ocean into space. This provides direct evidence of the internal processes at play.
 
 ![A diagram of the moonDescription automatically generated][image39] 
+
+**Figure 3.16** Cassini spacecraft detected an active plume venting from Enceladus’ south polar region, likely sourced from a global subsurface ocean (Credit: NASA/JPL-Caltech).
 
 * Liquid Water Availability: Confirms the presence of liquid water in the subsurface ocean.  
 * Chemical Energy: Indications of chemical energy sources like hydrogen.  
@@ -316,9 +350,16 @@ The presence of carbon, hydrogen, nitrogen, oxygen, phosphorus, and sulfur is es
 
 ![][image40]
 
+**Figure 3.17** Detection of phosphates in Enceladus' plume from Cassini plume sampling (Postberg et al., 2023), indicating that all CHNOPS elements may be present in the moon's subsurface ocean. 
+
+
 ![][image41]
 
+**Figure 3.18** Proposed geochemical cycling within Enceladus' interior. Hydrothermal reactions at the ocean-rock interface and oxidant production at the ice shell may create redox gradients that provide energy sources for potential biological activity. (Credit: NASA/JPL-Caltech).
+
 ![A screen shot of a graphDescription automatically generated][image42]
+
+**Figure 3.19** Thermodynamic constraints on methanogenesis in Enceladus’ subsurface ocean. Cassini INMS measurements suggest the ocean may provide sufficient Gibbs free energy to sustain microbial metabolism under plausible pH conditions (Waite et al., 2017).
 
 Enceladus is a prime candidate for harboring life due to its subsurface ocean, chemical energy sources, essential elements, and ongoing hydrothermal activity. These factors contribute to a potentially habitable environment, making it a significant target for astrobiological studies.
 
