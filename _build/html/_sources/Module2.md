@@ -198,7 +198,9 @@ On Europa, potential abiotic material fluxes include the transfer of nutrients a
 
 ![][image24]
 
-[https://staff.fnwi.uva.nl/c.w.ormel/science.html](https://staff.fnwi.uva.nl/c.w.ormel/science.html)  
+[https://staff.fnwi.uva.nl/c.w.ormel/science.html](https://staff.fnwi.uva.nl/c.w.ormel/science.html)
+
+**Figure 3.1** Summary of the rationale for considering carbon-rich, cometary pebbles as a possible feedstock for icy moons.  
 
 #### **3.4 Residual Ocean Worlds:** 
 
