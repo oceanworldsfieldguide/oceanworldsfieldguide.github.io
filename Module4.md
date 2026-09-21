@@ -132,7 +132,7 @@ Ocean circulation hypotheses on distant ocean worlds can be tested using a varie
 
 Some ocean worlds may sustain active, seafloor hydrothermal systems, but the characteristics and controls on fluid-heat-solute transport in these systems are poorly understood. This should not be surprising, as little is known about the "plumbing" of thermally driven circulation systems on Earth's seafloor, and much of what we think we know is inferred from limited observations and models based on highly idealized representations of water-rock systems. The current state of hydrogeologic studies of hydrothermal circulation on ocean worlds looks a lot like studies from the 1970s for equivalent systems on Earth – there were few observations combined with hypotheses and a lot of strongly held beliefs that would require decades of sampling, measurements, and analyses to test in a rigorous way.
 
-### **_3.1.1 Why Permeability?_**
+#### **_3.1.1 Why Permeability?_**
 
 On Earth, hydrogeologists investigating hydrothermal systems often focus on the transportation and storage of fluid, as well as how heat, solutes, and biology are impacted by this movement. Fluids are present in the Earth's crust at the surface, of course, and small amounts of fluid may extend to 10-15 kilometers in depth. These fluids play large roles in physical and chemical processes, energy transport, and a variety of reactions. Understanding how hydrogeologic parameters control a variety of processes is important on Earth (Figure 3.1), as it must also be on ocean worlds.
 
