@@ -4,7 +4,7 @@
 
 **Wanying Kang, Andy Ridgwell, Tucker Ely, Christopher German, Marggy Chiviri**
 
-### **Level 1: Foundational Concepts and Basic Information**
+## **Level 1: Foundational Concepts and Basic Information**
 
 Module 6 explores the coupling between ice and ocean on icy satellites like Enceladus and Europa, focusing on understanding the processes governing 1\) ocean circulation, 2\) heat transport, and 3\) momentum transport. Ocean circulation is the large scale movement of water throughout ocean basins. Cold, salty water is most dense whereas fresh, warm water is least dense. Earth’s cold poles create deep mixing and enact a ‘conveyer belt’ in the ocean that transports heat and redistributes nutrients away from their sources (Fig.6.1, right panel). On Earth, interaction with the atmosphere is an important driver of ocean circulation: water mass transport is driven by wind as well as cooling at high latitudes and can generate both horizontal and vertical motion throughout the oceans, at all latitudes. 
 
@@ -12,19 +12,19 @@ Module 6 explores the coupling between ice and ocean on icy satellites like Ence
 
 **Figure 6.1** Left: on other ocean worlds, the principal drivers for ocean circulation are likely to be geothermal heating from below, convection driven by regional-scale changes in salinity as a function of melting/freezing processes at the ice-ocean interface and planetary rotation.  Right: on Earth, atmosphere-ocean interactions and the presence of land masses (continents) also play a significant role in deep ocean circulation giving rise to a global-scale thermohaline conveyor that redistributes heat, mass, salt and nutrients essential for / indicative of life throughout the ocean system. 
 
-#### 1.1 Why Study Ocean Dynamics on Icy Moons? 
+### **1.1 Why Study Ocean Dynamics on Icy Moons?** 
 
 Ocean circulation on an ocean world has the potential to make an ocean habitable by replenishing nutrients, and could render potential biosignatures observable by transporting them to the ice-ocean interface from where they could be transported to that moon’s exterior. Heat transport in the ocean together with other processes (e.g. dissipative heat production in the ice forced by tide, ice flow) determines the ice thickness profile on Earth and on icy moons while momentum transport, together with gravity pull from other moons, can cause the ice shell to drift relative to the ocean and core — both phenomena can potentially be observed by future space missions (Howell & Papallardo, 2020; MacKenzie et al., 2021). If we understand how heat and momentum transports are affected by the interior properties of the ocean and core (salinity, dissipation rate, partition of heat production between ice shell and silicate core), we can use observations to put constraints on these properties. Essentially, we have an inverse problem with remote sensing where the surface can be imaged and provide hints about subsurface characteristics. By developing forward models based upon Earth’s ocean models, researchers can investigate and deduce what types of dynamic processes are active within an icy moon’s ocean based on direct observations of  variations in ice conditions, such as thickness, surface morphologies, that are revealed at the surface (see reviews by Soderlund et al., 2024; Kang et al., in review). 
 
 Theories for Earth's ocean can be generalized to make predictions of other icy moon oceans. This interdisciplinary approach, combining planetary science, oceanography, and astrobiology, is vital for advancing our understanding of these enigmatic worlds and their potential for harboring life.
 
-#### 1.2 Ocean circulation patterns and habitability
+### **1.2 Ocean circulation patterns and habitability**
 
 Ocean circulation plays a vital role in the transport of tracers, including nutrients and biosignatures, and has significant implications for habitability. To fully understand ocean circulation, it is essential to consider the forces exerted not only by the silicate core but also by the ice shell. Variations in ice shell thickness can lead to the development of temperature and salinity gradients beneath the ice (Kang et al., 2022). Temperature gradients arise because the freezing point of water varies with pressure, which is influenced by the ice thickness. Salinity gradients, on the other hand, are caused by the ongoing processes of freezing and melting required to maintain these variations in ice thickness against the flow of ice. These temperature and salinity gradients are key drivers of ocean circulation.
 
-### **Level 2: Detailed Exploration and Advanced Understanding**
+## **Level 2: Detailed Exploration and Advanced Understanding**
 
-#### 2.1 Ocean Heat Transport with ice applications
+### **2.1 Ocean Heat Transport with ice applications**
 
 In addition to transporting tracers, ocean circulation also plays a crucial role in redistributing heat across different latitudes, which in turn influences ice freezing and melting. In an equilibrium state, the divergence and convergence of ice flow must balance with the rates of freezing and melting, which are controlled by ice dissipation, conductive heat loss through the ice, and heat exchange with the ocean. The extent of heat transport within the ocean is therefore a key factor in determining variations in ice thickness.
 
@@ -42,7 +42,7 @@ If heat is released from the seafloor into an ocean covered by a varying-thickne
 
 **Figure 6.3** Illustrations of the interplay among ice thickness variations and upper ocean stratification beneath thin ice (decreasing from left to right) and geothermal heating at the seafloor (increasing from left to right) within an ice-covered ocean. 
 
-#### 2.2 Heat redistribution
+### **2.2 Heat redistribution**
 
 The direction of ocean circulation determines the location of the stably stratified layer. If the circulation descends over the poles \- as might be predicted for a low salinity scenario, stratification will be expected to form at low latitudes (Figure 6.4, left column). Conversely, if the circulation descends over the equator as predicted for a high salinity scenario on Enceladus, stratification would be expected to form over the poles (Figure 6.4, right column).
 
@@ -56,7 +56,7 @@ Importantly, any stratified layer can slow down the vertical mixing of any key c
 
 Kang (2023) derived a threshold to predict the transition from complete to incomplete heat deflection, where bottom heating released from the seafloor beneath thin ice can project onto the ice shell to some extent (Figure 6.3, right panel). The minimum bottom heat flux needed to overcome the surface stratified layer for Enceladus and Europa is usually orders of magnitude greater than the largest permissible geothermal heat flux that would, if increased any further, result in predicted melting of the moon’s ice-shell. Within this permissible range of heat generation, basal heating from the seafloor only serves to *diminish* predicted variations in ice thickness on these moons.  Rather, it is heterogeneous heat production within the ice shell that serves to maintain thickness variations. Thus, if an ocean world’s silicate core is the primary heat source responsible for sustaining a liquid interior ocean, we should expect that moon’s ice shell thickness to be relatively uniform. Conversely, if strong ice thickness variations are observed on any given moon, we can infer that the majority of its heat is likely generated through tidal flexure within its ice shell instead of coming from the silicate interior.
 
-#### 2.3 Ocean momentum transport and ice shell drift
+### **2.3 Ocean momentum transport and ice shell drift**
 
 ![][image5]
 
@@ -66,7 +66,7 @@ Recent studies (e.g., Hay et al., 2023; Ashkenazy et al., 2023; Kang, 2024\) hav
 
 In scenarios where seafloor ocean pressures are relatively low, such as on Enceladus, the ocean is predicted to circulate in opposite directions at high and low salinities due to the fact that thermal expansivity is positive when salinity exceeds 22 psu and negative below this threshold. This results in nutrient and biosignature upwelling occurring in polar regions at high salinity and in equatorial regions at low salinity (Kang et al., 2022). However this is not expected to be the case for larger icy satellites like Europa and Ganymede.  There deep ocean pressures are so much higher that anomalous thermal expansion will be suppressed. Ocean circulation driven by a poleward thinning ice shell tends to descend in areas covered by thick ice and ascend in regions with thinner ice. It should be noted, however, that such overturning within an ocean is usually manifested by small eddies, so the concepts of “ascending” and “descending” motion are only valid in an averaged sense (Interested readers wishing to learn more are encouraged to search for “*Transformed Eulerian mean theory*”). 
 
-### **References**
+## **References**
 
 Ashkenazy, Y.,  Tziperman, E., &  Nimmo, F. (2023).  Non-synchronous rotation on Europa driven by ocean currents. *AGU Advances*,  4, e2022AV000849. [https://doi.org/10.1029/2022AV000849](https://doi.org/10.1029/2022AV000849)
 
