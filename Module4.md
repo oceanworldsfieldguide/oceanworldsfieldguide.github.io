@@ -12,27 +12,27 @@ Earth serves as an analog for understanding extraterrestrial oceans through the 
 
 This module combines physical principles with Earth-based analogs and case studies to understand oceanic processes on Earth and icy worlds, preparing researchers to interpret observations from missions such as Europa Clipper, Juice, and Dragonfly.
 
-### **Level 1: Foundational Concepts and Basic Information**
+## **Level 1: Foundational Concepts and Basic Information**
 
 Scientists rely on several methods to infer ocean dynamics, each with inherent limitations. Analytical and numerical models are essential but constrained by simplifying assumptions and computational resources. Laboratory experiments, while valuable, cannot reproduce the full range of planetary scales and conditions. Earth analogs allow comparative analysis, although significant differences between Earth and other celestial bodies pose challenges. Below, we draw on these complementary techniques to explore selected oceanographic processes that may occur in the outer solar system.
 
-#### 1.1 Buoyancy-driven Flows
+### **1.1 Buoyancy-driven Flows**
 
 Buoyancy-driven currents are caused by density differences associated with variations in temperature and/or salinity. These can, for example, result from heating at the seafloor and/or salinity variations associated with melting and freezing at the ice–ocean interface. On Earth, such density differences contribute to large-scale currents and convection patterns that play important roles in global climate and nutrient distribution (Liu et al. 2020, Rae et al. 2020). Similar processes are hypothesized to occur on ocean worlds under their distinct thermal and compositional conditions.
 
-#### 1.2 Mechanically Driven Flows
+### **1.2 Mechanically Driven Flows**
 
 Mechanically driven flows arise primarily from gravitational interactions with the host planet and variations in the satellite's orbital and rotational state (e.g., Le Bars et al. 2015). Tides, libration, and precession can mechanically force the ocean and generate currents and turbulence. Earth's tides, caused primarily by the gravitational pull of the Moon and the Sun, serve as a familiar example. Similar mechanisms may drive significant flows in the oceans of icy worlds (e.g., Lemasquerier et al. 2017, Rovira-Navarro et al. 2023).
 
-#### 1.3 Electromagnetically Pumped Flows
+### **1.3 Electromagnetically Pumped Flows**
 
 A planet's time-varying magnetic field can induce electrical currents in an electrically conducting subsurface ocean of an orbiting satellite. These currents interact with the magnetic field to produce Lorentz forces that may drive oceanic flows. This process is particularly relevant for moons orbiting planets with strong magnetic fields, such as Jupiter, where electromagnetic forcing could generate complex flow patterns in subsurface oceans (Gissinger and Petitdemange 2019).
 
-### **Level 2: Detailed Exploration and Advanced Understanding**
+## **Level 2: Detailed Exploration and Advanced Understanding**
 
-#### 2.1 Buoyancy-driven Flows
+### **2.1 Buoyancy-driven Flows**
 
-#### 2.1.1 Destabilizing Temperature and/or Salinity Gradients
+#### **_2.1.1 Destabilizing Temperature and/or Salinity Gradients_**
 
 Buoyancy-driven flows can result from thermal and/or compositional convection arising from unstable density gradients in the ocean due to temperature and/or salinity variations. When the thermal expansion coefficient is positive, heat from the satellite's interior warms the lower ocean layers, making them less dense and causing them to rise, while cooler, denser water in the upper ocean sinks. Similarly, freezing along the ice–ocean interface can increase the salinity of the surrounding water, causing this denser fluid to sink and offering another mechanism for driving overturning circulation.
 
@@ -42,7 +42,7 @@ The study by Soderlund (2019), among others, highlights how rotation organizes t
 
 **Figure 2.1** Rotational influence on convection and zonal flows in simulations of subsurface oceans. Models with moderate rotational influence (left) produce relatively broad temperature structures and large-scale zonal flows, whereas models with strong rotational influence (right) produce smaller-scale, rotation-aligned temperature and velocity structures. The contrasting flow regimes illustrate the debated role of rotation in controlling the interior dynamics of icy-moon oceans. Adapted from Soderlund (2019), Bire et al. (2022), and Soderlund et al. (2024).
 
-#### 2.1.2 Stabilizing Effects
+#### **_2.1.2 Stabilizing Effects_**
 
 In sub-ice oceans, two key processes can have a stabilizing effect on buoyancy-driven flows: local freshening of the water and a negative thermal expansion coefficient (e.g., Melosh et al. 2004, Zeng and Jansen 2021, Kang et al. 2022a).
 
@@ -54,7 +54,7 @@ For small ocean worlds with low pressures and low salinities (e.g., Enceladus an
 
 **Figure 2.2** Stabilizing effects of freshening and anomalous thermal expansion near the ice–ocean interface. Melting of the ice shell introduces fresher, less-dense water that can remain buoyant near the top of the ocean (left). At low pressures and salinities, a negative thermal expansion coefficient can similarly cause colder water near the ice–ocean interface to be buoyant (right). Both effects promote stable stratification and reduce vertical exchange between the ice–ocean interface and the bulk ocean. Background image: NASA/JPL-Caltech.
 
-#### 2.1.3 Spatially Heterogeneous Melting and Freezing Dynamics
+#### **_2.1.3 Spatially Heterogeneous Melting and Freezing Dynamics_**
 
 The model from Lobo et al. (2021), developed for Enceladus, illustrates how melting and freezing along the ice–ocean interface can drive buoyancy-driven flows and lead to overturning ocean circulation (Figure 2.3).
 
@@ -64,7 +64,7 @@ When seawater freezes, salt is preferentially excluded from the growing ice, inc
 
 **Figure 2.3** Ice–ocean interactions can drive overturning circulation in subsurface oceans. Melting and freezing along Enceladus' ice–ocean interface produce lateral variations in buoyancy that drive ocean circulation. Freezing rejects salt and produces denser water that sinks, while melting introduces fresher, more buoyant water; together, these buoyancy contrasts drive sinking and compensating upwelling in different regions of the ocean. From Lobo et al. (2021).
 
-#### 2.1.4 Double-Diffusive Convection
+#### **_2.1.4 Double-Diffusive Convection_**
 
 Opposing temperature and compositional gradients can interact in complex ways, leading to double-diffusive convection, as observed in some of Earth's oceans (e.g., Schmitt 1994).
 
@@ -74,7 +74,7 @@ Double-diffusive convection occurs when temperature and composition have opposin
 
 **Figure 2.4** Buoyancy regimes beneath the ice shells of ocean worlds. The combination of melting or freezing at the ice–ocean interface and the sign of the thermal expansion coefficient (α) can produce overturning convection, salt-finger convection, oscillatory double-diffusive convection, or suppressed convection. Colors indicate temperature (orange = warm; blue = cold), and dots represent dissolved salt. Credit: Arefe Ghazi Nezami.
 
-#### 2.1.5 Ice–Ocean Interaction Regimes
+#### **_2.1.5 Ice–Ocean Interaction Regimes_**
 
 Ocean salinity, together with temperature and pressure, strongly influences the nature of ocean circulation (Figure 2.5). At low salinities and low pressures, circulation could be analogous to that in freshwater lakes on Earth, where water below the temperature of maximum density becomes less dense as it cools (this is why freshwater lakes freeze from the top down). At higher pressures, however—for example, beneath an ice shell tens of kilometers thick on Europa—the thermal expansion behavior can change such that colder water instead becomes denser and sinks. If the ocean is sufficiently salty, water can become denser as it cools even at low pressures, and ice–ocean interactions more analogous to those beneath Antarctic ice shelves may occur (Lawrence et al. 2024).
 
@@ -82,7 +82,7 @@ Ocean salinity, together with temperature and pressure, strongly influences the 
 
 **Figure 2.5** Ice–ocean interaction regimes as a function of ocean salinity and pressure. Differences in the density response of water to temperature and salinity lead to distinct circulation regimes, ranging from lake-like (lacustrine) behavior at low pressures and salinities to marine behavior at higher pressures or salinities. Approximate conditions for several ocean worlds and Antarctic ice shelves are shown. From Lawrence et al. (2024).
 
-#### 2.2 Mechanically Driven Flows
+### **2.2 Mechanically Driven Flows**
 
 The models reviewed in Soderlund et al. (2020, 2024) explore the flow fields and sea-surface displacements in Europa's ocean due to mechanical forces such as eccentricity tides, obliquity tides, and libration (Figure 2.6).
 
@@ -102,7 +102,7 @@ One mechanism that can produce turbulent libration-driven flows is the libration
 
 **Figure 2.7** Stability of libration-driven elliptical instability (LDEI) for subsurface oceans. The diagram shows predicted stable and unstable regimes as a function of libration amplitude and viscous effects, with estimated conditions for Europa, Enceladus, and other ocean worlds shown for comparison. Conditions within the unstable region favor LDEI and the development of turbulent flows. From Lemasquerier et al. (2017).
 
-#### 2.3 Electromagnetically Pumped Flows
+### **2.3 Electromagnetically Pumped Flows**
 
 Gissinger and Petitdemange (2019) proposed that electromagnetic pumping could play a significant role in driving flows and heating in the Jovian satellites. Electrical currents induced by temporal variations in Jupiter's magnetic field interact with the magnetic field to produce Lorentz forces that can generate complex flow patterns and may contribute to the ocean's thermal balance. Their models predict that this process is most efficient close to the planet, giving the strongest effect for Europa's ocean. The magnitude and dynamical importance of electromagnetic pumping remain debated.
 
@@ -110,7 +110,7 @@ Gissinger and Petitdemange (2019) proposed that electromagnetic pumping could pl
 
 **Figure 2.8** Electromagnetically driven flows in a model of Europa's ocean. Snapshots of the azimuthal velocity field at greater depth in the ocean (left) and closer to the ice–ocean interface (right) illustrate the resulting flow patterns. From Gissinger and Petitdemange (2019).
 
-#### 2.4 Testing Ocean Circulation Hypotheses
+### **2.4 Testing Ocean Circulation Hypotheses**
 
 Ocean circulation hypotheses on distant ocean worlds can be tested using a variety of indirect and direct observations (see also Module 6).
 
@@ -120,19 +120,19 @@ Ocean circulation hypotheses on distant ocean worlds can be tested using a varie
 
 **Shape, topography, and ice-shell behavior** provide additional constraints on ocean dynamics. Measurements of topography and ice thickness can be used to infer variations in heat flow along the ice–ocean interface and thereby constrain the underlying thermal and oceanographic processes (e.g., Kvorka et al. 2018, Čadek et al. 2019, Kang et al. 2022a, Lemasquerier et al. 2023). Ocean circulation may also influence the dynamics of the overlying ice shell: zonal flows with a persistent preferred direction may exert torques that contribute to ice-shell reorientation. Measurements of non-synchronous rotation could therefore provide a diagnostic of ocean currents (e.g., Hay et al. 2023, Ashkenazy et al. 2023, Kang 2024).
 
-### **Levels 1 and 2: Summary Points**
+## **Levels 1 and 2: Summary Points**
 
 • Planetary oceans are rich dynamical systems with flows excited and modulated by buoyancy forcing, tides, libration, precession, and electromagnetic forcing. The resulting circulation depends on factors including rotation, salinity, pressure, and stratification, and the relative importance of different driving mechanisms may vary among ocean worlds. Understanding interactions and feedbacks among buoyancy-driven, mechanically driven, and potentially electromagnetically driven flows is necessary to characterize subsurface ocean dynamics and interpret mission observations.
 
 • Ice–ocean interactions involve the exchange of material, heat, and momentum and can both drive and suppress ocean circulation. These interactions are a critical yet understudied component of ocean-world systems and must be considered when interpreting their dynamics and evolution.
 
-### **Level 3: Technical Insights and Case Studies**
+## **Level 3: Technical Insights and Case Studies**
 
-#### 3.1: Earth as an Analog for Ocean World Hydrogeology
+### **3.1 Earth as an Analog for Ocean World Hydrogeology**
 
 Some ocean worlds may sustain active, seafloor hydrothermal systems, but the characteristics and controls on fluid-heat-solute transport in these systems are poorly understood. This should not be surprising, as little is known about the "plumbing" of thermally driven circulation systems on Earth's seafloor, and much of what we think we know is inferred from limited observations and models based on highly idealized representations of water-rock systems. The current state of hydrogeologic studies of hydrothermal circulation on ocean worlds looks a lot like studies from the 1970s for equivalent systems on Earth – there were few observations combined with hypotheses and a lot of strongly held beliefs that would require decades of sampling, measurements, and analyses to test in a rigorous way.
 
-##### 3.1.1 Why Permeability?
+### **_3.1.1 Why Permeability?_**
 
 On Earth, hydrogeologists investigating hydrothermal systems often focus on the transportation and storage of fluid, as well as how heat, solutes, and biology are impacted by this movement. Fluids are present in the Earth's crust at the surface, of course, and small amounts of fluid may extend to 10-15 kilometers in depth. These fluids play large roles in physical and chemical processes, energy transport, and a variety of reactions. Understanding how hydrogeologic parameters control a variety of processes is important on Earth (Figure 3.1), as it must also be on ocean worlds.
 
@@ -160,7 +160,7 @@ Given all of this complexity, why are we so concerned with permeability? We care
 
 **Figure 3.2** Relation between measurements and sampling done by Earth scientists, chemists, and biologists (typically the "state" of a coupled system) and the processes that we seek to understand (shown on the right). Turning observations into processes requires that we make key assumptions about permeability (modified from Fisher 1998, Wilcock and Fisher 2004).
 
-##### 3.1.2 Oceanic Crust as an Aquifer
+#### **_3.1.2 Oceanic Crust as an Aquifer_**
 
 While we often think of the Earth's crust as being built of solid rock, the upper ocean crust is actually a very permeable "aquifer" in many places. Earth's oceanic crust is the largest aquifer on a global basis, and holds as much water as all the ice caps and glaciers on the planet. There is a lot more water stored in the uppermost crust (rock and sediment) than in the lower crust, where there is much less open space available. The upper 1 km of volcanic rock in the ocean crust is especially porous and permeable in many places (Figure 3.3).
 
@@ -174,7 +174,7 @@ As an aquifer, Earth's ocean crust hosts many forms of hydrothermal circulation,
 
 **Figure 3.4** Hydrothermal circulation through Earth's seafloor occurs across a wide range of temperature conditions (top row). Systems that discharge at higher temperatures (left) tend to be found where solidifying magma and lava release heat rapidly, as at seafloor spreading centers. Systems that discharge at lower temperatures (right) are found on ridge flanks, areas far from active volcanism. An analysis of conductive heat flow through Earth's seafloor shows that about 20-25% of Earth's heat loss is not measured - this is inferred to be advective heat loss, facilitated by hydrothermal flows. Most of this heat loss occurs at low temperatures, far from spreading centers, because of massive flow of low-temperature fluids (bottom row).
 
-##### 3.1.3 Case Study: Testing Permeability Along the Juan de Fuca Ridge
+#### **_3.1.3 Case Study: Testing Permeability Along the Juan de Fuca Ridge_**
 
 Scientists involved in deep sea drilling, including the Integrated Ocean Drilling Program (IODP), have drilled, sampled and conducted tests in the upper ocean crust at sites around the world. Some of these boreholes have had observatories installed, to allow long-term measurements and sampling of crustal fluids. One set of boreholes with observatories was installed on the eastern flank of the Juan de Fuca Ridge, in the northeastern Pacific Ocean, where the ocean crust is relatively young (3.5 M.y. old) and mostly buried by thick sediments that poured off North America with the flows of major rivers, especially during glacial low-stands of sea level.
 
@@ -200,13 +200,13 @@ Subsequent numerical studies confirmed that regional permeability that is somewh
 
 **Figure 3.7** Summary of permeability data collected from direct testing of subseafloor boreholes drilled into the upper ocean crust (modified from Fisher et al. 2014). Two main forms of tests were conducted in most holes: P = pressure/pumping perturbation, T = free-flow calculations based on temperature logs. The study discussed in this module was a unique cross-hole flow test.
 
-##### 3.1.4 Hydrogeology on Earth and Ocean Worlds
+#### **_3.1.4 Hydrogeology on Earth and Ocean Worlds_**
 
 Some researchers have hypothesized that there are hydrothermal systems on the seafloors of ocean worlds. If this is correct, it could have important implications for habitability and the sustainability of life on and within ocean world seafloors. But much depends on how much fluid flows, how it reacts with an underlying silicate core, and what happens when that fluid flows into the overlying ocean.
 
 Ridge-flank hydrothermal systems on Earth may be useful analogs for hydrothermal systems on ocean worlds. These do not require active magmatism or plate tectonics. Recent numerical simulations of ridge-flank hydrothermal circulation under gravity conditions appropriate for Europa and Enceladus suggest that, even with lower buoyancy, circulation systems can be sustained over geologic time (Fisher et al. 2024). A later study explored a broader range of thermal and geological conditions to evaluate what kinds of hydrothermal activity may be most likely to occur on specific ocean worlds (Akiba and Fisher 2025). Permeability remains virtually unconstrained for these bodies, as it can only be determined with confidence through direct measurements and experiments. That said, simulations are useful for testing what ranges of this and other important parameters could control hydrothermal activity, and thus the habitability of ocean worlds.
 
-### **References**
+## **References**
 
 Akiba, R. and Fisher, A. T. (2025). Parameter space exploration of low-to-moderate-temperature hydrothermal systems on ocean worlds using a Monte Carlo framework. Planetary Science Journal, 6(9), 210. <https://doi.org/10.3847/PSJ/adf558>
 
