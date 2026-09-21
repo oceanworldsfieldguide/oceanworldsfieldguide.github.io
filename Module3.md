@@ -14,7 +14,7 @@ By addressing foundational concepts, advanced methodologies, and future directio
 
 ## **Level 1: Foundational Concepts and Basic Information**
 
-### 1.1 The Challenges of Searching for Evidence of Life on Ocean Worlds
+### **1.1 The Challenges of Searching for Evidence of Life on Ocean Worlds**
 
 The search for evidence of life beyond Earth faces important challenges. Some challenges are technological, other challenges are programmatic, and other challenges stem from the fact that life on Earth represents the only example of life we can study. Some of these challenges are briefly summarized below.
 
@@ -32,7 +32,7 @@ The search for evidence of life beyond Earth faces important challenges. Some ch
 **Technical Challenges**: There are several technical challenges for life detection missions. For example, interesting locations to search for evidence of life, such as the outer Solar System or deep subsurface regions on Mars are hard to reach or require considerable technological investment. Astrobiology missions also require sophisticated payloads including sampling systems, sample preparation, and ultrasensitive instruments, along with stringent contamination control to avoid compromising life detection efforts. This technological complexity is exacerbated by the fact that spacecraft missions are often constrained by limited power, data capacity, and size, which can further restrict mission duration and scientific capabilities.
 
 
-### 1.2 Frameworks for Life Detection
+### **1.2 Frameworks for Life Detection**
 
 Developing frameworks for searching for evidence of life beyond Earth is crucial because they provide structured methodologies for designing, executing, and interpreting life detection missions. These frameworks ensure that scientific goals are clearly linked to mission requirements, guiding the selection of appropriate instruments, sampling techniques, and contamination controls. They also help address Earth-centric biases by broadening the scope of investigation to include life forms that may differ from those on Earth. Moreover, such frameworks facilitate coordination between interdisciplinary teams, optimize resource allocation, and ensure that critical scientific objectives are not overlooked, ultimately increasing the chances of detecting life or signs of habitability in extraterrestrial environments. Several frameworks exist in the literature, and some of them are summarized below:
 
@@ -56,7 +56,7 @@ Developing frameworks for searching for evidence of life beyond Earth is crucial
 
 ![][image6]
 
-### 2.1 Ocean Worlds and Chemical Evolution
+### **2.1 Ocean Worlds and Chemical Evolution**
 
 
 ![][image7]
@@ -64,18 +64,18 @@ Developing frameworks for searching for evidence of life beyond Earth is crucial
 Focusing on the theory of organic chemical evolution (OCE) is a powerful approach for searching for evidence of life in ocean worlds because it provides a comprehensive framework that accounts for both abiotic and biotic possibilities. Ocean worlds, with their liquid water and geochemical activity, present unique environments where organic molecules can form and evolve. The theory of OCE posits that life emerges through a series of prebiotic chemical steps, starting with simple molecules and gradually building up to complex organic polymers capable of self-replication. This framework avoids the pitfalls of focusing exclusively on biosignatures, which presuppose the existence of life and may result in confirmation bias. Instead, by systematically investigating the chemical evolution of organic matter, this approach ensures a broader and more reliable path to discovering life or its precursors (Davila and Eigenbrode, 2024).
 
 
-### 2.2 Continuum of Chemical Evolution
+### **2.2 Continuum of Chemical Evolution**
 
 ![][image8]
 
 The progression from simple molecules to complex biochemical systems is continuous, with life being the most complex and organized form of this process. Researchers seeking evidence of life beyond Earth must consider environments and processes that span from non-living (abiotic) to pre-life (prebiotic) and finally to living (biotic) states. Identifying and understanding prebiotic chemistry is crucial as it informs the selection of sites and the types of analyses necessary for detecting potential signs of life. This perspective encourages a broader approach to life detection, one that includes studying environments that may not currently host life but possess the chemical precursors and conditions that could potentially support life in the future (Barge et al., 2022; Davila & Eigenbrode, 2024).
 
 
-### 2.3 Prebiotic Chemistry as a Guide
+### **2.3 Prebiotic Chemistry as a Guide**
 
 Prebiotic chemistry refers to the chemical processes and reactions that occur before the emergence of life, which can lead to the formation of the basic building blocks of life, such as amino acids, nucleotides, and simple organic molecules. By understanding where and how prebiotic chemical processes can occur, scientists can better identify locations on other planets and moons that have the potential to support the development of life. This includes environments with the right chemical ingredients and conditions that favor prebiotic reactions (Barge et al., 2022).
 
-### 2.4 Laying the foundation to search for evidence of life beyond Earth
+### **2.4 Laying the foundation to search for evidence of life beyond Earth**
 
 
 ![][image9]
