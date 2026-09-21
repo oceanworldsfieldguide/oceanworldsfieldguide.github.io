@@ -12,9 +12,9 @@ Technical challenges, including sample acquisition and contamination control, ar
 
 By addressing foundational concepts, advanced methodologies, and future directions, Module 3 equips researchers with some of the knowledge and tools needed for the astrobiological exploration of Ocean Worlds.
 
-### **Level 1: Foundational Concepts and Basic Information**
+## **Level 1: Foundational Concepts and Basic Information**
 
-#### 1.1 The Challenges of Searching for Evidence of Life on Ocean Worlds
+### 1.1 The Challenges of Searching for Evidence of Life on Ocean Worlds
 
 The search for evidence of life beyond Earth faces important challenges. Some challenges are technological, other challenges are programmatic, and other challenges stem from the fact that life on Earth represents the only example of life we can study. Some of these challenges are briefly summarized below.
 
@@ -32,7 +32,7 @@ The search for evidence of life beyond Earth faces important challenges. Some ch
 **Technical Challenges**: There are several technical challenges for life detection missions. For example, interesting locations to search for evidence of life, such as the outer Solar System or deep subsurface regions on Mars are hard to reach or require considerable technological investment. Astrobiology missions also require sophisticated payloads including sampling systems, sample preparation, and ultrasensitive instruments, along with stringent contamination control to avoid compromising life detection efforts. This technological complexity is exacerbated by the fact that spacecraft missions are often constrained by limited power, data capacity, and size, which can further restrict mission duration and scientific capabilities.
 
 
-#### 1.2 Frameworks for Life Detection
+### 1.2 Frameworks for Life Detection
 
 Developing frameworks for searching for evidence of life beyond Earth is crucial because they provide structured methodologies for designing, executing, and interpreting life detection missions. These frameworks ensure that scientific goals are clearly linked to mission requirements, guiding the selection of appropriate instruments, sampling techniques, and contamination controls. They also help address Earth-centric biases by broadening the scope of investigation to include life forms that may differ from those on Earth. Moreover, such frameworks facilitate coordination between interdisciplinary teams, optimize resource allocation, and ensure that critical scientific objectives are not overlooked, ultimately increasing the chances of detecting life or signs of habitability in extraterrestrial environments. Several frameworks exist in the literature, and some of them are summarized below:
 
@@ -52,11 +52,11 @@ Developing frameworks for searching for evidence of life beyond Earth is crucial
 
 
 
-### **Level 2: Detailed Exploration and Advanced Understanding**
+## **Level 2: Detailed Exploration and Advanced Understanding**
 
 ![][image6]
 
-#### 2.1 Ocean Worlds and Chemical Evolution
+### 2.1 Ocean Worlds and Chemical Evolution
 
 
 ![][image7]
@@ -64,18 +64,18 @@ Developing frameworks for searching for evidence of life beyond Earth is crucial
 Focusing on the theory of organic chemical evolution (OCE) is a powerful approach for searching for evidence of life in ocean worlds because it provides a comprehensive framework that accounts for both abiotic and biotic possibilities. Ocean worlds, with their liquid water and geochemical activity, present unique environments where organic molecules can form and evolve. The theory of OCE posits that life emerges through a series of prebiotic chemical steps, starting with simple molecules and gradually building up to complex organic polymers capable of self-replication. This framework avoids the pitfalls of focusing exclusively on biosignatures, which presuppose the existence of life and may result in confirmation bias. Instead, by systematically investigating the chemical evolution of organic matter, this approach ensures a broader and more reliable path to discovering life or its precursors (Davila and Eigenbrode, 2024).
 
 
-#### 2.2 Continuum of Chemical Evolution
+### 2.2 Continuum of Chemical Evolution
 
 ![][image8]
 
 The progression from simple molecules to complex biochemical systems is continuous, with life being the most complex and organized form of this process. Researchers seeking evidence of life beyond Earth must consider environments and processes that span from non-living (abiotic) to pre-life (prebiotic) and finally to living (biotic) states. Identifying and understanding prebiotic chemistry is crucial as it informs the selection of sites and the types of analyses necessary for detecting potential signs of life. This perspective encourages a broader approach to life detection, one that includes studying environments that may not currently host life but possess the chemical precursors and conditions that could potentially support life in the future (Barge et al., 2022; Davila & Eigenbrode, 2024).
 
 
-#### 2.3 Prebiotic Chemistry as a Guide
+### 2.3 Prebiotic Chemistry as a Guide
 
 Prebiotic chemistry refers to the chemical processes and reactions that occur before the emergence of life, which can lead to the formation of the basic building blocks of life, such as amino acids, nucleotides, and simple organic molecules. By understanding where and how prebiotic chemical processes can occur, scientists can better identify locations on other planets and moons that have the potential to support the development of life. This includes environments with the right chemical ingredients and conditions that favor prebiotic reactions (Barge et al., 2022).
 
-#### 2.4 Laying the foundation to search for evidence of life beyond Earth
+### 2.4 Laying the foundation to search for evidence of life beyond Earth
 
 
 ![][image9]
@@ -83,11 +83,11 @@ Prebiotic chemistry refers to the chemical processes and reactions that occur be
 Each ocean world represents a unique opportunity to study the gradual and complex process of chemical evolution at planetary scales. How the observations and foundational knowledge from previous missions/current state of knowledge lay the groundwork for future exploration can be thought of as building towards the difficult goal of search for life in a hierarchical strategy. One possibility is to articulate a set of investigations and associated measurements that minimize risk and maximize science return, for example by combining investigations that are general, inclusive and lower risk (e.g., characterizing the general organic inventory) with others that are specific, stringent and higher risk (e.g., searching for specific biosignatures) (Davila and Eigenbrode, 2024). The particulars of such a strategy will be unique to each world, both because of the different environments offered and the different histories of exploration/available data. Each ocean world might provide unique clues about chemical evolution and organic synthesis. By studying different environments, scientists can gather a wide range of data that enhances the overall understanding of potential habitats for life.
 
 
-### **Level 3: Ocean World Destinations**
+## **Level 3: Ocean World Destinations**
 
-#### Technical Insights and Case Studies
+## **_Technical Insights and Case Studies_**
 
-##### **3.1 Enceladus: Cassini Observations**
+### **3.1 Enceladus: Cassini Observations**
 
 
 ![][image10]
@@ -98,7 +98,7 @@ Cassini's instruments (INMS and CDA) detected a variety of organic compounds in 
 
 The organic film model proposes that organic materials, carried by ascending bubbles in Enceladus' subsurface ocean, become concentrated near the water table and are ejected into space, forming organic-rich ice grains (Postberg et al. 2018b).
 
-##### **3.2 Europa: The First Identified Ocean World**
+### **3.2 Europa: The First Identified Ocean World**
 
 Europa's subsurface ocean is considered a prime candidate for potential life due to its chemical environment, which may support the necessary interactions between oxidants at the surface and reductants in the subsurface. The moon's icy crust and possible geological activity could facilitate the exchange of materials, creating a dynamic environment for chemical evolution. Observations suggest that Europa's ocean is acidic (pH 4-6) with notable species like H<sub>2</sub>, CO<sub>2</sub>, NH<sub>3</sub>, CH<sub>4</sub>, and various organics. The potential for cryovolcanism, subduction, brine drainage, and impacts could enhance chemical interactions and support prebiotic chemistry (Hand et al., 2022)​.
 
@@ -108,7 +108,7 @@ Europa's subsurface ocean is considered a prime candidate for potential life due
 
 ![A diagram of a layer of water Description automatically generated][image14]
 
-##### **3.3 Titan: Diverse Environments for Chemical Evolution:**
+### **3.3 Titan: Diverse Environments for Chemical Evolution**
 
 
 ![][image15]
@@ -122,14 +122,14 @@ Titan, Saturn's largest moon, has a thick atmosphere primarily composed of nitro
 **Subsurface Ocean:** Beneath Titan's icy crust, there is strong evidence for a subsurface ocean of liquid water mixed with ammonia. This ocean is kept in a liquid state due to the heat generated by tidal forces from Saturn and possibly from the decay of radioactive elements. The interaction between the surface hydrocarbons and the subsurface water-ammonia ocean can lead to the formation of complex prebiotic molecules. The complex interactions between these different environments make Titan a prime candidate for studying prebiotic chemistry and the potential for life. Future missions like Dragonfly will continue to explore these possibilities, providing deeper insights into the processes that could lead to life beyond Earth.
 
 
-##### **3.4 Ceres: Insights into Ancient Oceanic Environments:**
+### **3.4 Ceres: Insights into Ancient Oceanic Environments**
 
 ![][image17]
 
 Ceres, the largest object in the asteroid belt between Mars and Jupiter, is considered a relic ocean world. Evidence suggests that Ceres once had a global ocean, which has since frozen and potentially formed a thick layer of ice beneath its surface. Geological features observed on Ceres, such as the bright spots in Occator Crater, indicate past and possibly ongoing water activity. These spots are composed of salts, particularly sodium carbonate, suggesting the presence of briny water in the past. Ceres shows evidence of cryovolcanic activity, where subsurface briny liquids have erupted onto the surface. This process indicates that Ceres may still harbor pockets of liquid water or brine beneath its icy crust. The surface of Ceres contains a variety of hydrated minerals, including clays and carbonates, which form through interactions between water and rock. These minerals indicate that Ceres has experienced significant water-rock interactions, essential for prebiotic chemistry. Organic molecules have been detected on Ceres, particularly around Ernutet Crater. These compounds, combined with evidence of water and geological activity, point to complex chemical processes that could support prebiotic chemistry (Castillo-Rogez et al., 2020).
 
 
-### **Synthesis and Future Directions**
+## **Synthesis and Future Directions**
 
 Module 3 addresses the complexities, challenges, and strategies inherent to the search for evidence of life beyond Earth, emphasizing the need to overcome Earth-centric biases and develop integrated scientific investigations. Traditional biosignature searches are limited by biases and false negatives. The astrobiological community is advancing frameworks to interpret environments along the abiotic-prebiotic-biotic spectrum.
 
@@ -143,7 +143,7 @@ Enhanced research infrastructure is crucial. Establishing data-sharing bridges, 
 
 In conclusion, interdisciplinary collaboration and innovative approaches are essential to overcome life detection challenges beyond Earth. By addressing these areas, we can advance our understanding of potential extraterrestrial life, leveraging combined efforts and advanced technologies to explore the unknown.
 
-### **References**
+## **References**
 
 Barge, L. M., Rodriguez, L. E., Weber, J. M., & Theiling, B. P. (2022). Determining the "Biosignature Threshold" for Life Detection on Biotic, Abiotic, or Prebiotic Worlds. Astrobiology, 22(4), 481-493. <https://doi.org/10.1089/ast.2021.0079>
 
