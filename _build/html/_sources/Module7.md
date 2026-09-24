@@ -1,4 +1,4 @@
-## Module 7: Missions and Technologies Between Earth and Planetary Sciences
+## **Module 7: Missions and Technologies Between Earth and Planetary Sciences**
 
 **Authors**
 
