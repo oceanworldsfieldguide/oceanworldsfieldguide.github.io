@@ -91,7 +91,7 @@ Image credit: Harvard Magazine ([https://www.harvardmagazine.com/2023/04/feature
 
 ## **References**
 
-Chirayath, V., E. Bagshaw, K. Craft, H. Dierssen, D. Kline, D. Lim, M. Malaska, O. Pizarro, S. Purkis, D. Schroeder, P. Sobron, S. Waller, and D. Winebrenner. **2022**. Oceans across the solar system and the search for extraoceanic life: Technologies for remote sensing and in situ exploration. Oceanography 35(1):54–65, [https://doi.org/10.5670/oceanog.2021.416](https://doi.org/10.5670/oceanog.2021.416)
+Chirayath, V., E. Bagshaw, K. Craft, H. Dierssen, D. Kline, D. Lim, M. Malaska, O. Pizarro, S. Purkis, D. Schroeder, P. Sobron, S. Waller, and D. Winebrenner. 2022. Oceans across the solar system and the search for extraoceanic life: Technologies for remote sensing and in situ exploration. Oceanography 35(1):54–65, [https://doi.org/10.5670/oceanog.2021.416](https://doi.org/10.5670/oceanog.2021.416)
 
 Dierssen et al. (2006) Limnol. Oceanogr., 51(6), 2006, 2646–2659. [https://doi.org/10.4319/lo.2006.51.6.2646](https://doi.org/10.4319/lo.2006.51.6.2646)
 
