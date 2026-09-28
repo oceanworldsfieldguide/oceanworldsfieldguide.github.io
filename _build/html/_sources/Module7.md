@@ -95,7 +95,7 @@ Chirayath, V., E. Bagshaw, K. Craft, H. Dierssen, D. Kline, D. Lim, M. Malaska, 
 
 Dierssen et al. (2006) Limnol. Oceanogr., 51(6), 2006, 2646–2659. [https://doi.org/10.4319/lo.2006.51.6.2646](https://doi.org/10.4319/lo.2006.51.6.2646)
 
-Johnsen et al. 2013. Underwater hyperspectral imagery to create biogeochemical maps of seafloor properties. Chapter 20. In Subsea Optics and Imaging. Ed. J. Watson and O. Zielinski. Woodhead Publishing. DOI : 10.1533/9780857093523.3.508. pp. 508-535.
+Johnsen et al. 2013. Underwater hyperspectral imagery to create biogeochemical maps of seafloor properties. Chapter 20. In Subsea Optics and Imaging. Ed. J. Watson and O. Zielinski. Woodhead Publishing. DOI : [10.1533/9780857093523.3.508](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780857093417500200). pp. 508-535.
 
 Lombard et al. (2019) Globally Consistent Quantitative Observations of Planktonic Ecosystems. Front. Mar. Sci. 6:196. doi: [10.3389/fmars.2019.00196](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2019.00196/full).
 
