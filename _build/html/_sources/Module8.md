@@ -12,7 +12,7 @@ This integrated approach is essential for several reasons. Firstly, laboratory e
 
 Overall, Module 8 aims to provide a detailed understanding of the experimental techniques and findings that are shaping our knowledge of ocean worlds. By focusing on both foundational and advanced topics, the module prepares researchers to tackle the complexities of these fascinating environments and supports the ongoing quest to explore the potential for life beyond Earth.
 
-## **1.1 The Icy Shell**
+### **1.1 The Icy Shell**
 
 Rheology is the study of how material flows and deforms in response to stress. It influences the surface morphologies that we observe and the ability for nutrients, chemicals, and heat to be generated and transported through the icy shell. Complicated models of flow and transport rely on physical properties that are determined in the laboratory. Experiments are designed to isolate specific physical properties and determine their rate controlling factors, such as temperature, pressure, and stress. A non-exhaustive list of mechanical properties and the geometries used to measure them in the lab are provided in Figure 1. In addition to these mechanical tests, laboratory studies can be used to study thermal, electric, and thermodynamic properties. All of this information is vital for interpreting data from remote sensing and space missions, and for developing models that predict the behavior of materials in ocean worlds.
 
@@ -24,21 +24,21 @@ Laboratory studies can also be used to determine how well mission architecture c
 
 **Figure 1** Cartoon of various mechanical properties and the testing geometries used to measure them
 
-## **1.2 The Surface**
+### **1.2 The Surface**
 
 The surface is the only part of an ocean world that can be directly observed. Determining what is on the surface and how that accurately reflects the material within the ice crust is a challenge. Laboratory experiments are used to constrain both the chemistry and crystallinity of the surface material by studying the spectroscopic signals of candidate materials. These studies provide data for a library of potential cryominerals that can be used to model complicated mixtures and dynamic processes. Recent studies are additionally considering the effects of crystallinity (or lack thereof, i.e. amorphous ice) and radiation damage to the spectral signatures (e.g., Cartwright et al., 2025).
 
-## **1.3 The Ocean Floor: Water/Rock Interactions and Organic Reactions**
+### **1.3 The Ocean Floor: Water/Rock Interactions and Organic Reactions**
 
 Within natural systems, there is a combination of chemical factors at play and investigating these reactions, both separately and in combined approaches, provides a great deal of contextual information about what is possible on ocean worlds. Water/rock interactions at the ocean floor are pivotal for understanding geochemical processes and mineral formation and alteration. These interactions involve examining how water alters rock chemistry, leading to the formation of new minerals and understanding the elemental exchange, pH change, and redox gradients occurring between the rocky ocean floor and surrounding seawater (e.g., German et al., 2025; Shibuya et al., 2025). By comparison, organic reactions focus specifically on the formation and alteration of organic molecules. These studies investigate the transformation and synthesis of organic compounds under ocean floor conditions, which is relevant for understanding the potential for life and organic chemistry in ocean worlds (Lang et al., 2024). Key findings highlight the variability in reaction products and the impact of conditions such as temperature, pressure, and fluid composition.
 
 Over the last several decades, numerous laboratory experiments have been conducted to investigate fluid-rock interactions in the terrestrial seafloor to understand the impact on secondary mineralogy and elemental exchange between rocks and seawater as it circulates through the ocean crust. Recently, these studies have predominantly focused on the reaction of fluids with ultramafic rocks, referred to as serpentinization. Key findings relevant to ocean worlds include the variability in the chemical compositions of reaction products depending on reaction conditions, the abundance and distribution of Fe in these products, the generation of H<sub>2</sub> under different conditions, and the reduction of CO<sub>2</sub> to methane and other organic compounds. These findings are crucial for understanding the geochemical processes on icy moons.
 
-## **1.4 Chemical Interactions and Surface Chemistry**
+### **1.4 Chemical Interactions and Surface Chemistry**
 
 Chemical interactions and surface chemistry involve studying fluid-rock interactions and their impact on ocean crusts. Serpentinization, a key process, involves the chemical alteration of ultramafic rocks by water, which is relevant for understanding ocean worlds. Studies on the impact of temperature and fluid composition reveal variability in chemical compositions and elemental partitioning under different conditions. Key findings include the distribution of elements like Fe and the generation of H<sub>2</sub>, which depend on reaction conditions (e.g. Ogasawara et al., 2013; Neubeck et al. 2014; Shibuya et al., 2015; McCollom et al. 2022). Organic compounds can be altered by iron-rich mineral products of serpentinization such as magnetite at hydrothermal conditions, resulting in possible organic compounds reaching the surface as detectable products (e.g. Yang et al., 2018; Johnson-Finn et al., 2020; Johnson-Finn et al., 2021). Surface chemistry and crystallinity studies focus on processes such as thermal evolution, irradiation, and impact transport. These processes help in understanding the material evolution of icy bodies and their interactions with the environment.
 
-## **1.5 Tracers of Subsurface Processes**
+### **1.5 Tracers of Subsurface Processes**
 
 The chemical analyzers designed for missions to icy ocean worlds can detect an impressive diversity of organic and inorganic compounds (Becker et al., 2024; Freissinet et al., 2024). Mass fragments detected in Enceladus' space plume exemplify that diversity (Postberg et al., 2018; Peter et al., 2024), with current and future mission instruments expected to vastly improve compound identification and quantification (Mackenzie et al., 2021 ; Waite et al., 2024). Laboratory experiments are playing a major role in determining how chemical species being released from ocean world interiors can be used as tracers to infer subsurface geochemical conditions, which will be critical in determining whether these environments are habitable.
 
@@ -46,7 +46,7 @@ The chemical analyzers designed for missions to icy ocean worlds can detect an i
 
 **Figure 2** Some key groups of organic compounds whose masses are consistent with mass fragments detected in Enceladus' plume have already been identified as potential tracers of subsurface temperature (T), pressure (P), oxidation state (via activity of hydrogen, aH2), and pH (**Fig 2**). The tracers record conditions by approaching equilibrium abundances that are systematically controlled by combinations of those geochemical parameters (**Fig 2A**). The simplest example for such a reaction is the reversible dehydration of ethanol to form ethene. According to thermodynamic calculations, the equilibrium ratio of ethene/ethanol increases by several orders of magnitude from 0°C to 300°C, suggesting this ratio could be used to infer hydrothermal activity in the seafloor (**Fig 2B**). Indeed, laboratory experiments in which ethanol was heated in water to 250°C and then cooled back down produced ethene/ethanol ratios that predicted system temperature within 12°C (Robinson et al., 2023). The same general framework with other chemical tracers can be used to infer pressure, pH, and oxidation state (Robinson et al., 2021; 2024; Seewald, 1994; 2001; Waite et al., 2024), all critical parameters for assessing whether subsurface environments can support various forms of life.
 
-## **1.6 Gaps and Barriers in Experimental Studies**
+### **1.6 Gaps and Barriers in Experimental Studies**
 
 Identifying knowledge gaps in experimental studies, particularly in fluid-rock interactions and organic chemical evolution, is crucial for advancing the understanding of ocean worlds. There is a need for comprehensive studies on non-equilibrium conditions, high melt fraction scenarios, and formation of organic compounds from inorganic components. Future research should focus on filling these gaps to improve constraints on secondary minerals and hydrothermal fluid compositions. Despite decades of experimental studies, the rates of reaction during serpentinization of ultramafic rocks and what controls them remain highly uncertain and heavily debated. The same is true for organic chemical evolution and degradation of organic compounds at conditions relevant to ocean worlds. Clarification of reaction rates and how they vary under different physical and chemical environments would be very helpful for predicting hydrothermal fluid compositions and the evolution of rocky interiors of icy moons.
 
@@ -54,7 +54,7 @@ By design, experiments typically change one variable at a time systematically, c
 
 Barriers to collaboration include the need for increased funding for multi-institution grants to support interdisciplinary research. Experimental setups capable of probing the conditions relevant to ocean worlds are costly, complex, and time-consuming. Only certain research groups across the country will have access to individual techniques. By sharing diverse experimental capabilities and instrumentation, groups of researchers can work toward a larger experimental matrix representative of a natural system. To this end, improving communication and understanding between researchers from different fields is also essential, which requires programmatic approaches to educate each other in the language and concepts of other fields. Bridging these gaps requires structural, programmatic, and scientific support for both physical laboratory spaces and communication between researchers.
 
-## **References:**
+## **References**
 
 Becker, T.M., et al., (2024). Exploring the composition of Europa with the upcoming Europa Clipper mission. _Space Science Reviews_ **220**:49. <https://doi.org/10.1007/s11214-024-01069-y>
 
