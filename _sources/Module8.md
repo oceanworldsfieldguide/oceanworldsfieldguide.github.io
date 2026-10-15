@@ -96,13 +96,13 @@ Postberg, F., Clark, R.N., Hansen, C.J., Coates, A.J., Ore, C.M.D., Scipioni, F.
 
 Robinson, K.J., Bockisch, C., Gould, I.R., Liao, Y., Yang, Z., Glein, C.R., Shaver, G.D., Hartnett, H.E., Williams, L.B., Shock, E.L., (2021). Quantifying the extent of amide and peptide bond synthesis across conditions relevant to geologic and planetary environments. Geochim. Cosmochim. Acta 300, 318–332. <https://doi.org/10.1016/j.gca.2021.01.038>
 
-### Robinson, K. J., Hartnett, H. E., Gould, I. R., & Shock, E. L. (2023). Ethene-ethanol ratios as potential indicators of hydrothermal activity at Enceladus, Europa, and other icy ocean worlds. _Icarus_, _406_, 115765. <https://doi.org/10.1016/j.icarus.2023.115765>
+Robinson, K. J., Hartnett, H. E., Gould, I. R., & Shock, E. L. (2023). Ethene-ethanol ratios as potential indicators of hydrothermal activity at Enceladus, Europa, and other icy ocean worlds. _Icarus_, _406_, 115765. <https://doi.org/10.1016/j.icarus.2023.115765>
 
-### Robinson, K. J., Seewald, J. S., Sylva, S. P., Fecteau, K. M., & Shock, E. L. (2024). Thermodynamic property estimations for aqueous primary, secondary, and tertiary alkylamines, benzylamines, and their corresponding aminiums across temperature and pressure are validated by measurements from experiments. _Geochimica et Cosmochimica Acta_, _372_, 62-80. <https://doi.org/10.1016/j.gca.2024.03.013>
+Robinson, K. J., Seewald, J. S., Sylva, S. P., Fecteau, K. M., & Shock, E. L. (2024). Thermodynamic property estimations for aqueous primary, secondary, and tertiary alkylamines, benzylamines, and their corresponding aminiums across temperature and pressure are validated by measurements from experiments. _Geochimica et Cosmochimica Acta_, _372_, 62-80. <https://doi.org/10.1016/j.gca.2024.03.013>
 
-### Seewald, J. S. (1994). Evidence for metastable equilibrium between hydrocarbons under hydrothermal conditions. _Nature_, _370_(6487), 285-287. <https://doi.org/10.1038/370285a0>
+Seewald, J. S. (1994). Evidence for metastable equilibrium between hydrocarbons under hydrothermal conditions. _Nature_, _370_(6487), 285-287. <https://doi.org/10.1038/370285a0>
 
-### Seewald, J. S. (2001). Aqueous geochemistry of low molecular weight hydrocarbons at elevated temperatures and pressures: constraints from mineral buffered laboratory experiments. _Geochimica et Cosmochimica Acta_, _65_(10), 1641-1664. <https://doi.org/10.1016/S0016-7037(01)00544-0>
+Seewald, J. S. (2001). Aqueous geochemistry of low molecular weight hydrocarbons at elevated temperatures and pressures: constraints from mineral buffered laboratory experiments. _Geochimica et Cosmochimica Acta_, _65_(10), 1641-1664. <https://doi.org/10.1016/S0016-7037(01)00544-0>
 
 Shibuya, T., Yoshizaki, M., Sato, M., Shimizu, K., Nakamura, K., Omori, S., Suzuki, K., Takai, K., Tsunakawa, H., and Maruyama, S. (2015) Hydrogen-rich hydrothermal environments in the Hadean ocean inferred from serpentinization of komatiites at 300 °C and 500 bar. _Prog. in Earth and Planet. Sci._ 2, 46. <https://doi.org/10.1186/s40645-015-0076-z>
 
@@ -110,7 +110,7 @@ Shibuya, T., Tan, S., Kikuchi, S., Ueda, H., Takai, K., and Sekine, Y., (2025), 
 
 ### Singh, V., C. McCarthy, M. Silvia, M.V. Jakuba, K.L. Craft, A.R. Rhoden, C.R. German, and T. Koczynski (2023). Surviving in Ocean Worlds: experimental characterization of fiber optic tethers across Europa-like ice Faults and unraveling the sliding behavior of ice_, Planetary Science Journal, 4(1)._ <https://doi.org/10.3847/PSJ/aca3ab>
 
-### Waite, J.H., Jr., Burch, J.L., Brockwell, T.G., Young, D.T., Miller, G.P., Persyn, S.C., Stone, J.M., Wilson, P., IV, Miller, K.E., Glein, C.R., Perryman, R.S., McGrath, M., Bolton, S.J., McKinnon, W.B., Mousis, O., Sephton, M.A., Shock, E.L., Choukroun, M., Teolis, B.D., Wyrick, D.Y., Zolotov, M., Ray, C., Magoncelli, A.G., Raffanti, R.R., Thorpe, R.L., Boúquet, A., Salter, T.L., Robinson, K.J., Urdiales, C., Tyler, Y.D., Dirks, G.J., Beebe, C.R., Fugett, D.A., Alexander, J.A., Hanley, J.J., Moorhead-Rosenberg, Z.A., Franke, K.A., Pickens, K.S., Focia, R.J., Magee, B.A., Hoeper, P.J., Aaron, D.P., Thompson, S.L., Persson, K.B., Blase, R.C., Dunn, G.F., Killough, R.L., De Los Santos, A., Rickerson, R.J., Siegmund, O.H.W. (2024). MASPEX-Europa The Europa Clipper neutral gas mass spectrometer investigation. _Space Science Reviews_ **220**:30. <https://doi.org/10.1007/s11214-024-01061-6>
+Waite, J.H., Jr., et al., (2024). MASPEX-Europa The Europa Clipper neutral gas mass spectrometer investigation. _Space Science Reviews_ **220**:30. <https://doi.org/10.1007/s11214-024-01061-6>
 
 Zaman, M., McCarthy, C., Skarbek, R.M., Savage, H.M. (2024). Frictional Strength, Stability, and Potential Shear Heating on Icy Satellite Faults. Journal of Geophysical Research: Planets, 129. <https://doi.org/10.1029/2023JE008215>
 
