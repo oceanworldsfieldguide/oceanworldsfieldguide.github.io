@@ -12,7 +12,7 @@ This integrated approach is essential for several reasons. Firstly, laboratory e
 
 Overall, Module 8 aims to provide a detailed understanding of the experimental techniques and findings that are shaping our knowledge of ocean worlds. By focusing on both foundational and advanced topics, the module prepares researchers to tackle the complexities of these fascinating environments and supports the ongoing quest to explore the potential for life beyond Earth.
 
-## **1.1 The icy shell**
+## **1.1 The Icy Shell**
 
 Rheology is the study of how material flows and deforms in response to stress. It influences the surface morphologies that we observe and the ability for nutrients, chemicals, and heat to be generated and transported through the icy shell. Complicated models of flow and transport rely on physical properties that are determined in the laboratory. Experiments are designed to isolate specific physical properties and determine their rate controlling factors, such as temperature, pressure, and stress. A non-exhaustive list of mechanical properties and the geometries used to measure them in the lab are provided in Figure 1. In addition to these mechanical tests, laboratory studies can be used to study thermal, electric, and thermodynamic properties. All of this information is vital for interpreting data from remote sensing and space missions, and for developing models that predict the behavior of materials in ocean worlds.
 
@@ -108,7 +108,7 @@ Shibuya, T., Yoshizaki, M., Sato, M., Shimizu, K., Nakamura, K., Omori, S., Suzu
 
 Shibuya, T., Tan, S., Kikuchi, S., Ueda, H., Takai, K., and Sekine, Y., (2025), The Role of Hydrothermal Processes in the Evolution of Early Earth and Aquaplanets. In Hydrothermal Circulation and Seawater Chemistry (eds L.A. Coogan, S. Turchyn, A.G. Dunlea and W. Bach). [](https://doi.org/10.1002/9781394229185.ch15)<https://doi.org/10.1002/9781394229185.ch15>
 
-### Singh, V., C. McCarthy, M. Silvia, M.V. Jakuba, K.L. Craft, A.R. Rhoden, C.R. German, and T. Koczynski (2023). Surviving in Ocean Worlds: experimental characterization of fiber optic tethers across Europa-like ice Faults and unraveling the sliding behavior of ice_, Planetary Science Journal, 4(1)._ <https://doi.org/10.3847/PSJ/aca3ab>
+Singh, V., C. McCarthy, M. Silvia, M.V. Jakuba, K.L. Craft, A.R. Rhoden, C.R. German, and T. Koczynski (2023). Surviving in Ocean Worlds: experimental characterization of fiber optic tethers across Europa-like ice Faults and unraveling the sliding behavior of ice_, Planetary Science Journal, 4(1)._ <https://doi.org/10.3847/PSJ/aca3ab>
 
 Waite, J.H., Jr., et al., (2024). MASPEX-Europa The Europa Clipper neutral gas mass spectrometer investigation. _Space Science Reviews_ **220**:30. <https://doi.org/10.1007/s11214-024-01061-6>
 
