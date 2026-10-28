@@ -88,7 +88,7 @@ In icy environments, the concentration of solutes during freezing can facilitate
 
 **Figure 2.9**  This 2022 article by Zhang et al. describes the role of freeze-thaw cycles in facilitating the synthesis of nucleotide precursors and activation of nucleotides into oligomers. 
 
-#### ***2.2.1 Hydrothermal Vents and Serpentinization:***
+#### ***2.2.1 Hydrothermal Vents and Serpentinization***
 
 Alkaline hydrothermal vents on early Earth provided the necessary gradients for the formation of complex organic molecules. Serpentinization, the reaction between water and ultramafic rocks, generates hydrogen and creates a conducive environment for life's origins.
 
@@ -96,34 +96,43 @@ Alkaline hydrothermal vents on early Earth provided the necessary gradients for 
 
 photo credit: https://oceanexplorer.noaa.gov/explorations/05lostcity/background/chem/media/sully2.html
 
-#### ***2.2.2 Proton Motive Force:*** 
+#### ***2.2.2 Proton Motive Force*** 
+
 Alkaline vent systems generat proton gradients analogous to those required by modern microorganisms for carbon fixation. Adenosine triphosphate (ATP), a key energy molecule, is produced through these gradients, transferring energy for cellular processes. The availability of ATP and other energy sources was crucial for early life.
 
 ![A black and white text on a black backgroundDescription automatically generated][image11]
 
-for the boxed text:  https://www.chegg.com
+**Figure 2.11** Hydrothermal vents are rich in proton (pH) gradients which can drive adenosine triphosphase biosysnthesis in living cells.  (boxed text source: Https://www.chegg.com)
 
-#### ***2.2.3 Seawater pH and Ion concentration:*** 
+
+#### ***2.2.3 Seawater pH and Ion concentration*** 
+
 Hydrothermal systems where water-rock interactions, particularly serpentinization, produce alkaline fluids rich in hydrogen. Over geological history, the pH of seawater has varied, influenced by volcanic activity, carbon dioxide levels, and hydrothermal processes. 
 
 ![A chart showing the temperature of the earthDescription automatically generated with medium confidence][image12]
 
-[DOI: 10.1126/science.aal4151](https://doi.org/10.1126/science.aal4151)
+**Figure 2.12** The pH of seawater has changed over the last millenia. Model simulations show abrupt shifts in the history of life on earth (NOE: Neoproterozoic oxygenation event ; GOE - great oxidation event). Source: Halevy & Bachan, 2017. 
+
 
 Seawater contains high concentrations of ions, which can inhibit the function of enzymes that catalyze key biochemical reactions. Enzymes necessary for forming complex organic molecules can be inhibited by the ionic strength of bulk seawater, making it difficult for reactions to proceed efficiently in such environments.
 
 ![A black and white text on a black backgroundDescription automatically generated][image13]
 
-#### ***2.2.4 The Phosphorus Problem:*** 
+**Figure 2.13** Discussions of the origins of life and the settings most likely to be suitable are a continuing discussion in the field. This article, Deamer 2021 discusses seawater vs. hot springs and their propensity to foster biomolecule-forming biochemical reactions.  
+
+#### ***2.2.4 The Phosphorus Problem*** 
+
 Phosphorus availability is considered a limiting factor in many scenarios for the origin of life. Phosphate is central to the origin of life because it is a key component of nucleotides in genetic molecules, phospholipid cell membranes, and energy transfer molecules such as adenosine triphosphate. To incorporate phosphate into biomolecules, prebiotic experiments commonly use molar phosphate concentrations to overcome phosphate’s poor reactivity with organics in water. However, phosphate is generally limited to micromolar levels in the environment because it precipitates with calcium as low solubility apatite minerals (alkaline lake alternative). This disparity between laboratory conditions and environmental constraints is an enigma known as “the phosphate problem.”
 
 Reduced phosphorus such as phosphide (P<sub>0</sub>) in the form of the mineral schreibersite, (Fe, Ni)<sub>3</sub>P, has been found to be highly reactive. When wetted, schreibersite forms hydrous, activated phosphate capable of forming key basic organic molecules. Thus, schreibersite is one commonly accepted source of phosphate for the terrestrial prebiotic synthesis of essential organic phosphate molecules. 
 
 Schreibersite is a common accessory mineral within some classes of meteorites and is also found in some highly reduced glasses formed by lightning strikes called fulgurites.
 
-#### ***2.2.5 The Phosphorus Problem – Enceladus:***
+#### ***2.2.5 The Phosphorus Problem – Enceladus***
 
 *![A screenshot of a computerDescription automatically generated][image14]*
+
+**Figure 2.14** Models of phosphorus in Enceladus’s plume at different pHs as detected by the Cassini spacecraft’s Cosmic Dust Analyzer (Postberg et al. 2020). 
 
 This passage from a *Nature* 2020 article highlights the presence of bioavailable phosphorus in Enceladus’s Ocean, as detected by Cassini’s Cosmic Dust Analyzer. This discovery suggests that the phosphorus concentrations in Enceladus’s Ocean are significantly higher than those in Earth’s oceans, providing promising conditions for supporting life. The chemical reaction, hydroxyapatite \+ 5CO<sub>3</sub><sup>2–</sup> \+ H<sup>+</sup> ↔ calcite \+ 3PO<sub>4</sub><sup>3–</sup> \+ H<sub>2</sub>O, illustrates a potential mechanism for phosphorus release, further emphasizing the habitability potential of Enceladus. These details provide an understanding of the phosphorus problem and its implications for life on OWs.
 
@@ -135,6 +144,8 @@ The article "Nutrient Supply to Planetary Biospheres from Anoxic Weathering of M
 
 ![A screenshot of a computerDescription automatically generated][image15]
 
+**Figure  2.15**  Water rock weathering reactions were tested under anoxic conditions between ocean and the crust. Such reactions could potential support elements (e.g., P) required for life (Syverson et al. 2021).**
+
 #### ***2.3.2 Ocean Chemistry: Surface-ocean exchange*** 
 
 Surface-ocean exchange refers to the dynamic processes that transfer materials, energy, and gases between the surface layers of the ocean and the deeper ocean. This exchange is critical for regulating ocean chemistry, nutrient distribution, and biological productivity. The exchange processes help distribute essential nutrients like nitrogen, phosphorus, and iron throughout the ocean. Nutrient-rich deep waters brought to the surface can fuel primary production, supporting marine food webs. The surface ocean interacts with the atmosphere, exchanging gases such as oxygen and carbon dioxide. This exchange influences atmospheric composition and climate regulation. Surface-ocean exchange plays a role in regulating global climate by distributing heat and influencing ocean currents, which in turn affect weather patterns and climate systems. By supplying nutrients and regulating environmental conditions, surface-ocean exchange processes support diverse and productive marine ecosystems.
@@ -142,6 +153,8 @@ Surface-ocean exchange refers to the dynamic processes that transfer materials, 
 #### *Enceladus – Surface-ocean exchange* 
 
 ![A black and white text on a black backgroundDescription automatically generated][image16]
+
+**Figure 2.16** The potential exists for ocean world surface exchange possibly of oxidants and other elements that could facilitate life with the underlying oceans. The manuscript by Carnahan et al. 2022 models such exchange timescales and the implications for Europa’s ocean.
 
 This process facilitates the exchange of surface materials with the deeper ocean, enhancing nutrient dynamics. The transported materials may include essential nutrients and potential biological compounds that are crucial for sustaining life. The sinking melt chambers can introduce surface-derived chemical species into the ocean, which could affect the ocean's chemistry and biological potential. 
 
@@ -153,11 +166,15 @@ Changes in ocean salinity can impact ocean circulation patterns, which in turn a
 
 ![A close-up of a research letterDescription automatically generated][image17]
 
+**Figure 2.17** Ocean-atmosphere general circulation models can be used to investigate the response of Earth’s present-day and former climate systems. The study by Olson et al. (2022) reported on the magnitude of this influence, including impacts on temperature, sea ice, and even scenarios under which Snowball glaciation may have occurred.
+
 #### ***2.3.4 Ocean Chemistry: Redox*** 
 
 The availability of trace metals essential for enzymatic functions, such as iron (Fe), manganese (Mn), and molybdenum (Mo), is influenced by ocean redox conditions. In anoxic conditions, these metals are more soluble and available, whereas in oxic conditions, they tend to precipitate and become less available. The availability of these metals affects the metabolic pathways that organisms can use. For example, nitrogen fixation (which converts N<sub>2</sub> to bioavailable ammonia) relies on molybdenum-containing enzymes. The bioavailability of nitrogen and phosphorus is linked to the redox conditions and the presence of trace metals. Anoxic conditions can support higher availability of these nutrients by preventing their scavenging by metal oxides. 
 
 ![A diagram of the ocean oxygenationDescription automatically generated][image18]
+
+**Figure 2.18** The redox conditions in Earth’s ocean play a central role in determining the availability of trace metals necessary for enzymatic functions and metabolic pathways.  The studies highlighted here (Lyons et al. 2014, Saito et al. 2003, and Anbar, 2008) highlight the consequences for nutrient bioavailability, particularly nitrogen and phosphorus. 
 
 These studies emphasize the importance of redox conditions in determining the availability of trace metals necessary for enzymatic functions and metabolic pathways. They highlight the consequences for nutrient bioavailability, particularly nitrogen and phosphorus.
 
@@ -166,6 +183,8 @@ These studies emphasize the importance of redox conditions in determining the av
 The GOE, occurring around 2.4 billion years ago, marks the period when Earth's atmosphere and shallow ocean first experienced a significant increase in oxygen levels, primarily due to the activity of cyanobacteria performing photosynthesis. The rise in atmospheric oxygen led to increased oxygen levels in surface waters, which gradually mixed into deeper ocean layers. This process transformed ocean chemistry and enhanced the oxidative weathering of minerals, affecting nutrient availability and cycling. 
 
 ![A diagram of a graph showing the age of a personDescription automatically generated][image19]
+
+**Figure 2.19** The Evolution of Earth’s atmospheric oxygen content through time.  (Source and details, see Lyons et al. 2014).
 
 The rise in atmospheric oxygen led to increased oxygen levels in surface waters, which gradually mixed into deeper ocean layers. This process transformed ocean chemistry and enhanced the oxidative weathering of minerals, affecting nutrient availability and cycling. After the GOE, oxygen levels fluctuated for millions of years before stabilizing. These fluctuations impacted the balance of redox-sensitive elements (e.g., iron and sulfur) and influenced the surface-ocean exchange processes. The gradual increase in oxygen availability supported the evolution and diversification of eukaryotic life forms, which rely on oxygen for more efficient energy production.
 
@@ -177,21 +196,28 @@ The productivity of a biosphere is fundamentally linked to the availability of e
 
 ![A diagram of a biosphereDescription automatically generated][image20]
 
+**Figure 2.20** Energy flow and nutrient cycling in a biosphere. Solar energy enters the ecosystem and is captured by producers (autotrophs) which support primar and secondary consumers through trophic interactions. Decomposition returns nutrients to the material/nutrient pool, which supplies materials for producer growth. The graphic shows how biosphere productivity is constrained by the availability of energy and essential materials, with energy flowing through the system and nutrients being recycled.
+
 #### ***2.4.2 Energy vs. Mass/Nutrient Limitations:*** 
 
 Terrestrial ecosystems are primarily limited by the availability of essential materials (e.g., nutrients like nitrogen and phosphorus). The energy from sunlight is usually abundant, but the availability of nutrients in the soil can restrict plant growth and productivity. 
 
 ![A map of the worldDescription automatically generated][image21]
 
+
 In contrast, aquatic ecosystems are often limited by energy availability. Sunlight penetration decreases with water depth, limiting the energy available for photosynthetic organisms. While nutrients may be more plentiful in certain areas (e.g., upwelling zones), the overall productivity is constrained by the energy reaching the ecosystem.
 
 ![A diagram of the atmosphere of the atmosphereDescription automatically generated with medium confidence][image22]
+
+**Figure 2.21 The export of organic matter to depth depletes the surface ocean of nutrients, causing the nutrients to accumulate in deep waters where there is no light (energy) available for photosynthesis.** Typical conditions in the subtropical ocean, as indicated by data collected at the Bermuda Atlantic Time-series Station in July, 2008. The thermocline (vertical temperature gradient) stratifies the upper water column. During this particular station occupation, the shallow wind-mixed surface layer is not well defined, presumably because of strong insolation and a lack of wind that allowed continuous stratification all the way to the surface. Very little sunlight penetrates deeper than ~100 m. New supply of the major nutrients N and P is limited by the slow mixing across the upper thermocline (showing here only the N nutrient nitrate, NO3-). Within the upper euphotic zone, the slow nutrient supply is completely consumed by phytoplankton in their growth. This growth leads to the accumulation of particulate organic carbon in the surface ocean, some of which is respired by bacteria, zooplankton, and other heterotrophs, and some of which is exported as sinking material. The deep chlorophyll maximum (DCM) occurs at the contact where there is adequate light for photosynthesis and yet significant nutrient supply from below. The DCM should not be strictly interpreted as a depth maximum in phytoplankton biomass, as the phytoplankton at the DCM have a particularly high internal chlorophyll concentration. The data shown here is made available the Bermuda Institute of Ocean Sciences (http://bats.bios.edu) and the Bermuda Bio Optics Project (http://www.icess.ucsb.edu/bbop/). Source: Sigman and Hain, 2012.
 
 #### ***2.4.3 Potential Abiotic Material Fluxes within Europa:*** 
 
 On Europa, potential abiotic material fluxes include the transfer of nutrients and energy sources through mechanisms such as surface-to-ocean exchange, hydrothermal activity, and impact-generated melt chambers.
 
 ![A diagram of different types of materialDescription automatically generated][image23]
+
+**Figure 2.23** A systems model of Europa showing the interconnected systems of material exchange, thermal inputs, and reservoir state, building from the physical processes depicted in Fig. 4. Such a framework, common in Earth systems science, can be used to understand the overarching dynamics and stability of the system. It also illustrates how an input or perturbation to one part of the system may have wide-ranging impacts to other parts of the satellite system. Sizing of arrows and boxes is not quantitative. Source: Vance et al. 2023. 
 
 ## **Level 3: Technical Insights and Case Studies**
 
@@ -254,6 +280,8 @@ Second generation oceans can significantly impact the chemical environment and p
 
 **Figure 3.6** The thermal metamorphism of rocky minerals and organic compounds trapped in the cores of icy bodies can release a significant fraction of fluids (water, carbon dioxide, methane, etc.) that shift the environments of the residual oceans. 
 
+Credit: JPL/Caltech/Raoul Ranoa, Open Source from https://www.jpl.nasa.gov/images/pia26570-fluid-flow-in-ceres-due-to-core-heating/ 
+
 
 #### ***3.6.2 Partitioning of Accreted Carbon Compounds:***
 
@@ -296,6 +324,11 @@ Metamorphic fluids rich in carbon dioxide shift the environment towards oxidizin
 ![][image35]
 
 **Figure 3.12** Occator crater features large expanses of salts, in particular sodium carbonates, that are sourced from a deep brine reservoir.
+
+Occator color image Credits: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA
+Can be accessed: [https://science.nasa.gov/photojournal/occator-in-false-color/](https://science.nasa.gov/photojournal/occator-in-false-color/) 
+The image of the Monahans salt clast is from Chan et al. (2018). 
+
 
 #### ***3.7.1 Preservation of Deep Oceans in Uranus' Major Moons \- CI Composition***
 
@@ -405,6 +438,8 @@ Forsythe, J. G., Yu, S. S., Mamajanov, I., Grover, M. A., Krishnamurthy, R., Fer
 Halevy, I., & Bachan, A. (2017). The geologic history of seawater pH. _Science, 355_(6329), 1069-1071. doi:10.1126/science.aal4151
 
 Lyons, T.W., Reinhard, C.T., Planavsky, N.J., 2014. The rise of oxygen in Earth's early ocean and atmosphere. Nature 506, 307-315.
+
+Murray, B.I nteriors of icy bodies in the solar system (as of 2010), Space Image Library; [https://www.planetary.org/space-images/interiors-of-icy-bodies](https://www.planetary.org/space-images/interiors-of-icy-bodies)
 
 Néri, A., Guyot, F., Reynard, B. and Sotin, C., 2020. A carbonaceous chondrite and cometary origin for icy moons of Jupiter and Saturn. Earth and Planetary Science Letters, 530, p.115920. doi:[10.1016/j.epsl.2019.115920](https://doi.org/10.1016/j.epsl.2019.115920)
 
