@@ -28,19 +28,27 @@ Various hypotheses exist regarding the origin of life, including hydrothermal ve
 
 ![][image1]
 
+**Figure 2.1**  Artistic reconstruction showing a giant impact during the early formation of the Earth–Moon system. Such an impact, roughly 4.5 billion years ago was thought to result in formation of the moon. Source: https://science.nasa.gov/moon/formation/
+
 By 4.4 billion years ago, Earth's core formation was complete, crust formation had begun, and the early atmosphere was outgassed from the interior. Surface temperatures were similar to today, and liquid water at the surface was already present or would follow soon after. The impact rate had drastically decreased. 
 
 ![A screenshot of a computer screenDescription automatically generated][image2]
 
+**Figure 2.2** Artistic reconstruction of the early earth with newly formed moon, and highly volcanic, partially molten early Earth (adapted from Carlson et al. 2014).
+
 Early Earth had a significant atmosphere that impacted the formation and stability of oceans. The atmosphere provided essential gases such as CO<sub>2</sub> and N<sub>2</sub>, with CO<sub>2</sub> and perhaps intermittent accumulations of methane (CH<sub>4</sub>) creating a greenhouse effect that helped maintain liquid water on the surface despite the faint young Sun.
 
 ![][image3]
+
+**Figure 2.3**  Different mathematical models have been used to estimate the rate of crustal growth. The models are broadly based on age and radiogenic isotopic data on rocks and minerals (source: Cawood et al. 2013).
 
 GSA Bulletin; January/February 2013; v. 125; no. 1/2; p. 14–32; doi:10.1130/B30722.1; 15 figures.
 
 These models give us hints about  the types of tectonic processes that may have been present on early Earth. Specifically, the image captures the ongoing debate about when widespread continents first appeared on Earth, which carries important implications for the beginnings of plate tectonics. Understanding these processes and their products helps us learn about early heat flow, nutrient cycling, and geological activity that influenced early ocean chemistry.  Another debate centers on the timing of emergent continents, those rising above the sea surface, with critical relevance to the wet-dry cycles that factor prominently in many views on the origins of life.
 
 ![][image4]
+
+**Figure 2.4.** Despite the Sun’s reduced luminosity (about 70% of its current output), early Earth maintained warm enough conditions for liquid water thanks to a thick atmosphere rich in greenhouse gases (CO2 ± CH4; adapted from Bahcall et al., 2001). The present age of the sun is indicated with the arrow. Inset image (Life Cycle of the Sun) indicating relative size was adapted from: https://spaceplace.nasa.gov/all-about-the-sun/en/.
 
 Credit for the life cycle: NASA/JPL-Caltech DOI·[10.1086/321493](http://dx.doi.org/10.1086/321493)
 
@@ -50,11 +58,8 @@ Despite the Sun's reduced luminosity (about 70% of its current output), early Ea
 
 ![][image5]
 
-[Hadean age for a post-magma-ocean zircon confirmed by atom-probe tomography](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mEV9pnYAAAAJ&citation_for_view=mEV9pnYAAAAJ:hC7cP41nSMkC)
+**Figure 2.5.** Hadean age for a post-magma-ocean zircon confirmed by atom-probe tomography (Valley et al. 2014).  
 
-JW Valley, AJ Cavosie, T Ushikubo, DA Reinhard, DF Lawrence, ...
-
-Nature Geoscience 7 (3), 219-223  (2014)
 
 Zircon crystals found in ancient rocks serve as one of the oldest lines of evidence for the presence of liquid water and perhaps oceans on Earth’s surface over 4 billion years ago. These crystals can retain isotopic information that provides clues about the environmental conditions at the time of their formation.  The implication is that early geological activity set the foundation for a stable environment where oceans could exist and favor a habitable world suitable for the beginnings and persistence of life
 
@@ -62,15 +67,18 @@ Zircon crystals found in ancient rocks serve as one of the oldest lines of evide
 
 ![A black and white background with white textDescription automatically generated][image6]
 
+**Figure 2.6** Hypotheses on how life began. 
+
 Different scenarios for the origin of life include models without exposed land masses, such as hydrothermal vents, and those requiring wet-dry cycles, which necessitate land that rose above the ocean surface. Alternating wet and dry conditions, such as those found in tidal zones or with seasonal changes, drive condensation reactions that produce biopolymers.
 
 ![A diagram of a planetDescription automatically generated][image7]
 
-Credit: Walker, Packer, Cody, “Re-conceptualizing the origins of life,” https://royalsocietypublishing.org/doi/10.1098/rsta.2016.0337
-
+**Figure 2.7** Approaches for studying the origin of life start from geochemistry and the synthesis of the building blocks of life - a bottom up approach, or they work from the top down, inferring the properties of ancient life. New frameworks are needed to bridge the gap between these to address life’s origins. (Source: Walker et al. 2017). 
 All models for life’s beginnings demand increasing molecular complexity starting with simple molecules with diverse possible prebiotic origins that combined into more complex building blocks in the absence of life and ultimately provided the foundations for life.
 
 ![][image8]
+
+**Figure 2.8** Formation of complex organic molecules through wet-dry cycling. Repeated cycles can drive condensation reactions between amino acids and hydroxy acids promoting the formation of increasingly complex oligomers and peptide chains (Forsythe et al. 2015).
 
 These cycles are crucial for the prebiotic chemical reactions that could lead to the formation of complex organic molecules and the origin of life. 
 
@@ -78,7 +86,10 @@ In icy environments, the concentration of solutes during freezing can facilitate
 
 ![A screenshot of a computerDescription automatically generated][image9]
 
+**Figure 2.9**  This 2022 article by Zhang et al. describes the role of freeze-thaw cycles in facilitating the synthesis of nucleotide precursors and activation of nucleotides into oligomers. 
+
 #### ***2.2.1 Hydrothermal Vents and Serpentinization:***
+
 Alkaline hydrothermal vents on early Earth provided the necessary gradients for the formation of complex organic molecules. Serpentinization, the reaction between water and ultramafic rocks, generates hydrogen and creates a conducive environment for life's origins.
 
 ![A close-up of a coral reefDescription automatically generated][image10]
