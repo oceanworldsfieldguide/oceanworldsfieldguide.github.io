@@ -180,8 +180,8 @@ o   *Significance:* Hydrogenotrophic methanogenesis supports diverse microbial c
 #### ***2.3.5 Anaerobic Oxidation of Methane (AOM)***
 
 ●      *Process:* AOM involves the microbial oxidation of methane in the absence of oxygen, typically using sulfate (SO<sub>4</sub>) as the electron acceptor. This process is crucial for controlling methane levels in anoxic environments.  
-o   *Reaction:* CH<sub>4</sub> \+ SO<sub>4</sub><sup>2-</sup> → HCO<sub>3</sub> <sup>-</sup> \+ HS<sup>-</sup> \+ H<sub>2</sub>O.  
-o   *Significance:* AOM occurs in marine sediments and methane hydrate fields, where it mitigates methane release into the ocean and atmosphere, thus playing a critical role in global carbon cycling and climate regulation (Fig.2.8).
+●   *Reaction:* CH<sub>4</sub> \+ SO<sub>4</sub><sup>2-</sup> → HCO<sub>3</sub> <sup>-</sup> \+ HS<sup>-</sup> \+ H<sub>2</sub>O.  
+●   *Significance:* AOM occurs in marine sediments and methane hydrate fields, where it mitigates methane release into the ocean and atmosphere, thus playing a critical role in global carbon cycling and climate regulation (Fig.2.8).
 
 ![A close-up of a cellDescription automatically generated][image14]
 
@@ -205,15 +205,17 @@ By exploring these detailed mechanisms of microbial adaptation and the availabil
 
 *Methanogens and Extreme Temperature Adaptation* 
 
-Methanogens, a group of microorganisms within the domain Archaea, have the remarkable ability to grow in a wide range of temperatures, from 0°C to 122°C​. This broad temperature adaptability is significant for understanding life in extreme environments, both on Earth and potentially on other ocean worlds.
-
 **![][image15]**
+
+**Figure 3.1** Methanogens, a group of microorganisms within the domain Archaea, have the remarkable ability to grow in a wide range of temperatures, from 0°C to 122°C​. This broad temperature adaptability is significant for understanding life in extreme environments, both on Earth and potentially on other ocean worlds.
 
 ### **3.2 Mechanisms for Coping with Nutrient Limitation**
 
-Microorganisms have developed various strategies to survive under extreme nutrient starvation. These strategies include scavenging for nutrients, substituting essential elements with alternatives, and storing nutrients in specialized structures. For instance, high-affinity transporters allow microbes to effectively uptake limited nutrients, sulfur-containing lipids can replace phosphorus in membrane structures, and polyphosphate granules can serve as phosphorus reserves​.
 
 #### **![][image16]**
+
+**Figure 3.2** Microorganisms have developed various strategies to survive under extreme nutrient starvation. These strategies include scavenging for nutrients, substituting essential elements with alternatives, and storing nutrients in specialized structures. For instance, high-affinity transporters allow microbes to effectively uptake limited nutrients, sulfur-containing lipids can replace phosphorus in membrane structures, and polyphosphate granules can serve as phosphorus reserves​.
+
 
 #### ***3.2.1 Adaptations to Phosphorus Limitation***
 
@@ -223,47 +225,48 @@ Various adaptations have been observed in different regions:
 
 **![][image17]**
 
-*Sargasso Sea (Western North Atlantic Ocean):* Microbial communities have developed high-affinity phosphorus uptake systems and utilize alternative phosphorus sources​
+**Figure 3.3** *Sargasso Sea (Western North Atlantic Ocean):* Microbial communities have developed high-affinity phosphorus uptake systems and utilize alternative phosphorus sources​
 
 **![][image18]**
 
-*Cuatro Ciénegas Basin (Chihuahuan Desert of Mexico):* Microbial mats exhibit ancient mechanisms for coping with severe nutrient stress, highlighting evolutionary strategies to thrive in nutrient-limited environments.
+**Figure 3.4** *Cuatro Ciénegas Basin (Chihuahuan Desert of Mexico):* Microbial mats exhibit ancient mechanisms for coping with severe nutrient stress, highlighting evolutionary strategies to thrive in nutrient-limited environments.
 
 #### ***3.2.2 Phosphorus Availability Beyond Earth***
 
-The availability of phosphorus could also limit life beyond Earth. For example, the detection of phosphates originating from Enceladus’s ocean suggests that phosphorus, though scarce, could be available under certain conditions, potentially supporting life.
-
 ![A diagram of a graphDescription automatically generated with medium confidence][image19]
+
+**Figure 3.5** The availability of phosphorus could also limit life beyond Earth. For example, the detection of phosphates originating from Enceladus’s ocean suggests that phosphorus, though scarce, could be available under certain conditions, potentially supporting life.
 
 #### ***3.2.3 Methane Clathrates and Habitability***
 
-Methane hydrates are crystalline structures where methane molecules are trapped within a lattice of water ice. They form under high-pressure and low-temperature conditions commonly found in deep ocean sediments and permafrost regions. Detailed studies of methane hydrate sediments reveal the metabolic pathways and adaptations of microbes living in these environments. These sediments serve as analogs for potential methane-rich habitats on ocean worlds.
-
 ![A collage of different types of iceDescription automatically generated][image20]
 
-Methane clathrates, or methane hydrates, are likely widespread in the solar system and may play a crucial role in insulating subsurface oceans, creating habitable conditions in the outer solar system. For example, methane hydrates may maintain habitable conditions by insulating subsurface oceans on bodies like Enceladus. 
+**Figure 3.6** Methane hydrates are crystalline structures where methane molecules are trapped within a lattice of water ice. They form under high-pressure and low-temperature conditions commonly found in deep ocean sediments and permafrost regions. Detailed studies of methane hydrate sediments reveal the metabolic pathways and adaptations of microbes living in these environments. These sediments serve as analogs for potential methane-rich habitats on ocean worlds.
+
 
 ![][image21]
 
+**Figure 3.7** Methane clathrates, or methane hydrates, are likely widespread in the solar system and may play a crucial role in insulating subsurface oceans, creating habitable conditions in the outer solar system. For example, methane hydrates may maintain habitable conditions by insulating subsurface oceans on bodies like Enceladus. 
+
 ![A diagram of a structureDescription automatically generated][image22]
 
-*Microbial Adaptations in Methane Hydrate Sediments*
+**Figure 3.8** Microbial Adaptations in Methane Hydrate Sediments
 
 In methane hydrate sediments, microbial communities are dominated by Atribacteria and Chloroflexi, which are adapted to these unique environments. These communities engage in methane metabolism, crucial for maintaining the stability of gas hydrates and influencing the habitability of these environments.
 
 ![A close-up of a graphDescription automatically generated][image23]
 
-*Microbial Proteins and Clathrate Growth*
+**Figure 3.9** Microbial Proteins and Clathrate Growth
 
 Recent studies have shown that microbial proteins can inhibit clathrate growth, indicating a specific adaptation for clathrate over ice. This finding has significant implications for understanding microbial activity in gas hydrates and their potential role in maintaining habitable conditions​.
 
 ![][image24]
 
-*Implications for Habitability*
+![A collage of different types of microbial activityDescription automatically generated][image25]
+
+Figure 3.10** Implications for Habitability
 
 These studies collectively enhance our understanding of the adaptability of microbial life to extreme environments and nutrient limitations. Such insights are crucial for astrobiology, particularly in identifying and studying potential habitats for life on other ocean worlds. Improved drilling technology and geophysical modeling of gas hydrate stability further aid in exploring these environments safely and effectively.
-
-![A collage of different types of microbial activityDescription automatically generated][image25]
 
 By integrating these technical insights, we deepen our understanding of how life can thrive under conditions vastly different from those on Earth's surface, guiding future research and exploration in astrobiology. 
 
