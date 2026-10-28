@@ -92,11 +92,11 @@ Each ocean world represents a unique opportunity to study the gradual and comple
 
 ![][image10]
 
-Cassini's instruments (INMS and CDA) detected a variety of organic compounds in Enceladus' plumes, including low-mass organic cations and macromolecular organic cations. The presence of these compounds suggests complex organic chemistry and possibly even prebiotic conditions beneath the ice (Khawaja et al., 2019; Postberg et al., 2018a).
+**Figure 3.1** Cassini's instruments (INMS and CDA) detected a variety of organic compounds in Enceladus' plumes, including low-mass organic cations and macromolecular organic cations. The presence of these compounds suggests complex organic chemistry and possibly even prebiotic conditions beneath the ice (Khawaja et al., 2019; Postberg et al., 2018a).
 
 ![A diagram of a sea ice Description automatically generated with medium confidence][image11]
 
-The organic film model proposes that organic materials, carried by ascending bubbles in Enceladus' subsurface ocean, become concentrated near the water table and are ejected into space, forming organic-rich ice grains (Postberg et al. 2018b).
+**Figure 3.2** The organic film model proposes that organic materials, carried by ascending bubbles in Enceladus' subsurface ocean, become concentrated near the water table and are ejected into space, forming organic-rich ice grains (Postberg et al. 2018b).
 
 ### **3.2 Europa: The First Identified Ocean World**
 
