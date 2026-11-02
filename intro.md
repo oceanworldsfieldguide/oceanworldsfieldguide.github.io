@@ -1,4 +1,4 @@
-# Welcome to the Ocean Worlds Field Guide
+# **Welcome to the Ocean Worlds Field Guide**
 
 ![ocean worlds](static/oceans.jpeg)
 
