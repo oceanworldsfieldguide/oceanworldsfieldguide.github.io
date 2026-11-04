@@ -260,7 +260,7 @@ Ceres, a dwarf planet in the asteroid belt, shows evidence of carbon in multiple
 
 ![A diagram of a geochemical cycleDescription automatically generated][image27]
 
-**Figure 3.4** Observations of carbon in multiple forms have been obtained by the Dawn mission and suggest the cycling of carbon occurred during Ceres’ history. 
+**Figure 3.4** Observations of carbon in multiple forms have been obtained by the Dawn mission and suggest the cycling of carbon occurred during Ceres’ history. (CHECK)
 
 
 ### **3.6 Major Stages in Icy Body Evolution**
