@@ -285,7 +285,7 @@ Credit: JPL/Caltech/Raoul Ranoa, Open Source from https://www.jpl.nasa.gov/image
 
 #### ***3.6.2 Partitioning of Accreted Carbon Compounds:***
 
-Materials like CI/CM chondrites and cometary dust contribute to the chemical diversity and redox gradients of these environments.  
+Materials like CI/CM chondrites and cometary dust contribute to the chemical diversity and redox gradients of these environments.  (CHECK)
 
 ![A diagram of carbon compoundDescription automatically generated][image30]
 
