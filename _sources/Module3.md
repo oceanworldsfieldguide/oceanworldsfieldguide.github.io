@@ -112,9 +112,12 @@ Each ocean world represents a unique opportunity to study the gradual and comple
 
 Europa's subsurface ocean is considered a prime candidate for potential life due to its chemical environment, which may support the necessary interactions between oxidants at the surface and reductants in the subsurface. The moon's icy crust and possible geological activity could facilitate the exchange of materials, creating a dynamic environment for chemical evolution. Observations suggest that Europa's ocean is acidic (pH 4-6) with notable species like H<sub>2</sub>, CO<sub>2</sub>, NH<sub>3</sub>, CH<sub>4</sub>, and various organics. The potential for cryovolcanism, subduction, brine drainage, and impacts could enhance chemical interactions and support prebiotic chemistry (Hand et al., 2022)​.
 
+<!--
+
 ![][image12]
 
 ![A diagram of a structure Description automatically generated][image13]
+-->
 
 ![A diagram of a layer of water Description automatically generated][image14]
 
