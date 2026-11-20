@@ -23,13 +23,15 @@ The search for evidence of life beyond Earth faces important challenges. Some ch
 
 ![][image1]
 
+**Figure 1.1.** The Science Traceability Matrix (STM) is a required element of NASA mission proposals.
+
 **Science Traceability**: The formulation of any scientific spaceflight mission, whether directed or competitive, requires documentation of the traceability from science goals to measurement requirements, to instrument requirements and projected performance, to top-level mission requirements. This is achieved through the Science Traceability Matrix (STM), a table whose columns describe the above flow from goals to requirements, listed as rows (Weiss et al., 2003). The STM is supported by narrative in mission or instrument proposals and science definition or study reports. Initially used for missions without sample handling, the STM now faces limitations for astrobiology missions that involve complex sample acquisition and preparation. Excluding top-level sample handling requirements from the STM creates gaps in science traceability, complicating mission design, risk assessment, and communication. Additionally, page limitations in mission proposals hinder descriptions of sample handling systems, and contamination control requirements must be traced from science objectives. These gaps challenge the STM's effectiveness in accurately capturing mission complexity for astrobiology-focused missions.
 
 
 
 ![A white background with black text Description automatically generated][image2]
 
-**Technical Challenges**: There are several technical challenges for life detection missions. For example, interesting locations to search for evidence of life, such as the outer Solar System or deep subsurface regions on Mars are hard to reach or require considerable technological investment. Astrobiology missions also require sophisticated payloads including sampling systems, sample preparation, and ultrasensitive instruments, along with stringent contamination control to avoid compromising life detection efforts. This technological complexity is exacerbated by the fact that spacecraft missions are often constrained by limited power, data capacity, and size, which can further restrict mission duration and scientific capabilities.
+**Figure 1.2. Technical Challenges**: There are several technical challenges for life detection missions. For example, interesting locations to search for evidence of life, such as the outer Solar System or deep subsurface regions on Mars are hard to reach or require considerable technological investment. Astrobiology missions also require sophisticated payloads including sampling systems, sample preparation, and ultrasensitive instruments, along with stringent contamination control to avoid compromising life detection efforts. This technological complexity is exacerbated by the fact that spacecraft missions are often constrained by limited power, data capacity, and size, which can further restrict mission duration and scientific capabilities.
 
 
 ### **1.2 Frameworks for Life Detection**
@@ -38,17 +40,17 @@ Developing frameworks for searching for evidence of life beyond Earth is crucial
 
 ![A screenshot of a computer Description automatically generated][image3]
 
-**The Ladder of Life Detection**: This framework, recommended by the 2019 National Academies of Science, Engineering, and Medicine, aims to guide the evaluation of biosignatures, considering both potential abiosignatures and the risks of false positives and negatives. The Ladder categorizes features from possibly biological to almost certainly life (Neveu et al., 2018).
+**Figure 1.3. The Ladder of Life Detection**: This framework, recommended by the 2019 National Academies of Science, Engineering, and Medicine, aims to guide the evaluation of biosignatures, considering both potential abiosignatures and the risks of false positives and negatives. The Ladder categorizes features from possibly biological to almost certainly life (Neveu et al., 2018).
 
 
 ![][image4]
 
-**Life Detection Knowledge Base (LDKB)**: The LDKB is an online repository that organizes astrobiology knowledge into a common reference frame, containing arguments, evidence, and evaluations regarding biosignatures, including potential false positives and false negatives.
+**Figure 1.4. Life Detection Knowledge Base (LDKB)**: The LDKB is an online repository that organizes astrobiology knowledge into a common reference frame, containing arguments, evidence, and evaluations regarding biosignatures, including potential false positives and false negatives.
 
 
 ![A close-up of a diagram Description automatically generated][image5]
 
-**Standards of Evidence for Life Detection**: Introduced by Green et al. (2021), this framework assesses biosignature claims based on a set of criteria developed from the Ladder of Life Detection, involving community consensus on evaluation methods.
+**Figure 1.5. Standards of Evidence for Life Detection**: Introduced by Green et al. (2021), this framework assesses biosignature claims based on a set of criteria developed from the Ladder of Life Detection, involving community consensus on evaluation methods.
 
 
 
