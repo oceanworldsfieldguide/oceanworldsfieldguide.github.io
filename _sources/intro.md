@@ -4,7 +4,7 @@
 
 Source: [NASA/JPL](https://www.jpl.nasa.gov/edu/resources/gallery/ocean-worlds/)
 
-**Edited by** Marrgy Chiviri, Chris German, Shannon MacKenzie, Jackie Grebmeier, Alison E. Murray. Published by Willow Houck, Dwan Jackson, and Patrick Gray. First Edition: November 2026
+**Edited by** Marrgy Chiviri, Chris German, Shannon MacKenzie, Jackie Grebmeier, Alison E. Murray. Published by Willow Houck, Dwan Jackson, and Patrick Gray. **First Edition: November 2026**
 
 **The Ocean Worlds Field Guide (OWFG)** was envisioned several years ago by the co-leads of NASA's Research Coordination Network, the Network for Ocean Worlds (NOW). The goal was to create a broad, accessible overview of the emerging field of Ocean Worlds Science and Technology—one that would serve as a useful resource for both newcomers and those already actively engaged in the field.
 
