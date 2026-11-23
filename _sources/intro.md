@@ -2,7 +2,7 @@
 
 ##### **The Ocean Worlds Field Guide**
 
-**Edited by** Marggy Chiviri, Chris German, Shannon MacKenzie, Jackie Grebmeier, Alison E. Murray. Published by Willow Houck, Dwan Jackson, and Patrick Gray. **First Edition: November 2026**
+**Edited by** Marggy Chiviri, Chris German, Shannon MacKenzie, Jacqueline M. Grebmeier, Alison E. Murray. Published by Willow Houck, Dwan Jackson, and Patrick Gray. **First Edition: November 2026**
 
 **The Ocean Worlds Field Guide (OWFG)** was envisioned several years ago by the co-leads of NASA's Research Coordination Network, the Network for Ocean Worlds (NOW). The goal was to create a broad, accessible overview of the emerging field of Ocean Worlds Science and Technology—one that would serve as a useful resource for both newcomers and those already actively engaged in the field.
 
@@ -37,7 +37,7 @@ We hope this Field Guide will serve as a valuable resource for the Ocean Worlds 
 | Contributors             | Affiliations                              |
 | ------------------------ | ----------------------------------------- |
 | Bisson, Kelsey           | NASA                                      |
-| Blankenship, Donald      | Univerity of Texas, Austin                |
+| Blankenship, Donald      | University of Texas, Austin               |
 | Castillo-Rogez, Julie    |                                           |
 | Chiviri, Marggy          |                                           |
 | Davila, Alfonso          | NASA Ames                                 |
@@ -48,7 +48,8 @@ We hope this Field Guide will serve as a valuable resource for the Ocean Worlds 
 | German, Chris            | Woods Hole Oceanographic Institution      |
 | Glass, Jennifer B.       | Georgia Tech                              |
 | Gray, Patrick, C.        | University of Maine                       |
-| Grebmeier, Jackie        | University of Maryland                    |
+| Grebmeier, Jacqueline M. | University of Maryland Center             |
+|			   | for Environmental Science                 |
 | Hand, Kevin P            | Jet Propulsion Laboratory                 |
 | Hofgartner, Jason        | Southwest Research Institute              |
 | Houck, Willow M.         | NASA Ames Research Center                 |
@@ -60,7 +61,7 @@ We hope this Field Guide will serve as a valuable resource for the Ocean Worlds 
 | Lyons, Tim               | University of California, Riverside       |
 | MacKenzie, Shannon       | John's Hopkins Applied Physics Laboratory |
 | McCarthy, Christine      | Columbia University                       |
-| McCollom, Tom            | Univeristy of Colorado, Boulder           |
+| McCollom, Tom            | University of Colorado, Boulder           |
 | Murray, Alison           | Desert Research Institute                 |
 | Naseem, Mariam           |                                           |
 | Pietro, Kathryn          | Woods Hole Oceanographic Institution      |
