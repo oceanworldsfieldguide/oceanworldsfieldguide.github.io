@@ -4,7 +4,7 @@
 
 Source: [NASA/JPL](https://www.jpl.nasa.gov/edu/resources/gallery/ocean-worlds/)
 
-**Edited by** Marrgy Chiviri, Chris German, Shannon MacKenzie, Jackie Grebmeier, Alison E. Murray. Published by Willow Houck, Dwan Jackson, and Patrick Gray. **First Edition: November 2026**
+**Edited by** Marggy Chiviri, Chris German, Shannon MacKenzie, Jackie Grebmeier, Alison E. Murray. Published by Willow Houck, Dwan Jackson, and Patrick Gray. **First Edition: November 2026**
 
 **The Ocean Worlds Field Guide (OWFG)** was envisioned several years ago by the co-leads of NASA's Research Coordination Network, the Network for Ocean Worlds (NOW). The goal was to create a broad, accessible overview of the emerging field of Ocean Worlds Science and Technology—one that would serve as a useful resource for both newcomers and those already actively engaged in the field.
 
@@ -31,7 +31,7 @@ The content of this EBook is intended to provide enough information to grasp the
 
 The OWFG is intended to be a living document, and will be edited on an approximately annual basis as new developments in the field emerge.
 
-In addition to the contributions of the module authors, whose names are listed with their respective sections, we are especially grateful to Marggy Chiviri, a master's student and NASA Headquarters intern in 2025, who served as the primary editor of the content across the various modules. Following additional editorial input from the NOW co-leads—Chris German, Shannon MacKenzie, Jackie Grebmeier, and Alison Murray—the eBook was drafted and assembled by NASA 2026 intern Dwan Jackson and NASA Research Coordination Network coordinator Willow Huock, under the guidance of Dr. Patrick Gray of the University of Maine. We acknowledge support by NASA for the Network for Ocean Worlds (NASA Awards 80NSSC24K0220 to AEM, and the NOW retreat (22-TWSC22-00057) in which the content of this EBook was prepared for.
+In addition to the contributions of the module authors, whose names are listed with their respective sections, we are especially grateful to Marggy Chiviri, a master's student and NASA Headquarters intern in 2025, who served as the primary editor of the content across the various modules. Following additional editorial input from the NOW co-leads—Chris German, Shannon MacKenzie, Jackie Grebmeier, and Alison Murray—the eBook was drafted and assembled by NASA 2026 intern Dwan Jackson and NASA Research Coordination Network coordinator Willow Houck, under the guidance of Dr. Patrick Gray of the University of Maine. We acknowledge support by NASA for the Network for Ocean Worlds (NASA Awards 80NSSC24K0220 to AEM, and the NOW retreat (22-TWSC22-00057) in which the content of this EBook was prepared for.
 
 We hope this Field Guide will serve as a valuable resource for the Ocean Worlds community, fostering interdisciplinary understanding, stimulating new collaborations, and inspiring the next generation of scientific discoveries and exploration of ocean worlds.
 
