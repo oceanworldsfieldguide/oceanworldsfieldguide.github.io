@@ -23,7 +23,7 @@ The search for evidence of life beyond Earth faces important challenges. Some ch
 
 ![][image1]
 
-**Figure 1.1.** The Science Traceability Matrix (STM) is a required element of NASA mission proposals.
+**Figure 3.1.1.** The Science Traceability Matrix (STM) is a required element of NASA mission proposals.
 
 **Science Traceability Matrix**: The formulation of any scientific spaceflight mission, whether directed or competitive, requires documentation of the traceability from science goals to measurement requirements, to instrument requirements and projected performance, to top-level mission requirements. This is achieved through the Science Traceability Matrix (STM), a table whose columns describe the above flow from goals to requirements, listed as rows (Weiss et al., 2003). The STM is supported by narrative in mission or instrument proposals and science definition or study reports. Initially used for missions without sample handling, the STM now faces limitations for astrobiology missions that involve complex sample acquisition and preparation. Excluding top-level sample handling requirements from the STM creates gaps in science traceability, complicating mission design, risk assessment, and communication. Additionally, page limitations in mission proposals hinder descriptions of sample handling systems, and contamination control requirements must be traced from science objectives. These gaps challenge the STM's effectiveness in accurately capturing mission complexity for astrobiology-focused missions.
 
@@ -31,7 +31,7 @@ The search for evidence of life beyond Earth faces important challenges. Some ch
 
 ![A white background with black text Description automatically generated][image2]
 
-**Figure 1.2. Technical Challenges**: There are several technical challenges for life detection missions. For example, interesting locations to search for evidence of life, such as the outer Solar System or deep subsurface regions on Mars are hard to reach or require considerable technological investment. Astrobiology missions also require sophisticated payloads including sampling systems, sample preparation, and ultrasensitive instruments, along with stringent contamination control to avoid compromising life detection efforts. This technological complexity is exacerbated by the fact that spacecraft missions are often constrained by limited power, data capacity, and size, which can further restrict mission duration and scientific capabilities.
+**Figure 3.1.2. Technical Challenges**: There are several technical challenges for life detection missions. For example, interesting locations to search for evidence of life, such as the outer Solar System or deep subsurface regions on Mars are hard to reach or require considerable technological investment. Astrobiology missions also require sophisticated payloads including sampling systems, sample preparation, and ultrasensitive instruments, along with stringent contamination control to avoid compromising life detection efforts. This technological complexity is exacerbated by the fact that spacecraft missions are often constrained by limited power, data capacity, and size, which can further restrict mission duration and scientific capabilities.
 
 
 ### **1.2 Frameworks for Life Detection**
@@ -40,17 +40,17 @@ Developing frameworks for searching for evidence of life beyond Earth is crucial
 
 ![A screenshot of a computer Description automatically generated][image3]
 
-**Figure 1.3. The Ladder of Life Detection**: This framework, recommended by the 2019 National Academies of Science, Engineering, and Medicine, aims to guide the evaluation of biosignatures, considering both potential abiosignatures and the risks of false positives and negatives. The Ladder categorizes features from possibly biological to almost certainly life (Neveu et al., 2018).
+**Figure 3.1.3. The Ladder of Life Detection**: This framework, recommended by the 2019 National Academies of Science, Engineering, and Medicine, aims to guide the evaluation of biosignatures, considering both potential abiosignatures and the risks of false positives and negatives. The Ladder categorizes features from possibly biological to almost certainly life (Neveu et al., 2018).
 
 
 ![][image4]
 
-**Figure 1.4. Life Detection Knowledge Base (LDKB)**: The LDKB is an online repository that organizes astrobiology knowledge into a common reference frame, containing arguments, evidence, and evaluations regarding biosignatures, including potential false positives and false negatives.
+**Figure 3.1.4. Life Detection Knowledge Base (LDKB)**: The LDKB is an online repository that organizes astrobiology knowledge into a common reference frame, containing arguments, evidence, and evaluations regarding biosignatures, including potential false positives and false negatives.
 
 
 ![A close-up of a diagram Description automatically generated][image5]
 
-**Figure 1.5. Standards of Evidence for Life Detection**: Introduced by Green et al. (2021), this framework assesses biosignature claims based on a set of criteria developed from the Ladder of Life Detection, involving community consensus on evaluation methods.
+**Figure 3.1.5. Standards of Evidence for Life Detection**: Introduced by Green et al. (2021), this framework assesses biosignature claims based on a set of criteria developed from the Ladder of Life Detection, involving community consensus on evaluation methods.
 
 
 
@@ -58,14 +58,14 @@ Developing frameworks for searching for evidence of life beyond Earth is crucial
 
 ![][image6]
 
-**Figure 2.1.** The systematic progression linking comparative planetology to comparative biology. Through initiating a framework of comparative planetology questions there is a logical flow that moves towards understanding habitability and detectability through asking key questions about the suitability for life and indicators of life, prior to addressing specific questions regarding the detection of life. Depending on these outcomes, the comparative framework can then lead to comparative biology-oriented questions.
+**Figure 3.2.1.** The systematic progression linking comparative planetology to comparative biology. Through initiating a framework of comparative planetology questions there is a logical flow that moves towards understanding habitability and detectability through asking key questions about the suitability for life and indicators of life, prior to addressing specific questions regarding the detection of life. Depending on these outcomes, the comparative framework can then lead to comparative biology-oriented questions.
 
 ### **2.1 Ocean Worlds and Chemical Evolution**
 
 
 ![][image7]
 
-**Figure 2.2.** The theory of chemical evolution conveys that life is the result of a series of prebiotic chemical steps in which complex chemical compounds and pools of molecules originate from simpler molecules that combine eventually to form the first cell. This theory is also serves as a roadmap for life detection. Astrobiology provides a means to test the theory of chemical evolution using mission-based space enabled technology.  This approach considers abiotic, prebiotic and biological scenarios without favoring one scenario over other. Likewise, a detection of life in this case is an outcome of exploration rather than the driver.  For more information on this schematic and the different steps in the theory of organic chemical evolution see Davila and Eigenbrode (2024).
+**Figure 3.2.2.** The theory of chemical evolution conveys that life is the result of a series of prebiotic chemical steps in which complex chemical compounds and pools of molecules originate from simpler molecules that combine eventually to form the first cell. This theory is also serves as a roadmap for life detection. Astrobiology provides a means to test the theory of chemical evolution using mission-based space enabled technology.  This approach considers abiotic, prebiotic and biological scenarios without favoring one scenario over other. Likewise, a detection of life in this case is an outcome of exploration rather than the driver.  For more information on this schematic and the different steps in the theory of organic chemical evolution see Davila and Eigenbrode (2024).
 
 Focusing on the theory of organic chemical evolution (OCE) is a powerful approach for searching for evidence of life in ocean worlds because it provides a comprehensive framework that accounts for both abiotic and biotic possibilities. Ocean worlds, with their liquid water and geochemical activity, present unique environments where organic molecules can form and evolve. The theory of OCE posits that life emerges through a series of prebiotic chemical steps, starting with simple molecules and gradually building up to complex organic polymers capable of self-replication. This framework avoids the pitfalls of focusing exclusively on biosignatures, which presuppose the existence of life and may result in confirmation bias. Instead, by systematically investigating the chemical evolution of organic matter, this approach ensures a broader and more reliable path to discovering life or its precursors (Davila and Eigenbrode, 2024).
 
@@ -74,7 +74,7 @@ Focusing on the theory of organic chemical evolution (OCE) is a powerful approac
 
 ![][image8]
 
-**Figure 2.3.** Life can be viewed as an endmember in a continuum of chemical evolution starting with a prebiotic milieu and moving through a biotic world where organics are produced, adapted from Barge et al. 2022.
+**Figure 3.2.3.** Life can be viewed as an endmember in a continuum of chemical evolution starting with a prebiotic milieu and moving through a biotic world where organics are produced, adapted from Barge et al. 2022.
 
 The progression from simple molecules to complex biochemical systems is continuous, with life being the most complex and organized form of this process. Researchers seeking evidence of life beyond Earth must consider environments and processes that span from non-living (abiotic) to pre-life (prebiotic) and finally to living (biotic) states. Identifying and understanding prebiotic chemistry is crucial as it informs the selection of sites and the types of analyses necessary for detecting potential signs of life. This perspective encourages a broader approach to life detection, one that includes studying environments that may not currently host life but possess the chemical precursors and conditions that could potentially support life in the future (Barge et al., 2022; Davila & Eigenbrode, 2024).
 
@@ -88,7 +88,7 @@ Prebiotic chemistry refers to the chemical processes and reactions that occur be
 
 ![][image9]
 
-**Figure 2.4.** Ocean worlds (OW) provide a testing grounds to apply a progressive strategy to consider detecting signs of life on an ocean world beginning with a foundational base of chemical inventory, structure, and processes. Then moving investigations to prebiotic chemistry and eventually biosignature detection. 
+**Figure 3.2.4.** Ocean worlds (OW) provide a testing grounds to apply a progressive strategy to consider detecting signs of life on an ocean world beginning with a foundational base of chemical inventory, structure, and processes. Then moving investigations to prebiotic chemistry and eventually biosignature detection. 
 
 Each ocean world represents a unique opportunity to study the gradual and complex process of chemical evolution at planetary scales. How the observations and foundational knowledge from previous missions/current state of knowledge lay the groundwork for future exploration can be thought of as building towards the difficult goal of search for life in a hierarchical strategy. One possibility is to articulate a set of investigations and associated measurements that minimize risk and maximize science return, for example by combining investigations that are general, inclusive and lower risk (e.g., characterizing the general organic inventory) with others that are specific, stringent and higher risk (e.g., searching for specific biosignatures) (Davila and Eigenbrode, 2024). The particulars of such a strategy will be unique to each world, both because of the different environments offered and the different histories of exploration/available data. Each ocean world might provide unique clues about chemical evolution and organic synthesis. By studying different environments, scientists can gather a wide range of data that enhances the overall understanding of potential habitats for life.
 
@@ -102,11 +102,11 @@ Each ocean world represents a unique opportunity to study the gradual and comple
 
 ![][image10]
 
-**Figure 3.1** Cassini's instruments (INMS and CDA) detected a variety of organic compounds in Enceladus' plumes, including low-mass organic cations and macromolecular organic cations. The presence of these compounds suggests complex organic chemistry and possibly even prebiotic conditions beneath the ice (Khawaja et al., 2019; Postberg et al., 2018a).
+**Figure 3.3.1.** Cassini's instruments (INMS and CDA) detected a variety of organic compounds in Enceladus' plumes, including low-mass organic cations and macromolecular organic cations. The presence of these compounds suggests complex organic chemistry and possibly even prebiotic conditions beneath the ice (Khawaja et al., 2019; Postberg et al., 2018a).
 
 ![A diagram of a sea ice Description automatically generated with medium confidence][image11]
 
-**Figure 3.2** The organic film model proposes that organic materials, carried by ascending bubbles in Enceladus' subsurface ocean, become concentrated near the water table and are ejected into space, forming organic-rich ice grains (Postberg et al. 2018b).
+**Figure 3.3.2.** The organic film model proposes that organic materials, carried by ascending bubbles in Enceladus' subsurface ocean, become concentrated near the water table and are ejected into space, forming organic-rich ice grains (Postberg et al. 2018b).
 
 ### **3.2 Europa: The First Identified Ocean World**
 
@@ -121,14 +121,14 @@ Europa's subsurface ocean is considered a prime candidate for potential life due
 
 ![A diagram of a layer of water Description automatically generated][image14]
 
-**Figure 3.3.**  Graphic representation of a cross section of Europa’s ice shell, ocean and sediment interface provides opportunity to discuss the oxidants, exogenic processes, exchange processes, thermal contraction of a cooling interior, and potential chemistries that may be encountered. This mage was generated as part of the Europa lander Science Definition team’s report, and later published by (Hand et al. 2022). 
+**Figure 3.3.3.**  Graphic representation of a cross section of Europa’s ice shell, ocean and sediment interface provides opportunity to discuss the oxidants, exogenic processes, exchange processes, thermal contraction of a cooling interior, and potential chemistries that may be encountered. This mage was generated as part of the Europa lander Science Definition team’s report, and later published by (Hand et al. 2022). 
 
 ### **3.3 Titan: Diverse Environments for Chemical Evolution**
 
 
 ![][image15]
 
-**Figure 3.4.**  Titan’s atmosphere is rife with hydrogen, nitrogenous gasses and diverse hydrocarbons including methane, ethane, and many others. The rich atmosphere, surface, and subsurface chemical interactions create a chemically reactive system rich for study.  Images adapted from MacKenzie et al. (2021).
+**Figure 3.3.4.**  Titan’s atmosphere is rife with hydrogen, nitrogenous gasses and diverse hydrocarbons including methane, ethane, and many others. The rich atmosphere, surface, and subsurface chemical interactions create a chemically reactive system rich for study.  Images adapted from MacKenzie et al. (2021).
 
 Titan, Saturn's largest moon, has a thick atmosphere primarily composed of nitrogen (N<sub>2</sub>) with a significant amount of methane (CH<sub>4</sub>). The atmosphere is chemically active, driven by photochemical reactions from solar radiation and charged particles from Saturn's magnetosphere. The photochemical reactions in Titan's upper atmosphere produce a variety of complex organic molecules, including hydrocarbons and nitriles. These compounds condense and fall to the surface, contributing to the organic-rich environment. Titan's surface hosts vast seas and lakes of liquid methane and ethane, primarily in its polar regions. The interaction between the atmosphere and the surface creates a dynamic environment where liquid hydrocarbons can cycle through evaporation, precipitation, and runoff, similar to the hydrological cycle on Earth (Barnes et al., 2021).
 
@@ -136,7 +136,7 @@ Titan, Saturn's largest moon, has a thick atmosphere primarily composed of nitro
 
 ![A diagram of the solar system Description automatically generated][image16]
 
-**Figure 3.5.** This cross section graphic depicts a potential subsurface ocean on Titan (Vance et al. 2018).
+**Figure 3.3.5.** This cross section graphic depicts a potential subsurface ocean on Titan (Vance et al. 2018).
 
 **Subsurface Ocean:** Beneath Titan's icy crust, there is strong evidence for a subsurface ocean of liquid water mixed with ammonia. This ocean is kept in a liquid state due to the heat generated by tidal forces from Saturn and possibly from the decay of radioactive elements. The interaction between the surface hydrocarbons and the subsurface water-ammonia ocean can lead to the formation of complex prebiotic molecules. The complex interactions between these different environments make Titan a prime candidate for studying prebiotic chemistry and the potential for life. Future missions like Dragonfly will continue to explore these possibilities, providing deeper insights into the processes that could lead to life beyond Earth.
 
@@ -145,7 +145,7 @@ Titan, Saturn's largest moon, has a thick atmosphere primarily composed of nitro
 
 ![][image17]
 
-**Figure 3.6.** Graphical representations of Ceres. The global graphic on the right provides an overview of a predicted model for this planetary small body.  The images on the left provides a higher resolution cross-section indicating a 50 km thick crust and potential underlying brine (Castillo-Rogez et al. 2020).
+**Figure 3.3.6.** Graphical representations of Ceres. The global graphic on the right provides an overview of a predicted model for this planetary small body.  The images on the left provides a higher resolution cross-section indicating a 50 km thick crust and potential underlying brine (Castillo-Rogez et al. 2020).
 
 Ceres, the largest object in the asteroid belt between Mars and Jupiter, is considered a relic ocean world. Evidence suggests that Ceres once had a global ocean, which has since frozen and potentially formed a thick layer of ice beneath its surface. Geological features observed on Ceres, such as the bright spots in Occator Crater, indicate past and possibly ongoing water activity. These spots are composed of salts, particularly sodium carbonate, suggesting the presence of briny water in the past. Ceres shows evidence of cryovolcanic activity, where subsurface briny liquids have erupted onto the surface. This process indicates that Ceres may still harbor pockets of liquid water or brine beneath its icy crust. The surface of Ceres contains a variety of hydrated minerals, including clays and carbonates, which form through interactions between water and rock. These minerals indicate that Ceres has experienced significant water-rock interactions, essential for prebiotic chemistry. Organic molecules have been detected on Ceres, particularly around Ernutet Crater. These compounds, combined with evidence of water and geological activity, point to complex chemical processes that could support prebiotic chemistry (Castillo-Rogez et al., 2020).
 
