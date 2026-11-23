@@ -4,9 +4,9 @@
 
 Source: [NASA/JPL](https://www.jpl.nasa.gov/edu/resources/gallery/ocean-worlds/)
 
-Edited by Marrgy Chiviri, Chris German, Shannon MacKenzie, Jackie Grebmeier, Alison E. Murray. Published by Willow Houck, Dwan Jackson, and Patrick Gray. First Edition: November 2026
+**Edited by** Marrgy Chiviri, Chris German, Shannon MacKenzie, Jackie Grebmeier, Alison E. Murray. Published by Willow Houck, Dwan Jackson, and Patrick Gray. First Edition: November 2026
 
-The Ocean Worlds Field Guide (OWFG) was envisioned several years ago by the co-leads of NASA's Research Coordination Network, the Network for Ocean Worlds (NOW). The goal was to create a broad, accessible overview of the emerging field of Ocean Worlds Science and Technology—one that would serve as a useful resource for both newcomers and those already actively engaged in the field.
+**The Ocean Worlds Field Guide (OWFG)** was envisioned several years ago by the co-leads of NASA's Research Coordination Network, the Network for Ocean Worlds (NOW). The goal was to create a broad, accessible overview of the emerging field of Ocean Worlds Science and Technology—one that would serve as a useful resource for both newcomers and those already actively engaged in the field.
 
 Ocean Worlds research is inherently interdisciplinary and collaborative. It brings together planetary scientists who investigate geophysics, geochemistry, and planetary evolution, as well as those who conduct remote astronomical observations using ground-based and space-based telescopes or instruments aboard spacecraft missions. These scientists work alongside oceanographers, geologists, microbiologists, and technologists whose research focuses on Earth's oceans. Their areas of expertise include the influence of hydrothermal vents on ocean geochemistry, the role of Earth's cryosphere in ocean processes, the distribution and diversity of life in marine environments, the use of spectroscopic observations to study ocean systems, and the detection of even the smallest forms of life in ocean environments, to name just a few.
 
