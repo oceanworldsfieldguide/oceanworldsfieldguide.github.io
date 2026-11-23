@@ -48,8 +48,7 @@ We hope this Field Guide will serve as a valuable resource for the Ocean Worlds 
 | German, Chris            | Woods Hole Oceanographic Institution      |
 | Glass, Jennifer B.       | Georgia Tech                              |
 | Gray, Patrick, C.        | University of Maine                       |
-| Grebmeier, Jacqueline M. | University of Maryland Center             |
-|			   | for Environmental Science                 |
+| Grebmeier, Jacqueline M. | University of Maryland Center for Environmental Science|                 
 | Hand, Kevin P            | Jet Propulsion Laboratory                 |
 | Hofgartner, Jason        | Southwest Research Institute              |
 | Houck, Willow M.         | NASA Ames Research Center                 |
