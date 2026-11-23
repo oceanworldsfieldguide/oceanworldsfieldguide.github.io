@@ -12,15 +12,15 @@ Understanding habitability, both on Earth and other ocean worlds within our sola
 
 ![][image1]
 
-**Figure 1.1** A depiction of Earth’s entire ocean volume as a sphere, with (at left) the equivalent amounts for Jupiter’s moons Ganymede and Europa (top, middle), and Saturn’s much smaller moon Enceladus (bottom). Adapted from USGS.
+**Figure 1.1.1.** A depiction of Earth’s entire ocean volume as a sphere, with (at left) the equivalent amounts for Jupiter’s moons Ganymede and Europa (top, middle), and Saturn’s much smaller moon Enceladus (bottom). Adapted from USGS.
 
 ![][image2]
 
-**Figure 1.2**  Ocean worlds extend the domain of habitability beyond the solar system’s snowline, providing a bridge, via moons of the outer “Giant Planets” (Grasset et al, 2013), to the study of ocean world exoplanets \- potentially the most abundant class of habitable planets in the universe.
+**Figure 1.1.2.**  Ocean worlds extend the domain of habitability beyond the solar system’s snowline, providing a bridge, via moons of the outer “Giant Planets” (Grasset et al, 2013), to the study of ocean world exoplanets \- potentially the most abundant class of habitable planets in the universe.
 
 ![][image3]
 
-**Figure 1.3** The “snow line” for water ice (far left) isn’t the only condensation horizon as we move farther from the sun. The compositions of the solar system’s giant planets (Jupiter, Saturn, Uranus, Neptune) and their moons change with distance from the sun, as lower-freezing-point volatile materials condense and precipitate. Thus, solid and liquid methane and ammonia become more abundant in the Saturn system, and liquid nitrogen plumes have been observed jetting from the surface of Neptune’s moon Triton (Nimmo & Papallardo, 2016).
+**Figure 1.1.3.** The “snow line” for water ice (far left) isn’t the only condensation horizon as we move farther from the sun. The compositions of the solar system’s giant planets (Jupiter, Saturn, Uranus, Neptune) and their moons change with distance from the sun, as lower-freezing-point volatile materials condense and precipitate. Thus, solid and liquid methane and ammonia become more abundant in the Saturn system, and liquid nitrogen plumes have been observed jetting from the surface of Neptune’s moon Triton (Nimmo & Papallardo, 2016).
 
 ### **1.1 Habitability Factors of Earth’s Ocean Environments**
 
@@ -52,7 +52,7 @@ Of course, on other ocean worlds, the specific physical processes and chemical d
 
 ![][image4]
 
-**Figure 1.4**  Cross sections of Europa as an integrated system where habitability will be contingent upon a range of intersecting ocean processes from sub-seafloor circulation to ocean-cryosphere interactions (Vance et al. 2023).
+**Figure 1.1.4.**  Cross sections of Europa as an integrated system where habitability will be contingent upon a range of intersecting ocean processes from sub-seafloor circulation to ocean-cryosphere interactions (Vance et al. 2023).
 
 Across the diverse range of ocean worlds in the outer solar system, the domains of composition, temperature, pressure, and time will undoubtedly differ from those on Earth. But there is much that can be done utilizing theoretical modelling validated by laboratory experiments and judicious choice of analog field studies to help advance our understanding of what might be possible.  Differences in composition can be striking, such as the much higher abundances of non-water volatiles at increasing distance from the sun (see Fig.1.3) and the recognition that other oceans may contain dissolved organic carbon concentrations of \~4%, if derived from chondrites (Schmitt-Koplin et al., 2010\) or even \~40% if comets are the primary source (McKay & Roth, 2021\) compared to deep ocean concentrations on Earth that are limited to just 40 µmol/kg, such is the impact of draw-down by photosynthesis (Carlson & Hansell, 2015).
 
@@ -63,7 +63,7 @@ The present focus of missions like *Europa Clipper* and *JUICE* is on confirming
 
 ![][image5]
 
-**Figure 1.5** Predicted depths of penetration of ocean-derived fluids beneath the seafloor on Mars, Europa and Enceladus derived from an understanding of Earth’s subseafloor hydrogeology (Vance et al., 2007; 2016).
+**Figure 1.1.5.** Predicted depths of penetration of ocean-derived fluids beneath the seafloor on Mars, Europa and Enceladus derived from an understanding of Earth’s subseafloor hydrogeology (Vance et al., 2007; 2016).
 
  
 
@@ -85,7 +85,7 @@ The carbonate-silicate cycle is a key geochemical process that regulates atmosph
 
 ![A diagram of silicate cycle and climate feedDescription automatically generated][image6]
 
-**Figure 2.1** Weathering of Silicate Rocks: Silicate rocks undergo chemical weathering in the presence of CO<sub>2</sub>  and water, producing dissolved ions such as calcium (Ca<sup>2+</sup>), bicarbonate (HCO<sub>3</sub> <sup>-</sup>), and silica (SiO<sub>2</sup>).
+**Figure 1.2.1.** Weathering of Silicate Rocks: Silicate rocks undergo chemical weathering in the presence of CO<sub>2</sub>  and water, producing dissolved ions such as calcium (Ca<sup>2+</sup>), bicarbonate (HCO<sub>3</sub> <sup>-</sup>), and silica (SiO<sub>2</sup>).
 
 Reaction 1: CaSiO<sub>3</sub> (silicate rock) \+ 2 CO<sub>2</sub>  \+ 3 H<sub>2</sub>O → Ca<sup>2+</sup> \+ 2 HCO<sub>3</sub> <sup>-</sup> \+ SiO<sub>2</sub> \+ H<sub>2</sub>O     
 
@@ -103,7 +103,7 @@ Reaction 3: CaCO<sub>3</sub> \+ SiO<sub>2</sub> → CaSiO<sub>3</sub> \+ CO<sub>
 
 ![A diagram of a weathering systemDescription automatically generated][image7]
 
-**Figure 2.2** Climate Feedback: This cycle acts as a long-term thermostat for Earth's climate. When atmospheric CO<sub>2</sub> levels rise, weathering of silicate rocks accelerates, drawing down CO<sub>2</sub> and cooling the planet. Conversely, when CO<sub>2</sub> levels fall, weathering slows, allowing CO<sub>2</sub> to accumulate and warming the planet.
+**Figure 1.2.2.** Climate Feedback: This cycle acts as a long-term thermostat for Earth's climate. When atmospheric CO<sub>2</sub> levels rise, weathering of silicate rocks accelerates, drawing down CO<sub>2</sub> and cooling the planet. Conversely, when CO<sub>2</sub> levels fall, weathering slows, allowing CO<sub>2</sub> to accumulate and warming the planet.
 
 #### ***2.1.3 Physical Processes: Mantle Redox State***
 
@@ -117,17 +117,17 @@ Reaction 3: CaCO<sub>3</sub> \+ SiO<sub>2</sub> → CaSiO<sub>3</sub> \+ CO<sub>
 
 ![A graph of different types of carbon dioxideDescription automatically generated][image8]
 
-**Figure 2.3** Variability in carbon speciation in volcanic emissions as a function of mantle redox state
+**Figure 1.2.3.** Variability in carbon speciation in volcanic emissions as a function of mantle redox state
 
 ### **2.2 Thermohaline Circulation**
 
 #### *![A planet with a map of the earthDescription automatically generated][image9]*
 
-**Figure 2.4** A schematic illustration of the major deep ocean pathways of the Thermohaline Circulation
+**Figure 1.2.4.** A schematic illustration of the major deep ocean pathways of the Thermohaline Circulation
 
 **Mechanism and Importance:**
 
-●      *Thermohaline circulation:* Also known as the "global conveyor belt," is a large-scale ocean circulation driven by differences in water density, which are controlled by temperature (thermal) and salinity (haline) variations. This process is crucial for distributing heat, oxygen, and nutrients throughout the ocean (Figure 2.4).
+●      *Thermohaline circulation:* Also known as the "global conveyor belt," is a large-scale ocean circulation driven by differences in water density, which are controlled by temperature (thermal) and salinity (haline) variations. This process is crucial for distributing heat, oxygen, and nutrients throughout the ocean (Figure 1.2.4.).
 
 ●      *Density-Driven Flow:* Cold, salty water is denser and sinks at high latitudes, while warm, less salty water rises in other regions. This creates a continuous loop of water movement, connecting the surface and deep ocean.  
 ●      *Oxygen Distribution:* Thermohaline circulation plays a vital role in transporting oxygen from the surface to the deep sea, supporting aerobic organisms in deep-sea environments. Without this circulation, deep-sea habitats would become anoxic, making it difficult for aerobic life to thrive.  
@@ -153,13 +153,13 @@ Many types of potentially life-supporting water-rock reactions exist on Earth, a
 
 ![A diagram of a treeDescription automatically generated][image11]
 
-**Figure 2.5** An illustrative cross section of the Pacific Ocean (not to scale) from West to East showing a diversity of geologically active environments where water-rock reactions occur at Earth’s modern seafloor.  While we may not anticipate Plate Tectonics to be a standard feature of all ocean worlds, any ocean world with a rocky seafloor could host some form of water-rock interaction.
+**Figure 1.2.5.** An illustrative cross section of the Pacific Ocean (not to scale) from West to East showing a diversity of geologically active environments where water-rock reactions occur at Earth’s modern seafloor.  While we may not anticipate Plate Tectonics to be a standard feature of all ocean worlds, any ocean world with a rocky seafloor could host some form of water-rock interaction.
 
 *Serpentinization Reactions:* While there are many types of water-rock interaction possible on Earth, serpentinization is of particular interest to astrobiologists because it is a geochemical process where ultramafic (low-silica) rocks, rich in Fe and Mg-bearing minerals like olivine and pyroxene (as found pervasively among chondritic meteorites which may represent the bulk starting composition of many ocean world moons), react with water to form serpentine minerals, brucite, magnetite, and hydrogen (H<sub>2</sub>). This process provides a continuous supply of hydrogen, which can serve as a particularly rich energy source for microbial communities (Fig. 2.6).
 
 ![A diagram of a chemical reactionDescription automatically generated][image12]
 
-**Figure 2.6**  Serpentinization occurs at mid-ocean ridges, subduction zones, and other tectonically active regions. The hydrogen produced can be utilized by hydrogenotrophic microbes, supporting chemosynthetic ecosystems in these environments.
+**Figure 1.2.6.**  Serpentinization occurs at mid-ocean ridges, subduction zones, and other tectonically active regions. The hydrogen produced can be utilized by hydrogenotrophic microbes, supporting chemosynthetic ecosystems in these environments.
 
 #### ***2.3.3  Energy Sources in Extreme Environments***
 
@@ -175,7 +175,7 @@ o   *Significance:* Hydrogenotrophic methanogenesis supports diverse microbial c
 
 ![][image13]
 
-**Figure 2.7** A schematic illustration of hydrogenotrophic methanogenesis, projected onto a seafloor hydrothermal background (Apollo vent, Gorda Ridge, NE Pacific).
+**Figure 1.2.7.** A schematic illustration of hydrogenotrophic methanogenesis, projected onto a seafloor hydrothermal background (Apollo vent, Gorda Ridge, NE Pacific).
 
 #### ***2.3.5 Anaerobic Oxidation of Methane (AOM)***
 
@@ -185,7 +185,7 @@ o   *Significance:* Hydrogenotrophic methanogenesis supports diverse microbial c
 
 ![A close-up of a cellDescription automatically generated][image14]
 
-**Figure 2.8** A schematic illustration of the anaerobic oxidation of methane (AOM), projected onto a seafloor hydrothermal background (Apollo vent, Gorda Ridge, NE Pacific).
+**Figure 1.2.8.** A schematic illustration of the anaerobic oxidation of methane (AOM), projected onto a seafloor hydrothermal background (Apollo vent, Gorda Ridge, NE Pacific).
 
 #### ***2.3.6 Applying Earth-based knowledge to Ocean World exploration***
 
@@ -207,14 +207,14 @@ By exploring these detailed mechanisms of microbial adaptation and the availabil
 
 **![][image15]**
 
-**Figure 3.1** Methanogens, a group of microorganisms within the domain Archaea, have the remarkable ability to grow in a wide range of temperatures, from 0°C to 122°C​. This broad temperature adaptability is significant for understanding life in extreme environments, both on Earth and potentially on other ocean worlds.
+**Figure 1.3.1.** Methanogens, a group of microorganisms within the domain Archaea, have the remarkable ability to grow in a wide range of temperatures, from 0°C to 122°C​. This broad temperature adaptability is significant for understanding life in extreme environments, both on Earth and potentially on other ocean worlds.
 
 ### **3.2 Mechanisms for Coping with Nutrient Limitation**
 
 
 #### **![][image16]**
 
-**Figure 3.2** Microorganisms have developed various strategies to survive under extreme nutrient starvation. These strategies include scavenging for nutrients, substituting essential elements with alternatives, and storing nutrients in specialized structures. For instance, high-affinity transporters allow microbes to effectively uptake limited nutrients, sulfur-containing lipids can replace phosphorus in membrane structures, and polyphosphate granules can serve as phosphorus reserves​.
+**Figure 1.3.2.** Microorganisms have developed various strategies to survive under extreme nutrient starvation. These strategies include scavenging for nutrients, substituting essential elements with alternatives, and storing nutrients in specialized structures. For instance, high-affinity transporters allow microbes to effectively uptake limited nutrients, sulfur-containing lipids can replace phosphorus in membrane structures, and polyphosphate granules can serve as phosphorus reserves​.
 
 
 #### ***3.2.1 Adaptations to Phosphorus Limitation***
@@ -225,38 +225,38 @@ Various adaptations have been observed in different regions:
 
 **![][image17]**
 
-**Figure 3.3** *Sargasso Sea (Western North Atlantic Ocean):* Microbial communities have developed high-affinity phosphorus uptake systems and utilize alternative phosphorus sources​
+**Figure 1.3.3.** *Sargasso Sea (Western North Atlantic Ocean):* Microbial communities have developed high-affinity phosphorus uptake systems and utilize alternative phosphorus sources​
 
 **![][image18]**
 
-**Figure 3.4** *Cuatro Ciénegas Basin (Chihuahuan Desert of Mexico):* Microbial mats exhibit ancient mechanisms for coping with severe nutrient stress, highlighting evolutionary strategies to thrive in nutrient-limited environments.
+**Figure 1.3.4.** *Cuatro Ciénegas Basin (Chihuahuan Desert of Mexico):* Microbial mats exhibit ancient mechanisms for coping with severe nutrient stress, highlighting evolutionary strategies to thrive in nutrient-limited environments.
 
 #### ***3.2.2 Phosphorus Availability Beyond Earth***
 
 ![A diagram of a graphDescription automatically generated with medium confidence][image19]
 
-**Figure 3.5** The availability of phosphorus could also limit life beyond Earth. For example, the detection of phosphates originating from Enceladus’s ocean suggests that phosphorus, though scarce, could be available under certain conditions, potentially supporting life.
+**Figure 1.3.5.** The availability of phosphorus could also limit life beyond Earth. For example, the detection of phosphates originating from Enceladus’s ocean suggests that phosphorus, though scarce, could be available under certain conditions, potentially supporting life.
 
 #### ***3.2.3 Methane Clathrates and Habitability***
 
 ![A collage of different types of iceDescription automatically generated][image20]
 
-**Figure 3.6** Methane hydrates are crystalline structures where methane molecules are trapped within a lattice of water ice. They form under high-pressure and low-temperature conditions commonly found in deep ocean sediments and permafrost regions. Detailed studies of methane hydrate sediments reveal the metabolic pathways and adaptations of microbes living in these environments. These sediments serve as analogs for potential methane-rich habitats on ocean worlds.
+**Figure 1.3.6.** Methane hydrates are crystalline structures where methane molecules are trapped within a lattice of water ice. They form under high-pressure and low-temperature conditions commonly found in deep ocean sediments and permafrost regions. Detailed studies of methane hydrate sediments reveal the metabolic pathways and adaptations of microbes living in these environments. These sediments serve as analogs for potential methane-rich habitats on ocean worlds.
 
 
 ![][image21]
 
-**Figure 3.7** Methane clathrates, or methane hydrates, are likely widespread in the solar system and may play a crucial role in insulating subsurface oceans, creating habitable conditions in the outer solar system. For example, methane hydrates may maintain habitable conditions by insulating subsurface oceans on bodies like Enceladus. 
+**Figure 1.3.7.** Methane clathrates, or methane hydrates, are likely widespread in the solar system and may play a crucial role in insulating subsurface oceans, creating habitable conditions in the outer solar system. For example, methane hydrates may maintain habitable conditions by insulating subsurface oceans on bodies like Enceladus. 
 
 ![A diagram of a structureDescription automatically generated][image22]
 
-**Figure 3.8** Microbial Adaptations in Methane Hydrate Sediments
+**Figure 1.3.8.** Microbial Adaptations in Methane Hydrate Sediments
 
 In methane hydrate sediments, microbial communities are dominated by Atribacteria and Chloroflexi, which are adapted to these unique environments. These communities engage in methane metabolism, crucial for maintaining the stability of gas hydrates and influencing the habitability of these environments.
 
 ![A close-up of a graphDescription automatically generated][image23]
 
-**Figure 3.9** Microbial Proteins and Clathrate Growth
+**Figure 1.3.9.** Microbial Proteins and Clathrate Growth
 
 Recent studies have shown that microbial proteins can inhibit clathrate growth, indicating a specific adaptation for clathrate over ice. This finding has significant implications for understanding microbial activity in gas hydrates and their potential role in maintaining habitable conditions​.
 
@@ -264,7 +264,7 @@ Recent studies have shown that microbial proteins can inhibit clathrate growth, 
 
 ![A collage of different types of microbial activityDescription automatically generated][image25]
 
-Figure 3.10** Implications for Habitability
+**Figure 1.3.10.** Implications for Habitability
 
 These studies collectively enhance our understanding of the adaptability of microbial life to extreme environments and nutrient limitations. Such insights are crucial for astrobiology, particularly in identifying and studying potential habitats for life on other ocean worlds. Improved drilling technology and geophysical modeling of gas hydrate stability further aid in exploring these environments safely and effectively.
 
