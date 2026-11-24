@@ -2,7 +2,7 @@
 
 ##### **The Ocean Worlds Field Guide**
 
-**Edited by** Marggy Chiviri, Chris German, Shannon MacKenzie, Jacqueline M. Grebmeier, Alison E. Murray. Published by Willow Houck, Dwan Jackson, and Patrick Gray. **First Edition: November 2026**
+**Edited by** Marggy Chiviri, Chris German, Shannon MacKenzie, Jacqueline M. Grebmeier, Alison E. Murray. **Published by** Willow Houck, Dwan Jackson, and Patrick Gray. **First Edition: November 2026**
 
 **The Ocean Worlds Field Guide (OWFG)** was envisioned several years ago by the co-leads of NASA's Research Coordination Network, the Network for Ocean Worlds (NOW). The goal was to create a broad, accessible overview of the emerging field of Ocean Worlds Science and Technology—one that would serve as a useful resource for both newcomers and those already actively engaged in the field.
 
@@ -12,7 +12,7 @@ The Network for Ocean Worlds provides a natural forum for these diverse communit
 
 Given the breadth of scientific and engineering disciplines represented in Ocean Worlds research, this Field Guide is was written with the goal of providing an accessible, entry-level resource that provides foundational background and introduces emerging areas of study. It is designed to facilitate communication across disciplines, offering readers both new to the field and those already well-versed in particular aspects of Ocean Worlds research an opportunity to broaden their understanding and appreciate the connections between these diverse areas of inquiry.
 
-The Ocean Worlds Field Guide grew out of a retreat of the Network for Ocean Worlds Steering Committee, along with invited participants from other NASA Research Coordination Networks. The retreat was held in August 2023 at the Wrigley Marine Science Research Institute on Catalina Island, California. The scientific and technical presentations were organized into eight thematic modules spanning the breadth of Ocean Worlds research. These modules were designed to bring the community together, share expertise, and create opportunities for participants to learn from one another:
+The Ocean Worlds Field Guide grew out of a retreat of the Network for Ocean Worlds Steering Committee and the NOW early career cohort, Future Leaders for Ocean Worlds (FLOW), along with invited participants from other NASA Research Coordination Networks. The retreat was held in August 2023 at the Wrigley Marine Science Research Institute on Catalina Island, California. The scientific and technical presentations were organized into eight thematic modules spanning the breadth of Ocean Worlds research. These modules were designed to bring the community together, share expertise, and create opportunities for participants to learn from one another:
 
 - **Module 1:** Habitability on Ocean Worlds and on Earth
 - **Module 2:** Biogeochemical Cycles on Earth and Ocean Worlds
@@ -43,7 +43,7 @@ We hope this Field Guide will serve as a valuable resource for the Ocean Worlds 
 | Davila, Alfonso          | NASA Ames                                 |
 | Dierssen, Heidi          | University of Connecticut                 |
 | Elkassas, Sabrina        | Penn State University                     |
-| Ely, Tucker              |                                           |
+| Ely, Tucker              | 39 Alpha Research                         |
 | Fischer, Andrew          | University of California, Santa Cruz      |
 | German, Chris            | Woods Hole Oceanographic Institution      |
 | Glass, Jennifer B.       | Georgia Tech                              |
@@ -62,7 +62,7 @@ We hope this Field Guide will serve as a valuable resource for the Ocean Worlds 
 | McCarthy, Christine      | Columbia University                       |
 | McCollom, Tom            | University of Colorado, Boulder           |
 | Murray, Alison           | Desert Research Institute                 |
-| Naseem, Mariam           |                                           |
+| Naseem, Mariam           | University of Maryland                    |
 | Pietro, Kathryn          | Woods Hole Oceanographic Institution      |
 | Ridgwell, Andy           | University of California, Riverside       |
 | Robinson, Kirt J.        | Blue Marble                               |
