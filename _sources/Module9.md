@@ -10,7 +10,7 @@ Unlike the preceding modules in this handbook, Module 9 describes the planning f
 
 ## **Level 1: Foundational Concepts and Basic Information**
 
-### **1.1 The Team Exercise Scenario - Ganymede mission.**
+### **9.1.1 The Team Exercise Scenario - Ganymede mission.**
 
 Each team was presented with the same challenge:
 
@@ -61,7 +61,7 @@ Exercise Part C: Post-presentation discussion
 
 ## **Level 3: Technical Insights and Case Studies**
 
-### **3.1 Instrument Choices of the Different Teams**
+### **9.3.1 Instrument Choices of the Different Teams**
 
 A summary of the instrument suites provided by the different teams are provided below. The teams have been regrouped in this schematic, relative to the order of presentations, to better illustrate where commonalities between instrument packages emerged across teams. Boxes show the different instruments selected, some of which have been colorized to show commonality between groups. Orange boxes (top row) show the Dragonfly MS (DraMS); Peach-colored boxes (3rd row) are for the Phoenix MECA-AFM or WCL instruments; Yellowboxes (2nd row) represent the Viking "Labelled Release" experiment (Viking LR) with suggested modifications of feedstock and analysis indicated; Purple boxes (Row 2) are for the SHERLOC (Deep UV fluorescence Raman mapping system) instrument on Persevarance; Blue boxes represent the Supercam (LIBS Raman system), also on Perseverance.
 
