@@ -10,21 +10,21 @@ Biogeochemical cycles are essential processes that regulate the flow of nutrient
 
 ## **_Part I: Lessons Learned from Early Earth & the Ocean Worlds in Our Ancient Backyard_**
 
-### **1.1 Biogeochemical Cycling**
+### **2.1.1 Biogeochemical Cycling**
 
 Biogeochemical cycles refer to the pathways through which elements and compounds circulate within and between the Earth's atmosphere, hydrosphere, lithosphere, and biosphere. These cycles are fundamental to understanding Earth's systems and their interconnections, thresholds, and feedbacks  and include elements such as carbon, nitrogen, oxygen, phosphorus, and sulfur. 
 
-### **1.2 Early Earth Conditions**
+### **2.1.2 Early Earth Conditions**
 
 Early Earth's oceans played a critical role in shaping the planet's atmosphere and supporting the development of life and its early evolution. Factors such as tectonic activity, atmospheric composition, and ocean circulation patterns influenced the chemistry of early oceans. The formation of early oceans involved processes like outgassing from the Earth's interior and the condensation of water vapor.
 
-### **1.3 Origin of Life** 
+### **2.1.3 Origin of Life** 
 
 Various hypotheses exist regarding the origin of life, including hydrothermal vent theory, the importance of wet-dry cycle theory, the RNA world, and the role of atmospheric interactions. These theories explore how life may have begun in environments with the right combination of chemical elements and energy sources, leading to the formation of simple organic molecules and eventually more complex life forms.
 
 ## **Level 2: Detailed Exploration and Advanced Understanding**
 
-### **2.1 Early Conditions and Early Oceans**
+### **2.2.1 Early Conditions and Early Oceans**
 
 ![][image1]
 
@@ -63,7 +63,7 @@ Despite the Sun's reduced luminosity (about 70% of its current output), early Ea
 
 Zircon crystals found in ancient rocks serve as one of the oldest lines of evidence for the presence of liquid water and perhaps oceans on Earth’s surface over 4 billion years ago. These crystals can retain isotopic information that provides clues about the environmental conditions at the time of their formation.  The implication is that early geological activity set the foundation for a stable environment where oceans could exist and favor a habitable world suitable for the beginnings and persistence of life
 
-### **2.2 Origin of Life Scenarios**
+### **2.2.2 Origin of Life Scenarios**
 
 ![A black and white background with white textDescription automatically generated][image6]
 
@@ -88,7 +88,7 @@ In icy environments, the concentration of solutes during freezing can facilitate
 
 **Figure 2.2.9.**  This 2022 article by Zhang et al. describes the role of freeze-thaw cycles in facilitating the synthesis of nucleotide precursors and activation of nucleotides into oligomers. 
 
-#### ***2.2.1 Hydrothermal Vents and Serpentinization***
+#### ***2.2.2a Hydrothermal Vents and Serpentinization***
 
 Alkaline hydrothermal vents on early Earth provided the necessary gradients for the formation of complex organic molecules. Serpentinization, the reaction between water and ultramafic rocks, generates hydrogen and creates a conducive environment for life's origins.
 
@@ -96,7 +96,7 @@ Alkaline hydrothermal vents on early Earth provided the necessary gradients for 
 
 **Figure 2.2.10.** Hydrothermal vents are rich in geochemistry. A 60 meter (200 feet) tall carbonate carbonate chimney in the field of hydrothermal vents known as the Lost City. This vent site off the Mid-Atlantic ridge boasts alkaline fluids and a site rich with geochemical serpentinization reactions which can fuel rock-powered life. Source: <https://astrobiology.nasa.gov/news/hydrothermal-vents-could-explain-chemical-precursors-to-life/>; credit: NOAA, University of Washington.
 
-#### ***2.2.2 Proton Motive Force*** 
+#### ***2.2.2b Proton Motive Force*** 
 
 Alkaline vent systems generate proton gradients analogous to those required by modern microorganisms for carbon fixation. Adenosine triphosphate (ATP), a key energy molecule, is produced through these gradients, transferring energy for cellular processes. The availability of ATP and other energy sources was crucial for early life.
 
@@ -105,7 +105,7 @@ Alkaline vent systems generate proton gradients analogous to those required by m
 **Figure 2.2.11.** Hydrothermal vents are rich in proton (pH) gradients which can drive adenosine triphosphase biosysnthesis in living cells.  (boxed text source: Https://www.chegg.com)
 
 
-#### ***2.2.3 Seawater pH and Ion concentration*** 
+#### ***2.2.2c Seawater pH and Ion concentration*** 
 
 Hydrothermal systems where water-rock interactions are pervasive, particularly serpentinization, produce alkaline fluids rich in hydrogen. Over geological history, the pH of seawater has varied, influenced by volcanic activity, carbon dioxide levels, and hydrothermal processes. 
 
@@ -120,7 +120,7 @@ Seawater contains high concentrations of ions, which can inhibit the function of
 
 **Figure 2.2.13.** Discussions of the origins of life and the settings most likely to be suitable are a continuing discussion in the field. This article, Deamer 2021 discusses seawater vs. hot springs and their propensity to foster biomolecule-forming biochemical reactions.  
 
-#### ***2.2.4 The Phosphorus Problem*** 
+#### ***2.2.2d The Phosphorus Problem*** 
 
 Phosphorus availability is considered a limiting factor in many scenarios for the origin of life. Phosphate is central to the origin of life because it is a key component of nucleotides in genetic molecules, phospholipid cell membranes, and energy transfer molecules such as adenosine triphosphate. To incorporate phosphate into biomolecules, prebiotic experiments commonly use molar phosphate concentrations to overcome phosphate’s poor reactivity with organics in water. However, phosphate is generally limited to micromolar levels in the environment because it precipitates with calcium as low solubility apatite minerals (alkaline lake alternative). This disparity between laboratory conditions and environmental constraints is an enigma known as “the phosphate problem.”
 
@@ -128,7 +128,7 @@ Reduced phosphorus such as phosphide (P<sub>0</sub>) in the form of the mineral 
 
 Schreibersite is a common accessory mineral within some classes of meteorites and is also found in some highly reduced glasses formed by lightning strikes called fulgurites.
 
-#### ***2.2.5 The Phosphorus Problem – Enceladus***
+#### ***2.2.2e The Phosphorus Problem – Enceladus***
 
 *![A screenshot of a computerDescription automatically generated][image14]*
 
@@ -136,9 +136,9 @@ Schreibersite is a common accessory mineral within some classes of meteorites an
 
 This passage from a *Nature* 2020 article highlights the presence of bioavailable phosphorus in Enceladus’s Ocean, as detected by Cassini’s Cosmic Dust Analyzer. This discovery suggests that the phosphorus concentrations in Enceladus’s Ocean are significantly higher than those in Earth’s oceans, providing promising conditions for supporting life. The chemical reaction, hydroxyapatite \+ 5CO<sub>3</sub><sup>2–</sup> \+ H<sup>+</sup> ↔ calcite \+ 3PO<sub>4</sub><sup>3–</sup> \+ H<sub>2</sub>O, illustrates a potential mechanism for phosphorus release, further emphasizing the habitability potential of Enceladus. These details provide an understanding of the phosphorus problem and its implications for life on OWs.
 
-### **2.3 Pathways of Nutrient Cycling and Energy Flow** 
+### **2.2.3 Pathways of Nutrient Cycling and Energy Flow** 
 
-#### *2.3.1 Seafloor weathering and modes of seafloor weathering resurfacing:* 
+#### *2.2.3a Seafloor weathering and modes of seafloor weathering resurfacing:* 
 
 The article "Nutrient Supply to Planetary Biospheres from Anoxic Weathering of Mafic Oceanic Crust" in Geophysical Research Letters examine how anoxic weathering of mafic (magnesium and iron-rich) oceanic crust releases essential nutrients like phosphorus and iron. These nutrients are critical for biological processes and are released through chemical reactions involving water and minerals in oxygen-free environments. This process is crucial for sustaining nutrient supply and biological productivity, especially in ocean worlds or early Earth scenarios where other nutrient sources may be limited. The study highlights that similar anoxic weathering processes on planets or moons like Europa and Enceladus could create nutrient-rich environments conducive to life. The interaction between geophysical processes, such as tectonic activity, and geochemical cycles, including seafloor weathering, plays a vital role in maintaining nutrient supply and supporting sustained habitability over geological timescales. 
 
@@ -146,7 +146,7 @@ The article "Nutrient Supply to Planetary Biospheres from Anoxic Weathering of M
 
 **Figure  2.2.15.**  Water rock weathering reactions were tested under anoxic conditions between ocean and the crust. Such reactions could potential support elements (e.g., P) required for life (Syverson et al. 2021).**
 
-#### ***2.3.2 Ocean Chemistry: Surface-ocean exchange*** 
+#### ***2.2.3b Ocean Chemistry: Surface-ocean exchange*** 
 
 Surface-ocean exchange refers to the dynamic processes that transfer materials, energy, and gases between the surface layers of the ocean and the deeper ocean. This exchange is critical for regulating ocean chemistry, nutrient distribution, and biological productivity. The exchange processes help distribute essential nutrients like nitrogen, phosphorus, and iron throughout the ocean. Nutrient-rich deep waters brought to the surface can fuel primary production, supporting marine food webs. The surface ocean interacts with the atmosphere, exchanging gases such as oxygen and carbon dioxide. This exchange influences atmospheric composition and climate regulation. Surface-ocean exchange plays a role in regulating global climate by distributing heat and influencing ocean currents, which in turn affect weather patterns and climate systems. By supplying nutrients and regulating environmental conditions, surface-ocean exchange processes support diverse and productive marine ecosystems.
 
@@ -160,7 +160,7 @@ This process facilitates the exchange of surface materials with the deeper ocean
 
 
 
-#### ***2.3.3 Ocean Chemistry: Salinity*** 
+#### ***2.2.3c Ocean Chemistry: Salinity*** 
 
 Changes in ocean salinity can impact ocean circulation patterns, which in turn affect global climate. Higher salinity increases water density, promoting deeper circulation, while lower salinity has the opposite effect. Salinity-driven changes in circulation can alter heat distribution in the oceans, influencing regional and global climate patterns. This has implications for Earth's habitability, as stable climate conditions are crucial for sustaining life. 
 
@@ -168,7 +168,7 @@ Changes in ocean salinity can impact ocean circulation patterns, which in turn a
 
 **Figure 2.2.17.** Ocean-atmosphere general circulation models can be used to investigate the response of Earth’s present-day and former climate systems. The study by Olson et al. (2022) reported on the magnitude of this influence, including impacts on temperature, sea ice, and even scenarios under which Snowball glaciation may have occurred.
 
-#### ***2.3.4 Ocean Chemistry: Redox*** 
+#### ***2.2.3d Ocean Chemistry: Redox*** 
 
 The availability of trace metals essential for enzymatic functions, such as iron (Fe), manganese (Mn), and molybdenum (Mo), is influenced by ocean redox conditions. In anoxic conditions, these metals are more soluble and available, whereas in oxic conditions, they tend to precipitate and become less available. The availability of these metals affects the metabolic pathways that organisms can use. For example, nitrogen fixation (which converts N<sub>2</sub> to bioavailable ammonia) relies on molybdenum-containing enzymes. The bioavailability of nitrogen and phosphorus is linked to the redox conditions and the presence of trace metals. Anoxic conditions can support higher availability of these nutrients by preventing their scavenging by metal oxides. 
 
@@ -178,7 +178,7 @@ The availability of trace metals essential for enzymatic functions, such as iron
 
 These studies emphasize the importance of redox conditions in determining the availability of trace metals necessary for enzymatic functions and metabolic pathways. They highlight the consequences for nutrient bioavailability, particularly nitrogen and phosphorus.
 
-#### ***2.3.5 Earth's Great Oxidation Event:*** 
+#### ***2.2.3e Earth's Great Oxidation Event:*** 
 
 The GOE, occurring around 2.4 billion years ago, marks the period when Earth's atmosphere and shallow ocean first experienced a significant increase in oxygen levels, primarily due to the activity of cyanobacteria performing photosynthesis. The rise in atmospheric oxygen led to increased oxygen levels in surface waters, which gradually mixed into deeper ocean layers. This process transformed ocean chemistry and enhanced the oxidative weathering of minerals, affecting nutrient availability and cycling. 
 
@@ -188,9 +188,9 @@ The GOE, occurring around 2.4 billion years ago, marks the period when Earth's a
 
 The rise in atmospheric oxygen led to increased oxygen levels in surface waters, which gradually mixed into deeper ocean layers. This process transformed ocean chemistry and enhanced the oxidative weathering of minerals, affecting nutrient availability and cycling. After the GOE, oxygen levels fluctuated for millions of years before stabilizing. These fluctuations impacted the balance of redox-sensitive elements (e.g., iron and sulfur) and influenced the surface-ocean exchange processes. The gradual increase in oxygen availability supported the evolution and diversification of eukaryotic life forms, which rely on oxygen for more efficient energy production.
 
-### **2.4 Cycling of life and planet** 
+### **2.2.4 Cycling of life and planet** 
 
-#### ***2.4.1. Productivity of a Biosphere:*** 
+#### ***2.2.4a Productivity of a Biosphere:*** 
 
 The productivity of a biosphere is fundamentally linked to the availability of energy and materials. Both factors determine the capacity for life to grow, reproduce, and maintain ecological balance. 
 
@@ -198,7 +198,7 @@ The productivity of a biosphere is fundamentally linked to the availability of e
 
 **Figure 2.2.20.** Energy flow and nutrient cycling in a biosphere. Solar energy enters the ecosystem and is captured by producers (autotrophs) which support primar and secondary consumers through trophic interactions. Decomposition returns nutrients to the material/nutrient pool, which supplies materials for producer growth. The graphic shows how biosphere productivity is constrained by the availability of energy and essential materials, with energy flowing through the system and nutrients being recycled.
 
-#### ***2.4.2 Energy vs. Mass/Nutrient Limitations:*** 
+#### ***2.2.4b Energy vs. Mass/Nutrient Limitations:*** 
 
 Terrestrial ecosystems are primarily limited by the availability of essential materials (e.g., nutrients like nitrogen and phosphorus). The energy from sunlight is usually abundant, but the availability of nutrients in the soil can restrict plant growth and productivity. 
 
@@ -211,7 +211,7 @@ In contrast, aquatic ecosystems are often limited by energy availability. Sunlig
 
 **Figure 2.2.21** The export of organic matter to depth depletes the surface ocean of nutrients, causing the nutrients to accumulate in deep waters where there is no light (energy) available for photosynthesis.** Typical conditions in the subtropical ocean, as indicated by data collected at the Bermuda Atlantic Time-series Station in July, 2008. The thermocline (vertical temperature gradient) stratifies the upper water column. During this particular station occupation, the shallow wind-mixed surface layer is not well defined, presumably because of strong insolation and a lack of wind that allowed continuous stratification all the way to the surface. Very little sunlight penetrates deeper than ~100 m. New supply of the major nutrients N and P is limited by the slow mixing across the upper thermocline (showing here only the N nutrient nitrate, NO3-). Within the upper euphotic zone, the slow nutrient supply is completely consumed by phytoplankton in their growth. This growth leads to the accumulation of particulate organic carbon in the surface ocean, some of which is respired by bacteria, zooplankton, and other heterotrophs, and some of which is exported as sinking material. The deep chlorophyll maximum (DCM) occurs at the contact where there is adequate light for photosynthesis and yet significant nutrient supply from below. The DCM should not be strictly interpreted as a depth maximum in phytoplankton biomass, as the phytoplankton at the DCM have a particularly high internal chlorophyll concentration. The data shown here is made available the Bermuda Institute of Ocean Sciences (http://bats.bios.edu) and the Bermuda Bio Optics Project (http://www.icess.ucsb.edu/bbop/). Source: Sigman and Hain, 2012.
 
-#### ***2.4.3 Potential Abiotic Material Fluxes within Europa:*** 
+#### ***2.2.4c Potential Abiotic Material Fluxes within Europa:*** 
 
 On Europa, potential abiotic material fluxes include the transfer of nutrients and energy sources through mechanisms such as surface-to-ocean exchange, hydrothermal activity, and impact-generated melt chambers.
 
@@ -223,15 +223,15 @@ On Europa, potential abiotic material fluxes include the transfer of nutrients a
 
 ## **_Part II: Geochemical Cycling in Icy Worlds_**
 
-### **3.1 Parameters Driving Ocean World (OW)**
+### **2.3.1 Parameters Driving Ocean World (OW)**
 
 **Energy and Chemical Cycling**: The internal evolution of ocean worlds like Enceladus and Europa is driven by various energy sources, including tidal heating, radiogenic decay, and hydrothermal activity. The cycling of elements and compounds within these worlds is critical for maintaining chemical disequilibrium, which can provide energy for potential biological processes. Key elements involved include carbon (C), hydrogen (H), nitrogen (N), oxygen (O), phosphorus (P), and sulfur (S) – collectively known as CHNOPS.
 
-### **3.2 Geochemical Cycles and Their Impact** 
+### **2.3.2 Geochemical Cycles and Their Impact** 
 
 **Chemical-Physical Feedback:** The interaction between chemical cycles and physical processes (such as heat transfer and fluid dynamics) significantly impacts the internal evolution and geological activity of ocean worlds. For instance, hydrothermal vents on the seafloor can release energy and nutrients, driving chemical reactions and supporting potential life.
 
-### **3.3 Focus on Carbon**
+### **2.3.3 Focus on Carbon**
 
 **Cometary and Planetesimal Contributions:** Comets and planetesimals deliver significant amounts of carbon and other volatiles to ocean worlds. For instance, findings from the Rosetta suggest cometary dust is rich in insoluble organic matter. Cometary material also contains a large fraction of carbon dioxide (CO<sub>2</sub>) and carbon monoxide (CO) influencing the redox properties of deep oceans.
 
@@ -239,7 +239,7 @@ On Europa, potential abiotic material fluxes include the transfer of nutrients a
 
 **Figure 2.3.1.** Summary of the rationale for considering carbon-rich, cometary pebbles as a possible feedstock for icy moons (D. Schoonenberg et al., 2019).  
 
-### **3.4 Residual Ocean Worlds:** 
+### **2.3.4 Residual Ocean Worlds:** 
 
 Many candidate ocean worlds, like Uranian moons and dwarf planets, may host subsurface oceans maintained by brines. These environments, even without significant tidal heating, could sustain liquid water and be the site of prebiotic chemistry.
 
@@ -254,7 +254,7 @@ Modified from: [https://www.planetary.org/space-images/interiors-of-icy-bodies](
 **Figure 2.3.3.** First-order quantification of the tidal and radiogenic heat budget of icy moons and dwarf planets, assuming all the moons are characterized by a ratio of tidal Love number k2 to dissipation factor Q equal to 1 (this ratio would normally differ among bodies depending on their internal evolution.) 
 
 
-### **3.5 Case Study – Ceres** 
+### **2.3.5 Case Study – Ceres** 
 
 Ceres, a dwarf planet in the asteroid belt, shows evidence of carbon in multiple forms (carbonates, organics, amorphous carbon, maybe graphite, and maybe also clathrates of CO<sub>2</sub> or CH<sub>4</sub>). Recent exposure of material rich in carbonate indicates ongoing subsurface processes possibly involving briny muds sources from the top of the rocky mantle. This points to a geochemical cycle that is one driver of dynamic habitability, i.e., evolution of Ceres’ habitability potential through time.  
 
@@ -263,7 +263,7 @@ Ceres, a dwarf planet in the asteroid belt, shows evidence of carbon in multiple
 **Figure 2.3.4.** Observations of carbon in multiple forms have been obtained by the Dawn mission and suggest the cycling of carbon occurred during Ceres’ history.
 
 
-### **3.6 Major Stages in Icy Body Evolution**
+### **2.3.6 Major Stages in Icy Body Evolution**
 
 The evolution of icy bodies includes accretion, differentiation, and possible thermodynamic death. Soluble organics and gas hydrates influence these stages, affecting the chemistry of subsurface oceans.
 
@@ -272,7 +272,7 @@ The evolution of icy bodies includes accretion, differentiation, and possible th
 **Figure 2.3.5.** Schematic evolution of small icy bodies, including the main reservoirs of carbon. These bodies may preserve a residual layer of liquid at present that is enriched in solutes and organic matter. 
 
 
-#### ***3.6.1 Metamorphism Plays a Major Role in Icy Body Evolution***
+#### ***2.3.6a Metamorphism Plays a Major Role in Icy Body Evolution***
 
 Second generation oceans can significantly impact the chemical environment and potential habitability. 
 
@@ -283,13 +283,13 @@ Second generation oceans can significantly impact the chemical environment and p
 Credit: JPL/Caltech/Raoul Ranoa, Open Source from https://www.jpl.nasa.gov/images/pia26570-fluid-flow-in-ceres-due-to-core-heating/ 
 
 
-#### ***3.6.2 Partitioning of Accreted Carbon Compounds:***
+#### ***2.3.6b Partitioning of Accreted Carbon Compounds:***
 
 Materials like CI/CM chondrites and cometary dust contribute to the chemical diversity and redox gradients of these environments.
 
 ![A diagram of carbon compoundDescription automatically generated][image30]
 
-#### ***3.6.3 Carbon Evolution in Oceans and Mantles:***
+#### ***2.3.6c Carbon Evolution in Oceans and Mantles:***
 
 Accreted carbon compounds undergo various transformations in oceans and mantles. Oxidized and reduced forms of carbon evolve through interactions with silicates and other minerals. Metamorphism can lead to the late formation of a second generation ocean enriched in carbon compounds. The distribution and fate of organic matter, whether mixed with rock or separate, determine the release and cycling of CO<sub>2</sub> and other volatiles.
 
@@ -297,7 +297,7 @@ Accreted carbon compounds undergo various transformations in oceans and mantles.
 
 **Figure 2.3.8.** Predicted composition of oceans in icy worlds that accreted carbon dioxide and ammonia, which is expected in most bodies in the outer solar system (Castillo-Rogez et al., 2022).
 
-#### ***3.6.4 Clathrate Formation and Volatile Composition:*** 
+#### ***2.3.6d Clathrate Formation and Volatile Composition:*** 
 
 Clathrates, ice-like structures that trap gases, act as insulating materials in ocean worlds. The formation of clathrates depends on the volatile composition of the environment. Methane clathrates form readily in bodies with significant CH<sub>4</sub>, such as Kuiper belt objects. Clathrates can sequester CO<sub>2</sub>, regulating the pH and chemical composition of subsurface oceans.
 
@@ -305,7 +305,7 @@ Clathrates, ice-like structures that trap gases, act as insulating materials in 
 
 **Figure 2.3.9.** Dissolved carbonates and methane can form clathrate hydrates under certain conditions (Courville et al., 2023).
 
-#### ***3.6.5 Knowledge Gap: How is Organic Matter Distributed*** 
+#### ***2.3.6e Knowledge Gap: How is Organic Matter Distributed*** 
 
 Understanding how organic matter is distributed within icy bodies is crucial for assessing their habitability. Organic matter can be mixed with rock or exist separately, influencing the availability of carbon dioxide and other gasses in the ocean. Two models have been suggested (slide below). In Model 1, the bulk organic matter sinks with the rock; in Model 2, the bulk of the organics accumulate at the base of the hydrosphere.  
 
@@ -313,7 +313,7 @@ Understanding how organic matter is distributed within icy bodies is crucial for
 
 **Figure 2.3.10.** There has been little research about the distribution of accreted organic matter following the differentiation of a rocky core from an ice shell. This figure shows the two models that have been suggested in the literature (Neri et al., 2020 (left), Mckinnon et al., 2021 (right)). 
 
-### **3.7 Ceres’ Evaporites were Sourced from Carbon-Rich Brines**
+### **2.3.7 Ceres’ Evaporites were Sourced from Carbon-Rich Brines**
 
 Metamorphic fluids rich in carbon dioxide shift the environment towards oxidizing conditions. This could explain the abundant sodium carbonate on Ceres' surface. The presence of carbon-rich brines suggests a dynamic geochemical environment, important for understanding the potential for life.
 
@@ -330,7 +330,7 @@ Can be accessed: [https://science.nasa.gov/photojournal/occator-in-false-color/]
 The image of the Monahans salt clast is from Chan et al. (2018). 
 
 
-#### ***3.7.1 Preservation of Deep Oceans in Uranus' Major Moons \- CI Composition***
+#### ***2.3.7a Preservation of Deep Oceans in Uranus' Major Moons \- CI Composition***
 
 Studies assuming a CI chondritic composition suggest that deep oceans in Uranus' major moons could be preserved by a balance of chemical processes, including the formation of clathrates and carbonates.
 
@@ -339,7 +339,7 @@ Studies assuming a CI chondritic composition suggest that deep oceans in Uranus'
 **Figure 2.3.13.** “Baseline” models for the current interior structures of Uranus’ major moons assuming radioisotope decay heating as the main heat source. These models predict that, except for Miranda, the moons would preserve tens of kilometers of liquid until present, while Miranda could be frozen at present. In practice, Miranda and Ariel were likely involved in tidal resonances. Increased tidal heating compared to the Figure 2.3.3. predictions likely led to the surfacing of these moons (Castillo-Rogez et al., 2023). 
 
 
-#### ***3.7.2 Oceans Expected to be Rich in NH<sub>3</sub>/NH<sub>4</sub>, Cl, CO<sub>3</sub>***
+#### ***2.3.7b Oceans Expected to be Rich in NH<sub>3</sub>/NH<sub>4</sub>, Cl, CO<sub>3</sub>***
 
 Oceans in icy worlds are expected to be rich in ammonia (NH<sub>3</sub>), ammonium (NH<sub>4</sub>), chlorides (Cl), and carbonates (CO<sub>3</sub>), which are crucial for maintaining chemical disequilibrium and supporting potential biological processes.
 
@@ -347,7 +347,7 @@ Oceans in icy worlds are expected to be rich in ammonia (NH<sub>3</sub>), ammoni
 
 **Figure 2.3.14.** Concentrations of key species expected in icy moons as a function of temperature and fraction of liquid left (Castillo-Rogez et al., 2023). 
 
-### **3.8 Example of Application \- Implications of Chemical and Energy Cycling for Enceladus’ Origin of Life and Long-Term Habitability** 
+### **2.3.8 Example of Application \- Implications of Chemical and Energy Cycling for Enceladus’ Origin of Life and Long-Term Habitability** 
 
 ![A black hole with a red point and a red arrow pointing at itDescription automatically generated][image38]
 
@@ -360,7 +360,7 @@ Oceans in icy worlds are expected to be rich in ammonia (NH<sub>3</sub>), ammoni
 * Chemical Energy Sources: Including hydrogen, methane, and silica nanograins.  
 * Hydrothermal Activity: Suggests ongoing geological activity and potential for supporting life.
 
-#### ***3.8.1 Enceladus’ Evolution and Current State***
+#### ***2.3.8a Enceladus’ Evolution and Current State***
 
 Enceladus has evolved through a combination of tidal heating and radiogenic decay, leading to the formation of a subsurface ocean beneath its icy crust. The presence of active geysers, detected by the Cassini spacecraft, indicates ongoing geological activity. Enceladus exhibits a dynamic system with active plumes ejecting water, organic molecules, and other materials from its subsurface ocean into space. This provides direct evidence of the internal processes at play.
 
@@ -373,11 +373,11 @@ Enceladus has evolved through a combination of tidal heating and radiogenic deca
 * CHNOPS Elements: Presence of essential elements for life.  
 * Salinity and pH: Data supports the inference of ocean pH and salinity.
 
-#### ***3.8.2 Ocean Age vs. Timescale for Origins of Life***
+#### ***2.3.8b Ocean Age vs. Timescale for Origins of Life***
 
 The age of Enceladus’ Ocean is a crucial factor in assessing its habitability. A younger ocean may still be in the process of acquiring the necessary conditions for life, while an older ocean might have had enough time to develop prebiotic chemistry or even life. The timescale required for the origin of life involves complex interactions between organic molecules, energy sources, and environmental conditions. Understanding the timing and sequence of these interactions is essential for evaluating Enceladus' potential to support life.
 
-#### ***3.8.3 Observables/Chemical Tracers:*** 
+#### ***2.3.8c Observables/Chemical Tracers:*** 
 
 The presence of carbon, hydrogen, nitrogen, oxygen, phosphorus, and sulfur is essential for life. Cassini data has confirmed the presence of several of these elements in Enceladus’ plumes. The pH of Enceladus’ ocean influences the solubility and availability of bioessential elements. Alkaline conditions, often resulting from serpentinization, can support certain types of prebiotic chemistry. Cassini’s observations have provided a wealth of information about Enceladus’ composition, including the detection of organic molecules, silica nanoparticles, and hydrogen gas – all of which are indicators of hydrothermal activity and potential habitability. 
 
