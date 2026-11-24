@@ -10,7 +10,7 @@ In this module, we will explore the foundational concepts of Europa's geological
 
 ## **Level 1: Foundational Concepts and Basic Information**
 
-### **1.1 Overview of Europa and Its Importance**
+### **5.1.1 Overview of Europa and Its Importance**
 
 Europa is one of Jupiter's four Galilean moons (Fig. 1), discovered along with Io, Ganymede, and Callisto in 1610. It wasn't until almost 400 years later that we were able to send a dedicated spacecraft mission to study these moons. Through the Galileo mission, which operated from 1995 to 2003, we gained an unprecedented view of these moons (Fig. 1), revealing their unique characteristics and potential for further exploration [(Showman & Malhotra, 1999)](https://www.science.org/doi/10.1126/science.286.5437.77). Among these moons, Europa stood out for its young surface (~100 Ma) and compelling evidence of a global subsurface ocean, making it a prime candidate in the search for life beyond Earth within our solar system [(Pappalardo et al., 2024)](https://link.springer.com/article/10.1007/s11214-024-01070-5).
 
@@ -30,7 +30,7 @@ Regions of disrupted ice, which appear jumbled and chaotic (Fig. 3), may form th
 
 **Figure 5.1.3.** Europa's surface is characterized by dynamic and bizarre geology, such as ridged plains and chaos terrain (Credit: NASA/JPL).
 
-### **1.2 REASON on Europa Clipper**
+### **5.1.2 REASON on Europa Clipper**
 
 The REASON ice-penetrating radar instrument on NASA's Europa Clipper mission will use VHF (60 MHz) and HF (9 MHz) frequencies to probe Europa's ice shell from the exosphere to the ice-ocean interface (Fig. 4). REASON operates by transmitting radio waves into the ice shell and recording energy reflected from interfaces defined by contrasts in dielectric properties [(Blankenship et al., 2024)](https://link.springer.com/article/10.1007/s11214-024-01072-3).
 
@@ -46,10 +46,10 @@ The REASON instrument will employ multiple measurement techniques including: Sou
 
 ## **Level 2: Detailed Exploration and Advanced Understanding**
 
-### **2.1 Scientific Investigations**
+### **5.2.1 Scientific Investigations**
 
 
-#### **_2.1.1 Shallow Water_**
+#### **_5.2.1a Shallow Water_**
 
 REASON will use Sounding, Reflectometry, and Altimetry measurements to characterize the distribution of any shallow subsurface water [(Blankenship et al., 2024)](https://link.springer.com/article/10.1007/s11214-024-01072-3). Radar sounding measurements can detect subglacial water bodies [(e.g., Young et al., 2016)](https://royalsocietypublishing.org/rsta/article/374/2059/20140297/115084/The-distribution-of-basal-water-between-Antarctic), including perched water bodies that may be trapped within the ice [(Culha et al., 2019)](https://www.sciencedirect.com/science/article/abs/pii/S0019103518304937). Reflectometry measurements will help identify areas where brines have been introduced near the surface [(e.g., Grima et al., 2016)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016GL069524), such as those hypothesized to be linked to chaos terrain formation [(Schmidt et al., 2011)](https://www.nature.com/articles/nature10608). Altimetry measurements will be used to evaluate whether interfaces detected by radar are in hydrostatic equilibrium, and are therefore consistent with the presence of liquid water [(e.g., Ewert et al., 2012](https://academic.oup.com/gji/article/191/2/557/642475); [Vaughan et al., 2007](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007GL030769)).
 
@@ -57,7 +57,7 @@ REASON will use Sounding, Reflectometry, and Altimetry measurements to character
 
 **Figure 5.2.1.** REASON will use Sounding, Reflectometry, and Altimetry measurements to characterize the distribution of any shallow subsurface water (Credit: NASA, UTIG).
 
-#### **_2.1.2 Ocean Search_**
+#### **_5.2.1b Ocean Search_**
 
 REASON will use Sounding and Altimetry measurements to search for an ice-ocean interface and characterize the ice shell's global thermophysical structure [(Blankenship et al., 2024)](https://link.springer.com/article/10.1007/s11214-024-01072-3). Through searching for an ice-ocean interface, we can confirm the existence of a global subsurface ocean and determine the thickness of the ice shell. This will involve resolving whether the ice shell is thin (i.e., only a few kilometers) or thick (tens of kilometers) (Fig. 7). Understanding how variable the ice shell thickness is, or the depth of the ice-ocean interface, can help us understand how ocean circulation and ice shell freezing and melting processes interact [(Soderlund et al., 2020)](https://link.springer.com/article/10.1007/s11214-020-00706-6). Depending on the ice thickness, temperature, and composition, the ice shell may undergo solid-state convection [(Barr & Showman, 2009)](https://www.semanticscholar.org/paper/Heat-Transfer-in-Europa%27s-Icy-Shell-Barr-Showman/2c9855fc5640771306a8c2751c374fa2a6e3cf93). We can use radar sounding observations of attenuation rate to look for temperature signatures that would indicate ice convection [(Kalousová et al., 2017)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016JE005110).
 
@@ -65,7 +65,7 @@ REASON will use Sounding and Altimetry measurements to search for an ice-ocean i
 
 **Figure 5.2.2.** REASON will use Sounding and Altimetry measurements to search for an ice-ocean interface and characterize the ice shell's global thermophysical structure (Credit: NASA/JPL, UTIG).
 
-#### **_2.1.3 Material Exchange_**
+#### **_5.2.1c Material Exchange_**
 
 REASON will use Sounding and Altimetry measurements to investigate the processes governing material exchange among the ocean, ice shell, surface, and exosphere (Fig. 8). By comparing the processes governing ice-ocean material exchange on Earth, such as those seen in subglacial Lake Vostok in Antarctica [(e.g., MacGregor et al., 2009)](https://www.sciencedirect.com/science/article/abs/pii/S0012821X09001629), researchers can infer similar processes on Europa [(Blankenship et al., 2009)](https://www.zotero.org/google-docs/?spbjG4). This helps in understanding how materials like salts and nutrients - and possibly life - could move between the ocean, ice shell, and surface on Europa.
 
@@ -73,7 +73,7 @@ REASON will use Sounding and Altimetry measurements to investigate the processes
 
 **Figure 5.2.3.** REASON will use Sounding and Altimetry measurements to investigate the processes governing material exchange among the ocean, ice shell, surface, and exosphere (Credit: UTIG; Lake Vostok radargram modified from Blankenship et al. [(2009)](https://meetingorganizer.copernicus.org/epsc2009/epsc2009-636.pdf).
 
-#### **_2.1.4 Gravitational Tides_**
+#### **_5.2.1d Gravitational Tides_**
 
 REASON will use Ranging measurements to constrain Europa's radial tidal deformations (Fig. 9). Measuring the amplitude of Europa's tides can provide clues about the internal structure of the moon, such as the presence of an ocean [(Wahr et al., 2006)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2006JE002729).
 
@@ -81,7 +81,7 @@ REASON will use Ranging measurements to constrain Europa's radial tidal deformat
 
 **Figure 5.2.4.** REASON will use Ranging measurements to constrain Europa's radial tidal deformations (Credit: NASA/JPL).
 
-### **2.2 Heritage from Earth and Mars**
+### **5.2.2 Heritage from Earth and Mars**
 
 Although REASON will be the first ice-penetrating radar to explore the outer solar system, it builds upon a rich heritage of radar investigations on Earth, the Moon, and Mars (Fig. 10, 11). Radar sounding of Mars' polar caps has been successful at multiple frequencies ([Croci et al., 2011](https://ieeexplore.ieee.org/document/5713217); [Orosei et al., 2015](https://www.sciencedirect.com/science/article/abs/pii/S0032063314002153)), demonstrating the capability of ice-penetrating radars as components of spacecraft payloads to probe and characterize unknown subsurface environments of other worlds.
 
@@ -95,7 +95,7 @@ Airborne radar sounding of floating ice on Earth (e.g., ice shelves, icebergs, s
 
 **Figure 5.2.6.** Radar investigations of Earth's cryosphere can inform interpretation of data collected by REASON at Europa [(Blankenship et al., 2024)](https://link.springer.com/article/10.1007/s11214-024-01072-3).
 
-### **2.3 Earth and Mars Analogs for REASON Measurements**
+### **5.2.3 Earth and Mars Analogs for REASON Measurements**
 
 Radar investigations of Earth and Mars can be used as analogs for Europa to validate REASON measurement techniques (Fig. 12). Altimetry and Sounding measurements over iceberg B15 demonstrate how shallow subsurface structure at Europa could be characterized through detection of multiple interfaces ([Peters et al., 2007](https://ieeexplore.ieee.org/document/4063308/)). Reflectometry measurements over McMurdo Ice Shelf, Antarctica, demonstrate how the roughness, porosity, and composition of Europa's near-surface could be constrained [(Grima et al., 2016)](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016GL069524). Techniques for estimating the total electron content of Mars' ionosphere can be applied to Europa to identify anomalies that could be associated with plume activity ([Grima et al., 2015](https://www.sciencedirect.com/science/article/abs/pii/S0032063315002470); [Scanlan et al., 2019](https://www.sciencedirect.com/science/article/abs/pii/S0032063319300820)).
 
@@ -103,7 +103,7 @@ Radar investigations of Earth and Mars can be used as analogs for Europa to vali
 
 **Figure 5.2.7.** Radar investigations of Earth and Mars can be used as analogs for Europa to validate REASON measurement techniques (Modified from Blankenship et al. [(2024)](https://link.springer.com/article/10.1007/s11214-024-01072-3).
 
-### **2.4 Ongoing Studies in Antarctica and the Arctic**
+### **5.2.4 Ongoing Studies in Antarctica and the Arctic**
 
 Current airborne radar studies at the University of Texas Institute for Geophysics (UTIG) (Fig. 13), such as those associated with the US National Science Foundation Center for Oldest Ice Exploration (NSF COLDEX) ([D. Young, Paden, et al., 2024](https://par.nsf.gov/biblio/10555277-coldex-open-polar-radar-marfa-airborne-radar-data); [D. Young, Singh, et al., 2024](https://par.nsf.gov/biblio/10608393-coldex-vhf-marfa-open-polar-radar-radargrams-subtitle); [D. A. Young et al., 2024](https://meetingorganizer.copernicus.org/EGU24/EGU24-12995.html)), and International Collaborative Exploration of the Cryosphere through Airborne Profiling (ICECAP) ([MacGregor et al., 2021](https://doi.org/10.1029/2020RG000712); [D. A. Young et al., 2011](https://www.nature.com/articles/nature10114), [2017](https://tc.copernicus.org/articles/11/1897/2017/)), focus on ice characterization using ice-penetrating radar in Antarctica and the Arctic. Techniques include using VHF antennas, helicopter radar, and gravity surveys to gather detailed ice data , which can be applied to understanding Europa's ice shell.
 
@@ -113,7 +113,7 @@ Current airborne radar studies at the University of Texas Institute for Geophysi
 
 ## **Level 3: Technical Insights and Case Studies**
 
-### **3.1 Europa's Ice Shell and Lessons from Ocean-Ice Interactions on Earth**
+### **5.3.1 Europa's Ice Shell and Lessons from Ocean-Ice Interactions on Earth**
 
 Europa's ice shell likely formed through freezing of the underlying ocean. Ice formed through the freezing of saline water has a non-zero bulk salinity due to the interstitial trapping of brine (Fig. 14). Understanding the formation and properties of sea ice on Earth, including data from ice cores, helps in modeling similar processes on Europa ([Buffo et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JE006394); [Wolfenbarger, et al., 2022](https://journals.sagepub.com/doi/10.1089/ast.2021.0044)).
 
@@ -137,11 +137,11 @@ Surveys over Earth ice shelves, including Filchner-Ronne and Amery Ice Shelf, sh
 
 **Figure 5.3.3.** Surveys over Earth ice shelves show that marine ice can be detected using ice-penetrating radar (Modified from Sandhäger et al. [(2004)](https://www.bas.ac.uk/data/our-data/publication/meteoric-marine-and-total-ice-thickness-maps-of-filchner-ronne-schelfeis-antarctica/) (left) and Thyssen [(1988)](https://articles.researchsolutions.com/special-aspects-of-the-central-part-of-filchner-ronne-ice-shelf-antarctica/doi/10.3189/s0260305500006509) (right)).
 
-### **3.2 Surface Features**
+### **5.3.2 Surface Features**
 
 The formation of Europa's surface features are thought to be controlled by cryospheric processes occurring in the subsurface.
 
-#### **_3.2.1 Chaos_**
+#### **_5.3.2a Chaos_**
 
 Hypotheses suggest that chaos terrains on Europa are formed through interactions between the subsurface ocean and/or the ice shell, causing melting and refreezing (Fig. 17).
 
@@ -155,7 +155,7 @@ Earth analogs, such as subglacial volcanic lakes in Iceland and brine-infiltrate
 
 **Figure 5.3.5.** A lens-collapse model of chaos formation is most compatible with the topography over chaos features (Modified from Schmidt et al. [(2011)](https://www.nature.com/articles/nature10608).
 
-#### **_3.2.2 Double Ridges_**
+#### **_5.3.2b Double Ridges_**
 
 Studies suggest that ridges on Europa could form through tectonic processes similar to those on Earth. Similar to chaos formation, the presence of liquid water is common to many of the ridge formation hypotheses (Fig. 19).
 
@@ -175,7 +175,7 @@ The recent discovery of a double ridge in Greenland's ice sheet supports that me
 
 **Figure 5.3.8.** A double ridge feature discovered in Greenland was used as an analog to study the process of double ridge formation at Europa (Modified from Culberg et al. ([2022](https://www.nature.com/articles/s41467-022-29458-3)))
 
-#### **_3.2.3 Bands_**
+#### **_5.3.2c Bands_**
 
 Bands are hypothesized to be locations where subduction-like processes occur on Europa, where a cold dense layer of surface ice is subsumed into a warmer, less dense layer of the ice shell (Fig. 22). This process is similar to tectonic activity on Earth and could have significant implications for Europa's geological activity and processes of surface-ice-ocean exchange.
 
@@ -183,7 +183,7 @@ Bands are hypothesized to be locations where subduction-like processes occur on 
 
 **Figure 5.3.9.** Evidence for a subduction-like process suggests a process analogous to Earth's plate tectonics may operate at Europa (Modified from Kattenhorn & Prockter ([2014](https://www.nature.com/articles/ngeo2245))).
 
-### **3.3 Salt Layers**
+### **5.3.3 Salt Layers**
 
 Many of the hypotheses proposed to explain the formation of Europa's surface features involve the presence of liquid water within the ice shell. Water reservoirs within the ice shell-whether generated through melting of the ice shell or through injection of ocean-water through basal fractures-will begin to freeze as they thermally equilibrate with the surrounding ice. As these reservoirs freeze, they undergo a process known as cryoconcentration where the water salinity increases as the volume of liquid water decreases upon ice formation (Fig. 23). The freezing process ultimately concludes with the formation of a layer (or layers) composed of a mixture of ice and hydrated salt minerals, known as salt layers ([Chivers et al., 2023](https://iopscience.iop.org/article/10.3847/PSJ/acea75); [Chivers et al., 2021](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JE006692); [Naseem et al., 2023](https://iopscience.iop.org/article/10.3847/PSJ/ace5a2); [Wolfenbarger et al., 2023](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL109144)). These salt layers represent radar-detectable structures within the ice shell that can serve as evidence of sites where liquid water was once present ([Wolfenbarger et al., 2023](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL109144)). Through radar characterization of these salt layers, it may be possible to distinguish whether these water reservoirs are sourced from ocean-injection or melting of the ice shell ([Wolfenbarger et al., 2023](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL109144)).
 
@@ -191,7 +191,7 @@ Many of the hypotheses proposed to explain the formation of Europa's surface fea
 
 **Figure 5.3.10.** Hypothesized water bodies within Europa's ice shell will evolve into salt layers as they freeze (Modified from Wolfenbarger et al. [(2023)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL109144)).
 
-### **3.4 Brine Pockets**
+### **5.3.4 Brine Pockets**
 
 Brine pockets are hypothesized to be present in the ice shell where temperatures exceed the eutectic temperature ([Wolfenbarger et al., 2022b](https://doi.org/10.1029/2022JE007305)). The interface associated with the transition from solid ice to ice containing brine has been referred to as a "eutectic interface" in the context of theoretical radar sounding studies applied to Europa ([Schroeder et al., 2024](https://doi.org/10.1029/2024GL110635)). Because the temperature at which brine becomes thermodynamically stable is well-constrained with knowledge of the composition of non-ice impurities ([Wolfenbarger et al., 2022b](https://doi.org/10.1029/2022JE007305)), the detection of a eutectic interface could be used to constrain the thickness of the thermally conductive portion of Europa's ice shell ([Schroeder et al., 2024](https://doi.org/10.1029/2024GL110635)). In addition to serving as a geophysical constraint, detection of brine in Europa's ice shell would be significant as a potential habitat to organisms that might inhabit the ice shell ([Wolfenbarger et al., 2022a](https://doi.org/10.1029/2022GL100586)). The meteoric-marine interface associated with the accretion of marine ice beneath ice shelves can be considered as an analog for a eutectic interface at Europa because it corresponds to a transition from solid ice to ice containing brine. Radar characterization of these meteoric-marine interfaces on Earth could guide the interpretation of eutectic interfaces detected at Europa (Fig. 24).
 
