@@ -73,13 +73,13 @@ The present focus of missions like *Europa Clipper* and *JUICE* is on confirming
 
 To understand the habitability of ocean worlds, it is essential to explore the detailed geological, chemical, and physical processes that sustain life. This includes studying volcanic processes, tectonic activity and hydrothermal systems on these worlds, as well as examining chemical interactions within their oceans. Additionally, the analysis of thermal gradients, ice shell dynamics, and internal heat sources provides critical insights into how these environments can maintain liquid water and support life.
 
-#### ***1.2.1.1 Geological Processes: Plate Tectonics***
+#### ***1.2.1a Geological Processes: Plate Tectonics***
 
 **Mechanisms and Importance:**
 
 Plate tectonics involve the movement of Earth's lithospheric plates over the asthenosphere, driven by mantle convection, slab pull, and ridge push forces. On Earth, this process is critical for recycling nutrients and gases through subduction zones and mid-ocean ridges.  Subduction zones are particularly important because they pull oceanic plates into the mantle, where they melt and release nutrients and volatiles back into the ocean and atmosphere via volcanic activity. This recycling process ensures a continuous supply of essential elements like carbon, nitrogen, and phosphorus, which are crucial for marine life.  Mid-ocean ridges, where new oceanic crust is formed, are sites of significant hydrothermal circulation and geochemical reactions that can sustain microbial metabolisms at the base of complex food-webs. While we cannot *require* that other ocean worlds should also host plate tectonics, isolated volcanism is well represented across the solar system – for example on Mars and Io \- and similarly “stand-alone” underwater volcanos on Earth host submarine venting that have been revealed, consistently, to host lush microbial communities.
 
-#### ***1.2.1.2 Chemical Processes: Carbonate-Silicate Cycle and Climate Feedback Loop***
+#### ***1.2.1b Chemical Processes: Carbonate-Silicate Cycle and Climate Feedback Loop***
 
 The carbonate-silicate cycle is a key geochemical process that regulates atmospheric CO<sub>2</sub>  levels and maintains Earth's long-term climate stability. It involves the weathering of silicate rocks, transport of dissolved ions to the ocean, formation of carbonate minerals, and subduction of these minerals into the mantle, where they can subsequently be returned to the atmosphere and ocean as CO<sub>2</sub>  released through volcanic eruptions (**Fig.2.1**).
 
@@ -105,7 +105,7 @@ Reaction 3: CaCO<sub>3</sub> \+ SiO<sub>2</sub> → CaSiO<sub>3</sub> \+ CO<sub>
 
 **Figure 1.2.2.** Climate Feedback: This cycle acts as a long-term thermostat for Earth's climate. When atmospheric CO<sub>2</sub> levels rise, weathering of silicate rocks accelerates, drawing down CO<sub>2</sub> and cooling the planet. Conversely, when CO<sub>2</sub> levels fall, weathering slows, allowing CO<sub>2</sub> to accumulate and warming the planet.
 
-#### ***1.2.1.3 Physical Processes: Mantle Redox State***
+#### ***1.2.1c Physical Processes: Mantle Redox State***
 
 **Influence on Volcanic Emissions:**
 
@@ -134,18 +134,18 @@ Reaction 3: CaCO<sub>3</sub> \+ SiO<sub>2</sub> → CaSiO<sub>3</sub> \+ CO<sub>
 ●      *Nutrient and Heat Distribution:* This circulation also redistributes nutrients and heat around the globe, impacting global climate and marine ecosystems. It helps regulate Earth’s climate by transporting warm water from the equator towards the poles and cold water from the poles towards the equator.  
 ●      *Research and Observations:* Oceanographic models and field studies provide insights into the dynamics of thermohaline circulation and its impact on ocean chemistry and biology.
 
-### **2.3 Microbial Life Adaptations and Environmental Conditions**
+### **1.2.3 Microbial Life Adaptations and Environmental Conditions**
 
 Microbial life on Earth has adapted to a wide range of extreme environments, from high/low pH to high/low pressures and temperatures. These adaptations include metabolisms like hydrogenotrophic methanogenesis, in which microorganisms reduce CO<sub>2</sub> and oxidize H<sub>2</sub> to produce CH<sub>4</sub>, and the opposite reaction, and anaerobic oxidation of methane (AOM), which allow microbes to thrive in conditions that seem inhospitable. Studying these mechanisms provides valuable analogs for understanding how life might survive on ocean worlds. The presence of chemical energy sources, such as those produced by serpentinization reactions, and the availability of liquid water are critical factors in sustaining life in these extreme environments.
 
-#### ***1.2.3.1 Mechanisms of Adaptation: Microbial Life in Extreme Environments***
+#### ***1.2.3a Mechanisms of Adaptation: Microbial Life in Extreme Environments***
 
 ●      **Adaptation Strategies:** Microbial life on Earth has developed various mechanisms to survive in extreme environments characterized by high/low pH, no light, high/low pressures, and temperatures and high dissolved salt contents (brines). These adaptations allow microbes to exploit niches that would otherwise be inhospitable.  
 ●      *Example 1:* Acidophiles thrive in highly acidic environments (pH \< 3\) by maintaining their internal pH near neutrality and using specialized enzymes and membrane structures. 
 
 ●      *Example 2:* Psychrophiles live in extremely cold environments (below 0°C) by producing antifreeze proteins and maintaining membrane fluidity.
 
-#### ***1.2.3.2 Water-Rock Reactions:***
+#### ***1.2.3b Water-Rock Reactions:***
 
 ![A close-up of a rockDescription automatically generated][image10]
 
@@ -161,13 +161,13 @@ Many types of potentially life-supporting water-rock reactions exist on Earth, a
 
 **Figure 1.2.6.**  Serpentinization occurs at mid-ocean ridges, subduction zones, and other tectonically active regions. The hydrogen produced can be utilized by hydrogenotrophic microbes, supporting chemosynthetic ecosystems in these environments.
 
-#### ***1.2.3.3  Energy Sources in Extreme Environments***
+#### ***1.2.3c  Energy Sources in Extreme Environments***
 
 ●      *Chemical Energy*: In environments where sunlight is not available, such as deep-sea hydrothermal vents, chemosynthetic organisms rely on chemical energy derived from inorganic compounds (see previous section). These organisms utilize processes like hydrogen oxidation, a high energy-yield reaction, to generate energy.  
 o   *Chemosynthesis*: Chemosynthetic bacteria and archaea convert inorganic molecules (e.g., hydrogen sulfide, hydrogen, nitrate, methane) into organic matter, forming the base of the food web in these ecosystems   
 o   *Example:* At hydrothermal vents, chemosynthetic microbes oxidize hydrogen sulfide (H<sub>2</sub>S) to obtain energy, supporting complex communities of organisms like tube worms, clams, and shrimp.  The following sections introduce two particularly important examples of metabolic pathways.
 
-#### ***1.2.3.4 Hydrogenotrophic Methanogenesis***
+#### ***1.2.3d Hydrogenotrophic Methanogenesis***
 
 ●      *Process:* This metabolic pathway involves the production of methane (CH<sub>4</sub>) by microbes that use hydrogen (H<sub>2</sub>) as an energy source, reacting it with carbon dioxide (CO<sub>2</sub>).               
 o   *Reaction:* 4 H<sub>2</sub> \+ CO<sub>2</sub> → CH<sub>4</sub> \+ 2 H<sub>2</sub>O.  
@@ -177,7 +177,7 @@ o   *Significance:* Hydrogenotrophic methanogenesis supports diverse microbial c
 
 **Figure 1.2.7.** A schematic illustration of hydrogenotrophic methanogenesis, projected onto a seafloor hydrothermal background (Apollo vent, Gorda Ridge, NE Pacific).
 
-#### ***1.2.3.5 Anaerobic Oxidation of Methane (AOM)***
+#### ***1.2.3e Anaerobic Oxidation of Methane (AOM)***
 
 ●      *Process:* AOM involves the microbial oxidation of methane in the absence of oxygen, typically using sulfate (SO<sub>4</sub>) as the electron acceptor. This process is crucial for controlling methane levels in anoxic environments.  
 ●   *Reaction:* CH<sub>4</sub> \+ SO<sub>4</sub><sup>2-</sup> → HCO<sub>3</sub> <sup>-</sup> \+ HS<sup>-</sup> \+ H<sub>2</sub>O.  
@@ -187,7 +187,7 @@ o   *Significance:* Hydrogenotrophic methanogenesis supports diverse microbial c
 
 **Figure 1.2.8.** A schematic illustration of the anaerobic oxidation of methane (AOM), projected onto a seafloor hydrothermal background (Apollo vent, Gorda Ridge, NE Pacific).
 
-#### ***1.2.3.6 Applying Earth-based knowledge to Ocean World exploration***
+#### ***1.2.3f Applying Earth-based knowledge to Ocean World exploration***
 
 Applying the concepts presented above to ocean worlds like Europa and Enceladus relies on an anticipation that similar water-rock reactions and chemosynthetic processes could provide the necessary energy and nutrients to sustain life in subsurface oceans beneath thick ice shells where the more common driver of life on Earth, photosynthesis, is precluded.
 
@@ -217,7 +217,7 @@ By exploring these detailed mechanisms of microbial adaptation and the availabil
 **Figure 1.3.2.** Microorganisms have developed various strategies to survive under extreme nutrient starvation. These strategies include scavenging for nutrients, substituting essential elements with alternatives, and storing nutrients in specialized structures. For instance, high-affinity transporters allow microbes to effectively uptake limited nutrients, sulfur-containing lipids can replace phosphorus in membrane structures, and polyphosphate granules can serve as phosphorus reserves​.
 
 
-#### ***1.3.2.1 Adaptations to Phosphorus Limitation***
+#### ***1.3.2a Adaptations to Phosphorus Limitation***
 
 Phosphorus (P) is a critical nutrient that often limits productivity in marine environments. 
 
@@ -231,13 +231,13 @@ Various adaptations have been observed in different regions:
 
 **Figure 1.3.4.** *Cuatro Ciénegas Basin (Chihuahuan Desert of Mexico):* Microbial mats exhibit ancient mechanisms for coping with severe nutrient stress, highlighting evolutionary strategies to thrive in nutrient-limited environments.
 
-#### ***1.3.2.2 Phosphorus Availability Beyond Earth***
+#### ***1.3.2b Phosphorus Availability Beyond Earth***
 
 ![A diagram of a graphDescription automatically generated with medium confidence][image19]
 
 **Figure 1.3.5.** The availability of phosphorus could also limit life beyond Earth. For example, the detection of phosphates originating from Enceladus’s ocean suggests that phosphorus, though scarce, could be available under certain conditions, potentially supporting life.
 
-#### ***1.3.2.3 Methane Clathrates and Habitability***
+#### ***1.3.2c Methane Clathrates and Habitability***
 
 ![A collage of different types of iceDescription automatically generated][image20]
 
